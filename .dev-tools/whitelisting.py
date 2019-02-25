@@ -33,7 +33,7 @@ class Settings:  # pylint: disable=too-few-public-methods
     # This variable will tell us the whitelist list we have to look at.
     #
     # Note: DO NOT TOUCH UNLESS YOU KNOW WHAT IT MEANS!
-    whitelist_permanent_list = "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"  # pylint: disable=line-too-long
+    whitelist_permanent_list = "https://raw.githubusercontent.com/spirillen/rpz-block-list/master/PULL_REQUESTS/whitelist.list"  # pylint: disable=line-too-long
 
     # This variable will tell us where we are looking for the Root Zone Database.
     #
