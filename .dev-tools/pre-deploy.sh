@@ -71,7 +71,8 @@ dos2unix ${input1}
 # Downloading of the whitelisting script
 # **************************************
 
-wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
+# This url return 404
+#wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
 
 # ************************************
 # Make sure all scripts are executable
