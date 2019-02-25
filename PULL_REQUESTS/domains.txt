@@ -4,3 +4,4 @@ google.com
 005.free-counter.co.uk
 006.free-counter.co.uk
 006.freecounters.co.uk
+00author.com
