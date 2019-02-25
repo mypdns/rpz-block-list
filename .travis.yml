@@ -1,0 +1,41 @@
+env:
+  global:
+    - secure: 
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: pdns@protonmail.com
+    - TRAVIS_REPO_SLUG: spirillen/rpz-block-list
+    - GIT_BRANCH: master
+    - TZ:       Europe/Copenhagen
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+  matrix:
+    - USE_NETWORK=true
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip3
+
+sudo: required
+
+addons:
+  apt:
+    packages:
+      - dos2unix
+
+install:
+  - pip3 install --upgrade pip
+  - pip3 install PyFunceble
+
+script:
+
+  - bash .dev-tools/pre-deploy.sh
+
+notifications:
+  email: false
