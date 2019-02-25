@@ -1,47 +1,32 @@
 env:
   global:
-    - secure: 
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: pdns@protonmail.com
-    - TRAVIS_REPO_SLUG: spirillen/rpz-block-list
-    - GIT_BRANCH: master
-    - TZ:       Europe/Copenhagen
-    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+  - secure: eFMHbELwxse2OpJdKDs1d26IFyC+fuNyOf5EBdz4P24bLwfjdQBKYMIGLW14lfcPNsFn+E0CP+WrZkOafeZu+jJGfarSg+NwD8fIe5/WekD7ae2v6CqUN9ebStoCA1zwu7QtOy3uE4W71S+PCJGRZC91+L6WVj2p21RLrTb4YuPYNAPtT0kOAWiLBmn/8heyQvvN07BLz3yFdB4tpk2x/ZISIuFcT9JfEkl3UO77MdX68chxAdpeG6e+PhTbogA5TdeINfebwPnyoyI6ZUJA4NE8s3yZC54CQ+p9VUqBB/WJdvWQGYkaGsTajev0e86/TdkYCWgEYubWxe0fh+9SsmnwS1JUJkH9vY30IfK0Tsz74y5YsfrIlPyH8e0yf/FGWjuxpAPbIokqt9ADrCQ9H5A9iKWUeQiAtnGfVWNqfOn3HHA/fPFFQG57bSOtwb2kqvv6VnuVifvS6M3IGxMqO7yb94D6CDI+dldgzRMrVpFdCSszRXEpWlz70mauNLFX5Eit364WePM30fOOmScXxzIg7dE9TdlCxJ2jlpeV+VjvCr8F3eVGgTlHVTejNVPGZes2nYsMvlQXBg6RlxQwxoYMS5o6v1QslrbUx23O9Xern3Emy3PZ6PqPuCm4InSW2fq+pllfUcFVlOEl39a5cKzSxNVBGU//1ueQut7RfdU=
+  - GIT_NAME: Travis CI
+  - GIT_EMAIL: pdns@protonmail.com
+  - TRAVIS_REPO_SLUG: spirillen/rpz-block-list
+  - GIT_BRANCH: master
+  - TZ: Europe/Copenhagen
+  - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+
   matrix:
-    - USE_NETWORK=true
-
+  - USE_NETWORK=true
 language: python
-
 python:
-  - "3.6"
-
+- '3.6'
 matrix:
   fast_finish: true
-
 cache:
-  - apt
-  - pip3
-
+- apt
+- pip3
 sudo: required
-
 addons:
   apt:
     packages:
-      - dos2unix
-
+    - dos2unix
 install:
-  - pip3 install --upgrade pip
-  - pip3 install PyFunceble
-
+- pip3 install --upgrade pip
+- pip3 install PyFunceble
 script:
-
-  - bash .dev-tools/pre-deploy.sh
-
+- bash .dev-tools/pre-deploy.sh
 notifications:
   email: false
-
-deploy:
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  on:
-    branch: master
