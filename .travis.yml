@@ -12,7 +12,7 @@ env:
   - USE_NETWORK=true
 language: python
 python:
-- '3.7'
+- '3.6'
 matrix:
   fast_finish: true
 cache:
