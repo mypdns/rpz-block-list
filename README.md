@@ -1,7 +1,6 @@
 # rpz-block-list
 
-<img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/badd-boyz-hosts.jpg" alt="Badd Boyz Hosts File to Protect Your Computer and Devices Against Bad Web Sites"/><img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/spacer.jpg"/>[![Build Status](https://travis-ci.org/spirillen/rpz-block-list.svg?branch=master)](https://travis-ci.org/spirillen/rpz-block-list)<img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/spacer.jpg"/>[![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/spirillen/rpz-block-list)<img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/spacer.jpg"/>
-
+<img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/badd-boyz-hosts.jpg" alt="Badd Boyz Hosts File to Protect Your Computer and Devices Against Bad Web Sites"/><img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/spacer.jpg"/><img alt="Travis (.org)" src="https://img.shields.io/travis/spirillen/rpz-block-list.svg?style=for-the-badge"><img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/spacer.jpg"/><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/spirillen/rpz-block-list.svg?color=limegreen&style=for-the-badge">
 A hosts file for use on any operating system to block bad domains out of your servers or devices.
 
 * Here's the [RAW hosts file](https://raw.githubusercontent.com/spirillen/rpz-block-list/master/hosts)
