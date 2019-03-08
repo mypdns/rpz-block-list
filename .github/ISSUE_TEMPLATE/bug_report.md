@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -29,7 +29,8 @@ Add any other context about the problem here.
 ### New Feature Submissions:
 
 1. [ ] Does your submission pass tests?
-2. [ ] Have you lint your code locally prior to submission?
+1. [ ] Have you lint your code locally prior to submission?
+1. [ ] Added ScreenDump for prove
 
 ### Changes to Core Features:
 

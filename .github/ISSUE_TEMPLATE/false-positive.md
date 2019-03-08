@@ -7,6 +7,9 @@ assignees: spirillen
 
 ---
 
+**Short Description**
+A clear and concise description of what you expected to happen.
+
 ### All Submissions:
 
 * [ ] Have you followed the guidelines in our Contributing document?
@@ -25,7 +28,7 @@ assignees: spirillen
 * [ ] Have you added an explanation of what your submission do and why you'd like us to include them?
 * [ ] Have you successfully ran tests with your changes locally?
 
-### For Team members only!!!!
+### Check List For Team members only!!!!
 * [ ] DNS RPZ
 * [ ] Whitelisted domain
 * [ ] Bind RPZ
