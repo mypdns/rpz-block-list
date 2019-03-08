@@ -9,6 +9,7 @@
 016ih.com
 2no.co
 alpha.telemetry.microsft.com
+b2rrns9dgbx56tf5kc.agency
 bmwforum.co
 eu.vortex-win.data.microsft.com
 fortnight.space
@@ -40,3 +41,4 @@ yip.su
 youshouldclick.us
 zzsyw.com
 githubstats.com
+xzipy.com
