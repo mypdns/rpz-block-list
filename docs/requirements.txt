@@ -1,0 +1,9 @@
+Sphinx>=1.8.5,!=1.8.0
+sphinx-jsondomain
+git+https://github.com/pieterlexis/sphinx-lua@pdns
+git+https://github.com/pieterlexis/sphinx-changelog@render-tags
+guzzle_sphinx_theme
+sphinxcontrib.httpdomain
+sphinxcontrib-fulltoc
+recommonmark
+
