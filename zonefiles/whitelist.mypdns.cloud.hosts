@@ -1,89 +1,116 @@
+$ttl 360
 whitelist.mypdns.cloud.	3600	IN	SOA	bind9-1.local.reck.dk. need.to.know.only. (
-			2019031318
+			2019031519
 			3600
 			60
 			432000
 			60 )
 whitelist.mypdns.cloud.	86400	IN	NS	bind9-1.local.reck.dk.
 whitelist.mypdns.cloud.	86400	IN	NS	bind9-2.local.reck.dk.
-s3.amazonaws.com 345600 CNAME rpz-passthru.
-atkexotics.com	345600	CNAME	rpz-passthru.
-githubusercontent.com	345600	CNAME	rpz-passthru.
-*.atkexotics.com 345600 CNAME rpz-passthru.
-atkpetites.com	345600 CNAME	rpz-passthru.
-*.atkpetites.com 345600 CNAME rpz-passthru.
-atkpremium.com	345600 CNAME	rpz-passthru.
-*.atkpremium.com 345600 CNAME rpz-passthru.
-level3.ssl.blizzard.com 345600	CNAME rpz-passthru.
-ccbill.com 345600 CNAME rpz-passthru.
-*.ccbill.com 345600 CNAME rpz-passthru.
-domai.com 345600 CNAME rpz-passthru.
-*.domai.com 345600 CNAME rpz-passthru.
-duckduckgo.com	345600 CNAME	rpz-passthru.
-eroticbeauty.com 345600 CNAME rpz-passthru.
-*.eroticbeauty.com 345600 CNAME rpz-passthru.
-errotica-archives.com 345600 CNAME rpz-passthru.
-*.errotica-archives.com 345600	CNAME rpz-passthru.
-erroticaarchives.com 345600 CNAME rpz-passthru.
-*.erroticaarchives.com	345600 CNAME	rpz-passthru.
-eternaldesire.com 345600 CNAME rpz-passthru.
-*.eternaldesire.com 345600 CNAME rpz-passthru.
-femjoy.com 345600 CNAME rpz-passthru.
-*.femjoy.com 345600 CNAME rpz-passthru.
-femjoynude.com	345600 CNAME	rpz-passthru.
-*.femjoynude.com 345600 CNAME rpz-passthru.
-fuckyoucash.com 345600	CNAME rpz-passthru.
-*.fuckyoucash.com 345600 CNAME rpz-passthru.
-yt3.ggpht.com 345600 CNAME rpz-passthru.
-github.com 345600 CNAME rpz-passthru.
-raw.github.com	345600 CNAME	rpz-passthru.
-raw.githubusercontent.com	345600	CNAME	rpz-passthru.
-google.com 345600 CNAME rpz-passthru.
-fonts.gstatic.com 345600 CNAME rpz-passthru.
-hegreart.com 345600 CNAME rpz-passthru.
-*.hegreart.com	345600 CNAME	rpz-passthru.
-ibm.com 345600	CNAME rpz-passthru.
-joymii.com 345600 CNAME rpz-passthru.
-*.joymii.com 345600 CNAME rpz-passthru.
-lesarchive.com	345600 CNAME	rpz-passthru.
-*.lesarchive.com 345600 CNAME rpz-passthru.
-metart.com 345600 CNAME rpz-passthru.
-*.metart.com 345600 CNAME rpz-passthru.
-metartfilms.com 345600	CNAME rpz-passthru.
-*.metartfilms.com 345600 CNAME rpz-passthru.
-metartnetwork.com 345600 CNAME rpz-passthru.
-*.metartnetwork.com 345600 CNAME rpz-passthru.
-metartx.com 345600 CNAME rpz-passthru.
-*.metartx.com 345600 CNAME rpz-passthru.
-nutabu.com 345600 CNAME rpz-passthru.
-*.nutabu.com 345600 CNAME rpz-passthru.
-pastebin.com 345600 CNAME rpz-passthru.
-rylskyart.com 345600 CNAME rpz-passthru.
-*.rylskyart.com 345600	CNAME rpz-passthru.
-sexart.com 345600 CNAME rpz-passthru.
-*.sexart.com 345600 CNAME rpz-passthru.
-stackoverflow.com 345600 CNAME rpz-passthru.
-teen-depot.com	345600 CNAME	rpz-passthru.
-*.teen-depot.com 345600 CNAME rpz-passthru.
-teendreams.com	345600 CNAME	rpz-passthru.
-*.teendreams.com 345600 CNAME rpz-passthru.
-thelifeerotic.com 345600 CNAME rpz-passthru.
-*.thelifeerotic.com 345600 CNAME rpz-passthru.
-vivthomas.com 345600 CNAME rpz-passthru.
-*.vivthomas.com 345600	CNAME rpz-passthru.
-wordpress.com 345600 CNAME rpz-passthru.
-x-art.com 345600 CNAME rpz-passthru.
-*.x-art.com 345600 CNAME rpz-passthru.
-youtube.com 345600 CNAME rpz-passthru.
-youtube-nocookie.com 345600 CNAME rpz-passthru.
-www.youtube-nocookie.com 345600 CNAME rpz-passthru.
-bitbucket.io 345600 CNAME rpz-passthru.
-p2.shared.global.fastly.net 345600 CNAME rpz-passthru.
-sourceforge.net 345600	CNAME rpz-passthru.
-bitbucket.org 345600 CNAME rpz-passthru.
-bytebucket.org	345600 CNAME	rpz-passthru.
-*.python.org 345600 CNAME rpz-passthru.
-*.pythonhosted.org 345600 CNAME rpz-passthru.
+
+*.atkexotics.com CNAME rpz-passthru.
+atkexotics.com	CNAME	rpz-passthru.
+*.atkpetites.com CNAME rpz-passthru.
+atkpetites.com	CNAME	rpz-passthru.
+*.atkpremium.com CNAME rpz-passthru.
+atkpremium.com	CNAME	rpz-passthru.
+bitbucket.io CNAME rpz-passthru.
+bitbucket.org CNAME rpz-passthru.
+bytebucket.org	CNAME	rpz-passthru.
+*.cash.femjoy.com CNAME rpz-passthru.
+cash.femjoy.com	CNAME rpz-passthru.
+ccbill.com CNAME rpz-passthru.
 cdn.teamskeetimages.com  CNAME rpz-passthru.
-www.youtube-nocookie.com  CNAME rpz-passthru.
+*.cdn.teamskeetimages.com CNAME rpz-passthru.
+cdn.teamskeetimages.com	CNAME rpz-passthru.
+domai.com CNAME rpz-passthru.
+duckduckgo.com	CNAME	rpz-passthru.
+eroticbeauty.com CNAME rpz-passthru.
+errotica-archives.com CNAME rpz-passthru.
+*.errotica-archives.com CNAME rpz-passthru.
+*.erroticaarchives.com	CNAME	rpz-passthru.
+eternaldesire.com CNAME rpz-passthru.
+femjoy.com CNAME rpz-passthru.
+*.femjoynude.com CNAME rpz-passthru.
+femjoynude.com	CNAME	rpz-passthru.
+fonts.gstatic.com CNAME rpz-passthru.
+*.fuckyoucash.com CNAME rpz-passthru.
+fuckyoucash.com CNAME rpz-passthru.
+github.com CNAME rpz-passthru.
+githubusercontent.com	CNAME	rpz-passthru.
+*.githubusercontent.com   CNAME rpz-passthru.
+githubusercontent.com	CNAME rpz-passthru.
+google.com CNAME rpz-passthru.
+*.gstatic.com	CNAME rpz-passthru.
+gstatic.com	CNAME rpz-passthru.
+hegreart.com CNAME rpz-passthru.
+*.hegreart.com	CNAME	rpz-passthru.
+ibm.com CNAME rpz-passthru.
+joymii.com CNAME rpz-passthru.
+*.launchpadlibrarian.net	CNAME rpz-passthru.
+launchpadlibrarian.net	CNAME rpz-passthru.
+*.lesarchive.com CNAME rpz-passthru.
+lesarchive.com	CNAME	rpz-passthru.
+level3.ssl.blizzard.com CNAME rpz-passthru.
+*.level3.ssl.blizzard.com CNAME rpz-passthru.
+level3.ssl.blizzard.com	CNAME rpz-passthru.
+metart.com CNAME rpz-passthru.
+*.metartfilms.com CNAME rpz-passthru.
+metartfilms.com CNAME rpz-passthru.
+metartnetwork.com CNAME rpz-passthru.
+metartx.com CNAME rpz-passthru.
+mypdns.org	CNAME rpz-passthru.
+*.mypdns.org	CNAME rpz-passthru.
+nutabu.com CNAME rpz-passthru.
+p2.shared.global.fastly.net CNAME rpz-passthru.
+*.p2.shared.global.fastly.net	CNAME rpz-passthru.
+p2.shared.global.fastly.net	CNAME rpz-passthru.
+pastebin.com CNAME rpz-passthru.
+*.pastebin.com    CNAME rpz-passthru.
+pastebin.com	CNAME rpz-passthru.
+*.pythonhosted.org CNAME rpz-passthru.
+*.python.org CNAME rpz-passthru.
+raw.github.com	CNAME	rpz-passthru.
+raw.githubusercontent.com	CNAME	rpz-passthru.
+readthedocs.org        CNAME rpz-passthru.
+rylskyart.com CNAME rpz-passthru.
+*.rylskyart.com CNAME rpz-passthru.
+s3.amazonaws.com CNAME rpz-passthru.
+*.s3.amazonaws.com        CNAME rpz-passthru.
+s3.amazonaws.com	CNAME rpz-passthru.
+sexart.com CNAME rpz-passthru.
+sourceforge.net CNAME rpz-passthru.
+*.sourceforge.net CNAME rpz-passthru.
+sourceforge.net	CNAME rpz-passthru.
+*.spamhaus.org                  IN CNAME rpz-passthru.
+spamhaus.org    IN      CNAME   rpz-passthru.
+stackoverflow.com CNAME rpz-passthru.
+*.stackoverflow.com       CNAME rpz-passthru.
+stackoverflow.com	CNAME rpz-passthru.
+*.s.ytimg.com     CNAME rpz-passthru.
+s.ytimg.com	CNAME rpz-passthru.
+*.teamskeetimages.com     CNAME rpz-passthru.
+teamskeetimages.com	CNAME rpz-passthru.
+*.teen-depot.com CNAME rpz-passthru.
+teen-depot.com	CNAME	rpz-passthru.
+*.teendreams.com CNAME rpz-passthru.
+teendreams.com	CNAME	rpz-passthru.
+thelifeerotic.com CNAME rpz-passthru.
+*.upload.wikimedia.org    CNAME rpz-passthru.
+upload.wikimedia.org	CNAME rpz-passthru.
+vivthomas.com CNAME rpz-passthru.
+*.vivthomas.com CNAME rpz-passthru.
+*.wikimedia.org   CNAME rpz-passthru.
+wikimedia.org	CNAME rpz-passthru.
+wordpress.com CNAME rpz-passthru.
+*.www.gstatic.com CNAME rpz-passthru.
+www.gstatic.com	CNAME rpz-passthru.
+www.youtube-nocookie.com CNAME rpz-passthru.
+www.youtube-nocookie.com  IN CNAME rpz-passthru.
+x-art.com CNAME rpz-passthru.
+youtube.com CNAME rpz-passthru.
+*.youtube.com     CNAME rpz-passthru.
+youtube.com	CNAME rpz-passthru.
+youtube-nocookie.com CNAME rpz-passthru.
 youtube-nocookie.com	CNAME rpz-passthru.
+yt3.ggpht.com CNAME rpz-passthru.
