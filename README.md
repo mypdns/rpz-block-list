@@ -1,5 +1,7 @@
 To read more about who mypdns.org is please have a look at [Our domains and why they are protected....](https://github.com/orgs/mypdns/teams/my-online-privacy/discussions/1)
 
+The documention for [rpz-block-list](https://rpz-block-list.readthedocs.io/en/latest/) on readhthedocs.io
+
 # rpz-block-list
 
 <img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/badd-boyz-hosts.jpg" alt="Badd Boyz Hosts File to Protect Your Computer and Devices Against Bad Web Sites"/><img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/spacer.jpg"/><img alt="Travis (.org)" src="https://img.shields.io/travis/spirillen/rpz-block-list.svg?style=for-the-badge"><img src="https://github.com/spirillen/rpz-block-list/blob/master/.assets/spacer.jpg"/><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/spirillen/rpz-block-list.svg?color=limegreen&style=for-the-badge">
