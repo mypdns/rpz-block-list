@@ -104,7 +104,7 @@ rm ${inputdbA}
 
 echo ${start1} >> ${tmphostsB}
 for line in $(cat ${input1}); do
-printf "0.0.0.0 ${line}\n" >> ${tmphostsB}
+printf "${line}\n" >> ${tmphostsB}
 done
 echo ${end1}  >> ${tmphostsB}
 mv ${tmphostsB} ${inputdb1}
