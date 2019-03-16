@@ -17,7 +17,7 @@ A clear and concise description of what you expected to happen.
 example.org.rpz-nsdname  CNAME   rpz-passthru.
 *.example.org.rpz-nsdname  CNAME   rpz-passthru.
 ```
-(Replace `example.org` with the real domain name of the server you think we should be blocking
+<!-- Replace `example.org` with the real domain name of the server you think we should be blocking -->
 
 ### All Submissions:
 
