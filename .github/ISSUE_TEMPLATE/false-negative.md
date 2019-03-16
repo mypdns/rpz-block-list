@@ -3,12 +3,19 @@ name: False Negative
 about: The right form to report False Positives (Domain should have been blocked)
 title: 'False Negative: '
 labels: False Negative
-assignees: ''
+assignees: spirillen
 
 ---
 
 **Short Description**
 A clear and concise description of what you expected to happen.
+
+```
+example.org  CNAME   .
+*.example.org  CNAME   .
+```
+(Replace example.org with actual domain to block with NXDOMIN)
+
 
 ### All Submissions:
 

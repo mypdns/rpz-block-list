@@ -10,6 +10,12 @@ assignees: spirillen
 **Short Description**
 A clear and concise description of what you expected to happen.
 
+```
+example.org  CNAME   rpz-passthru.
+*.example.org  CNAME   rpz-passthru.
+```
+(Replace example.org with actual domain to un-block)
+
 ### All Submissions:
 
 * [ ] Have you followed the guidelines in our Contributing document?
