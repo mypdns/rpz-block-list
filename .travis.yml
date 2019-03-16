@@ -36,3 +36,8 @@ notifications:
     on_success: change # default: always
     on_failure: always # default: always
   email: false
+  slack:
+    rooms:
+      - secure: ""
+    on_success: never
+    on_failure: always
