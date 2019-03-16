@@ -28,5 +28,11 @@ install:
 - pip3 install PyFunceble
 script:
 - bash .dev-tools/pre-deploy.sh
+
 notifications:
+  irc:
+    channels:
+      - "chat.ofyc.net#mypdns"
+    on_success: change # default: always
+    on_failure: always # default: always
   email: false
