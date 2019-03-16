@@ -1,7 +1,8 @@
 Start
 =====
 
-# Welcome to www.mypdns.org
+Welcome to www.mypdns.org
+=========================
 
 You have probably been wondering why we are hiding who own's our domains used to run and maintain the RPZ zones.
 
@@ -12,7 +13,8 @@ Some of these domain are applied by law other by companies like Sony and interes
 
 Another reason we are here is because it's bad for the free democracy that commercial companies and governments tracking all of you're activities on all kind of devices with internet access, YES even your TV and Radio collect data about you.
 
-### Our domains:
+Our domains:
+^^^^^^^^^^^^
 - matrix.rocks
 - mypdns.cloud
 - mypdns.com
@@ -34,7 +36,9 @@ Registrar Abuse Contact Phone:
 Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
 ```
 
-## The WHOIS
+The WHOIS
+^^^^^^^^^
+
 ```
 Domain Name: mypdns.cloud
 Registry Domain ID: D92572D3CC69F46EC9EE510B585D4B0A5-NSR
