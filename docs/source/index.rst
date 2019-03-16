@@ -21,53 +21,57 @@ Our domains:
 - mypdns.org
 
 A simple whois mypdns.cloud you'll get:
-```
-Domain Name: mypdns.cloud
-Registry Domain ID: D92572D3CC69F46EC9EE510B585D4B0A5-NSR
-Registrar WHOIS Server: whois.namesilo.com
-Registrar URL: www.namesilo.com
-Updated Date: 2019-01-03T02:09:55Z
-Creation Date: 2018-10-04T18:33:11Z
-Registry Expiry Date: 2028-10-04T18:33:11Z
-Registrar: NameSilo, LLC
-Registrar IANA ID: 1479
-Registrar Abuse Contact Email:
-Registrar Abuse Contact Phone:
-Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
-```
+.. code-block::
+
+
+	Domain Name: mypdns.cloud
+	Registry Domain ID: D92572D3CC69F46EC9EE510B585D4B0A5-NSR
+	Registrar WHOIS Server: whois.namesilo.com
+	Registrar URL: www.namesilo.com
+	Updated Date: 2019-01-03T02:09:55Z
+	Creation Date: 2018-10-04T18:33:11Z
+	Registry Expiry Date: 2028-10-04T18:33:11Z
+	Registrar: NameSilo, LLC
+	Registrar IANA ID: 1479
+	Registrar Abuse Contact Email:
+	Registrar Abuse Contact Phone:
+	Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
 
 The WHOIS
 ^^^^^^^^^
 
-```
-Domain Name: mypdns.cloud
-Registry Domain ID: D92572D3CC69F46EC9EE510B585D4B0A5-NSR
-Registrar WHOIS Server: whois.namesilo.com
-Registrar URL: www.namesilo.com
-Updated Date: 2019-01-03T02:09:55Z
-Creation Date: 2018-10-04T18:33:11Z
-Registry Expiry Date: 2028-10-04T18:33:11Z
-Registrar: NameSilo, LLC
-Registrar IANA ID: 1479
-Registrar Abuse Contact Email: https://www.mypdns.org/trac/newticket?summary=Please%20write%20%20short%20subject&reporter=your@email.tld&owner=admin&milestone=0&verion=0&priority=minor&component=contact&type=task&severity=mild&description=Long%20description%20of%20your%20question
-Registrar Abuse Contact Phone: https://www.mypdns.org/trac/newticket?summary=Please%20write%20%20short%20subject&reporter=your@email.tld&owner=admin&milestone=0&verion=0&priority=minor&component=contact&type=task&severity=mild&description=Long%20description%20of%20your%20question
-Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
-Registry Registrant ID:
-Registrant Name: My Private DNS
-Registrant Organization: My Private DNS
-Registrant Street:
-Registrant Street:
-Registrant Street:
-Registrant City:
-Registrant State/Province: N/A
-Registrant Postal Code:
-Registrant Country: N/A
-Registrant Phone:
-Registrant Phone Ext:
-Registrant Fax:
-Registrant Fax Ext:
-Registrant Email: https://www.mypdns.org/trac/newticket?summary=Please%20write%20%20short%20subject&reporter=your@email.tld&owner=admin&milestone=0&verion=0&priority=minor&component=contact&type=task&severity=mild&description=Long%20description%20of%20your%20question
-```
+.. code-block::
+
+
+	Domain Name: mypdns.cloud
+	Registry Domain ID: D92572D3CC69F46EC9EE510B585D4B0A5-NSR
+	Registrar WHOIS Server: whois.namesilo.com
+	Registrar URL: www.namesilo.com
+	Updated Date: 2019-01-03T02:09:55Z
+	Creation Date: 2018-10-04T18:33:11Z
+	Registry Expiry Date: 2028-10-04T18:33:11Z
+	Registrar: NameSilo, LLC
+	Registrar IANA ID: 1479
+	Registrar Abuse Contact Email: https://www.mypdns.org/trac/newticket?summary=Please%20write%20%20short%20subject&reporter=your@email.tld&owner=admin&milestone=0&verion=0&priority=minor&component=contact&type=task&severity=mild&description=Long%20description%20of%20your%20question
+	Registrar Abuse Contact Phone: https://www.mypdns.org/trac/newticket?summary=Please%20write%20%20short%20subject&reporter=your@email.tld&owner=admin&milestone=0&verion=0&priority=minor&component=contact&type=task&severity=mild&description=Long%20description%20of%20your%20question
+	Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+	Registry Registrant ID:
+	Registrant Name: My Private DNS
+	Registrant Organization: My Private DNS
+	Registrant Street:
+	Registrant Street:
+	Registrant Street:
+	Registrant City:
+	Registrant State/Province: N/A
+	Registrant Postal Code:
+	Registrant Country: N/A
+	Registrant Phone:
+	Registrant Phone Ext:
+	Registrant Fax:
+	Registrant Fax Ext:
+	Registrant Email: https://www.mypdns.org/trac/newticket?summary=Please%20write%20%20short%20subject&reporter=your@email.tld&owner=admin&milestone=0&verion=0&priority=minor&component=contact&type=task&severity=mild&description=Long%20description%20of%20your%20question
+
 
 Hopefully some usefull documentation for our RPZ zones and howto's
 
