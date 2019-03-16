@@ -1,8 +1,9 @@
 ---
-name: False Negative
-about: The right form to report False Positives (Domain should have been blocked)
-title: 'False Negative: '
-labels: False Negative
+name: UN-Blog a DNS Service
+about: To get a DNS server unblocked you should be as luckyas wimming all loteries
+  out there, if first added, it almost certain that it stays
+title: UN-Block DNS Servers
+labels: ''
 assignees: spirillen
 
 ---
@@ -10,12 +11,13 @@ assignees: spirillen
 **Short Description**
 A clear and concise description of what you expected to happen.
 
-```
-example.org  CNAME   .
-*.example.org  CNAME   .
-```
-(Replace example.org with actual domain to block with NXDOMIN)
+**Warning this requires more than one safe domain**
 
+```
+example.org.rpz-nsdname  CNAME   rpz-passthru.
+*.example.org.rpz-nsdname  CNAME   rpz-passthru.
+```
+(Replace `example.org` with the real domain name of the server you think we should be blocking
 
 ### All Submissions:
 
@@ -28,7 +30,7 @@ example.org  CNAME   .
 
 1. [ ] Does your submission pass tests?
 1. [ ] Have you lint your code locally prior to submission?
-1. [ ] Added ScreenDump for prove of False Positive
+1. [ ] Added ScreenDump for profe of False Positive
 
 ### Changes to Core Features:
 
@@ -37,5 +39,4 @@ example.org  CNAME   .
 
 ### Check list For Team members only!!!!
 * [ ] DNS RPZ
-* [ ] Blacklisted domain
 * [ ] Bind RPZ

@@ -1,8 +1,9 @@
 ---
-name: False Negative
-about: The right form to report False Positives (Domain should have been blocked)
-title: 'False Negative: '
-labels: False Negative
+name: Blog DNS Server
+about: If you think there is a **VERY** good reason to block an entire DNS server
+  or DNS Server farm
+title: 'Block DNS server: '
+labels: DNS server blocking
 assignees: spirillen
 
 ---
@@ -11,12 +12,10 @@ assignees: spirillen
 A clear and concise description of what you expected to happen.
 
 ```
-example.org  CNAME   .
-*.example.org  CNAME   .
+example.org.rpz-nsdname  CNAME   .
+*.example.org.rpz-nsdname  CNAME   .
 ```
-(Replace example.org with actual domain to block with NXDOMIN)
-
-
+(Replace `example.org` with the real domain name of the server you think we should be blocking
 ### All Submissions:
 
 * [ ] Have you followed the guidelines in our Contributing document?
@@ -28,7 +27,7 @@ example.org  CNAME   .
 
 1. [ ] Does your submission pass tests?
 1. [ ] Have you lint your code locally prior to submission?
-1. [ ] Added ScreenDump for prove of False Positive
+1. [ ] Added ScreenDump for profe of False Positive
 
 ### Changes to Core Features:
 
