@@ -1,5 +1,5 @@
 # shallalist
-Shalla's Blacklists is a collection of URL lists grouped into several categories intended for the usage with URL filters like [SquidGuard](http://www.squidguard.org/) or [Dansguardian](http://www.dansguardian.org/). But the usage is not limited to this. Some people use the lists to include them (that is parts of them) into their [Squid](http://www.squid-cache.org/) installation without using a redirector or other webfilters or use them for their [IPCop](http://ipcop.org/) or [IPFire](http://www.ipfire.org/) installation.
+Shalla's Blacklists is a collection of URL lists grouped into several categories intended for the usage with URL filters like [SquidGuard](http://www.squidguard.org/) or [~Dansguardian~](http://www.dansguardian.org/). But the usage is not limited to this. Some people use the lists to include them (that is parts of them) into their [Squid](http://www.squid-cache.org/) installation without using a redirector or other webfilters or use them for their [~~IPCop~~](http://ipcop.org/) or [IPFire](http://www.ipfire.org/) installation.
 
 Right now the lists has jumped over 1.7 million entries. Once a night the lists are packed and transferred on this server for download. Please don't fetch the lists more than once a day - there is simply no benefit in this. Excessive downloads will be blocked.
 
