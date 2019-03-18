@@ -37,7 +37,7 @@ install:
 script:
 - bash .dev-tools/pre-deploy.sh
 - bash .dev-tools/generate-hosts.sh
-- bash .dev-tools/final.commit.sh
+- bash .dev-tools/final-commit.sh
 
 notifications:
   irc:
