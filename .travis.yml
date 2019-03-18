@@ -8,35 +8,31 @@ env:
   - TZ: Europe/Copenhagen
   - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
-  matrix:
-  - USE_NETWORK=true
-
 language: python
 
 python:
-- '3.6'
+  - "3.6"
 
 matrix:
   fast_finish: true
 
 cache:
-- apt
-- pip3
+  - pip
 
 sudo: required
 
 addons:
   apt:
     packages:
-    - dos2unix
+      - dos2unix
 
 install:
-- pip3 install --upgrade pip
-- pip3 install PyFunceble
+  - pip3 install --upgrade pip
+  - pip3 install PyFunceble ultimate-hosts-blacklist-whitelist
 
 script:
-- bash .dev-tools/pre-deploy.sh
-- bash .dev-tools/generate-hosts.sh
+
+  - bash .dev-tools/pre-deploy.sh
 
 
 notifications:
