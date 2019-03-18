@@ -42,7 +42,7 @@ script:
 notifications:
   irc:
     channels:
-      - "chat.ofyc.net#mypdns"
+      - "chat.oftc.net#mypdns"
     on_success: change # default: always
     on_failure: always # default: always
   email: false
