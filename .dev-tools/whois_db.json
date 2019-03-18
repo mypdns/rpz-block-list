@@ -3990,6 +3990,11 @@
             "expiration_date": "03-oct-2019",
             "state": "future"
         },
+        "angolotesti.it": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
         "anhangueraeducacional.com": {
             "epoch": "1536357600",
             "expiration_date": "08-sep-2018",
@@ -12675,6 +12680,11 @@
             "expiration_date": "02-jan-2019",
             "state": "future"
         },
+        "federicksofhollywood.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
         "feel-planet.com": {
             "epoch": "1556316000",
             "expiration_date": "27-apr-2019",
@@ -12783,6 +12793,11 @@
         "femdomstrapon.us": {
             "epoch": "1567980000",
             "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "femeedia.com": {
+            "epoch": "1571263200",
+            "expiration_date": "17-oct-2019",
             "state": "future"
         },
         "femexbaile.com": {
@@ -13040,6 +13055,11 @@
             "expiration_date": "01-apr-2019",
             "state": "future"
         },
+        "filefortune.com": {
+            "epoch": "1583967600",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
         "fileoz.com": {
             "epoch": "1570572000",
             "expiration_date": "09-oct-2019",
@@ -13085,9 +13105,24 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "findit-quick.com": {
+            "epoch": "1584054000",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "firstconsumers.com": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
         "firsturl.net": {
             "epoch": "1558562400",
             "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "fixcleaner.com": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
             "state": "future"
         },
         "fkdup.com": {
@@ -13095,9 +13130,19 @@
             "expiration_date": "23-apr-2019",
             "state": "future"
         },
+        "flashcasino.com": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
         "flooringinstallation-edmonton.com": {
             "epoch": "1575241200",
             "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "flowtec.com.br": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
             "state": "future"
         },
         "flq.us": {
@@ -13110,9 +13155,24 @@
             "expiration_date": "05-oct-2019",
             "state": "future"
         },
+        "fmcurling.org": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
         "foldurl.com": {
             "epoch": "1561500000",
             "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "foreclousure.com": {
+            "epoch": "1602367200",
+            "expiration_date": "11-oct-2020",
+            "state": "future"
+        },
+        "foreclousures.com": {
+            "epoch": "1601157600",
+            "expiration_date": "27-sep-2020",
             "state": "future"
         },
         "forexshare.net": {
@@ -13123,6 +13183,21 @@
         "forexurls.net": {
             "epoch": "1581375600",
             "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "formessengers.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "fpcclicks.com": {
+            "epoch": "1624485600",
+            "expiration_date": "24-jun-2021",
+            "state": "future"
+        },
+        "fqtag.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
             "state": "future"
         },
         "frauen-nackt.biz": {
@@ -13415,10 +13490,20 @@
             "expiration_date": "10-oct-2019",
             "state": "future"
         },
+        "freebiesms.co.uk": {
+            "epoch": "1629756000",
+            "expiration_date": "24-aug-2021",
+            "state": "future"
+        },
         "freebigtits.biz": {
             "epoch": "1538431200",
             "expiration_date": "02-oct-2018",
             "state": "past"
+        },
+        "freebitmoney.com": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
         },
         "freebrowser.info": {
             "epoch": "1572472800",
@@ -13600,6 +13685,11 @@
             "expiration_date": "30-nov-2018",
             "state": "future"
         },
+        "freenew.net": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
         "freenode.info": {
             "epoch": "1544047200",
             "expiration_date": "06-dec-2018",
@@ -13715,9 +13805,19 @@
             "expiration_date": "20-dec-2018",
             "state": "future"
         },
+        "freeserials.ws": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
         "freesms.pl": {
             "epoch": "1571436000",
             "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "freewebtown.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "fresh-links.com": {
@@ -13773,6 +13873,11 @@
         "friend-xxx.com": {
             "epoch": "1545084000",
             "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "friendlyduck.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
             "state": "future"
         },
         "friendsofchildren.net": {
@@ -13853,6 +13958,16 @@
         "frs7.com": {
             "epoch": "1547848800",
             "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "frtya.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "frtyb.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
             "state": "future"
         },
         "fsalas.com": {
@@ -14109,6 +14224,11 @@
             "epoch": "1533852000",
             "expiration_date": "10-aug-2018",
             "state": "past"
+        },
+        "full-edition.info": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
         },
         "fun-xxx.com": {
             "epoch": "1569189600",
