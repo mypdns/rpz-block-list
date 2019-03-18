@@ -65,6 +65,8 @@ sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}
 
 sort -u ${input1} -o ${input1}
 
+wc -l < ${input1}
+
 # *****************
 # Activate Dos2Unix
 # *****************
