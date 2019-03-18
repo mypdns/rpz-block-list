@@ -4760,6 +4760,11 @@
             "expiration_date": "04-jan-2019",
             "state": "future"
         },
+        "avis.cm": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
         "avitocars.ru": {
             "epoch": "1574546400",
             "expiration_date": "24-nov-2019",
@@ -7823,6 +7828,11 @@
         "cnbnews.com": {
             "epoch": "1647385200",
             "expiration_date": "16-mar-2022",
+            "state": "future"
+        },
+        "cnn.cm": {
+            "epoch": "1585436400",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "cnnnew.com": {
