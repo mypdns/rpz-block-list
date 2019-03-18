@@ -10,29 +10,39 @@ env:
 
   matrix:
   - USE_NETWORK=true
+
 language: python
+
 python:
 - '3.6'
+
 matrix:
   fast_finish: true
+
 cache:
 - apt
 - pip3
+
 sudo: required
+
 addons:
   apt:
     packages:
     - dos2unix
+
 install:
 - pip3 install --upgrade pip
 - pip3 install PyFunceble
+
 script:
 - bash .dev-tools/pre-deploy.sh
+- bash .dev-tools/generate-hosts.sh
+- bash .dev-tools/final-commit.sh
 
 notifications:
   irc:
     channels:
-      - "chat.ofyc.net#mypdns"
+      - "chat.oftc.net#mypdns"
     on_success: change # default: always
     on_failure: always # default: always
   email: false
