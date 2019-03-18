@@ -8,6 +8,9 @@ env:
   - TZ: Europe/Copenhagen
   - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
+before_install:
+  - sudo apt-get install -y wget curl
+
 language: python
 
 python:
