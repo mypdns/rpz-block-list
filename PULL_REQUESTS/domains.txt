@@ -2,8 +2,6 @@
 005.free-counter.co.uk
 006.free-counter.co.uk
 006.freecounters.co.uk
-amazonco.uk
-myishop.co.uk
 00author.com
 012br.com
 013sv.com
@@ -55,6 +53,7 @@ admy.link
 ad.vu
 aflinker.com
 alpha.telemetry.microsft.com
+amazonco.uk
 amzn.com
 amzn.to
 appz.by
@@ -290,6 +289,7 @@ mrte.ch
 murl.kz
 mwur.in
 mygeek.ws
+myishop.co.uk
 myooo.info
 myref.to
 mytinyurl.net
