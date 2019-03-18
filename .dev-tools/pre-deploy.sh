@@ -47,9 +47,7 @@ sudo touch ${TRAVIS_BUILD_DIR}/.dev-tools/temp_combined-list.txt
 # Setup input bots and referer lists
 # **********************************
 
-export WGET=`(which wget)`
-export CURL=`(which curl)`
-${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts" | cut -d ' ' -f 2 | sort -u >> ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+wget -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts" | cut -d ' ' -f 2 | sort -u >> ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 
@@ -64,8 +62,6 @@ sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}
 # **************************************************************************
 
 sort -u ${input1} -o ${input1}
-
-wc -l < ${input1}
 
 # *****************
 # Activate Dos2Unix
