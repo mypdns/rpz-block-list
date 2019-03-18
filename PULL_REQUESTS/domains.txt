@@ -17,6 +17,20 @@
 0rz.tw
 1001movies.com
 101malls.com
+ads-game-187f4.firebaseapp.com
+ALL .aircanada.ca
+ALL .glassboxdigital.io
+ALL .glassboxdigital.io
+ALL .glassboxdigital.com
+ALL .hotels.com
+ALL .aisinsurance.com
+ALL .usaa.com
+ALL .bex.com
+api3.siftscience.com
+notify.bugsnag.com
+graph.facebook.com
+ALL .mparticle.com
+ALL .xzipy.com
 105vibe.com
 11163221-517901.c.adprotect.net
 11164531-19021001.c2.adprotect.net
