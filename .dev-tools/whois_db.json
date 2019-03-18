@@ -34785,6 +34785,11 @@
             "expiration_date": "21-nov-2019",
             "state": "future"
         },
+        "wwenews.us": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
         "wwwallegro.pl": {
             "epoch": "1557784800",
             "expiration_date": "14-may-2019",
@@ -34935,6 +34940,11 @@
             "expiration_date": "13-may-2020",
             "state": "future"
         },
+        "xci.us": {
+            "epoch": "1582671600",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
         "xclassix.com": {
             "epoch": "1536271200",
             "expiration_date": "07-sep-2018",
@@ -34953,6 +34963,11 @@
         "xcs.me": {
             "epoch": "1557525600",
             "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "xda-developers.us": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
             "state": "future"
         },
         "xdose.com": {
@@ -35673,6 +35688,11 @@
         "yourwifeonline.com": {
             "epoch": "1571263200",
             "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "youshouldclick.us": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
             "state": "future"
         },
         "youth-in-asia.com": {
