@@ -1699,7 +1699,18 @@
             "disable-uac.com",
             "forex-instruments.info",
             "ftp.flyfishusa.com",
-            "finders.hopto.org"
+            "finders.hopto.org",
+            ".aircanada.ca",
+            ".aisinsurance.com",
+            ".bex.com",
+            ".glassboxdigital.com",
+            ".glassboxdigital.io",
+            ".hotels.com",
+            ".mparticle.com",
+            ".usaa.com",
+            ".xzipy.com",
+            "doda.redirectme.net",
+            "fecabook.redirectme.net"
         ],
         "to_test": []
     }

@@ -17,20 +17,6 @@
 0rz.tw
 1001movies.com
 101malls.com
-ads-game-187f4.firebaseapp.com
-ALL .aircanada.ca
-ALL .glassboxdigital.io
-ALL .glassboxdigital.io
-ALL .glassboxdigital.com
-ALL .hotels.com
-ALL .aisinsurance.com
-ALL .usaa.com
-ALL .bex.com
-api3.siftscience.com
-notify.bugsnag.com
-graph.facebook.com
-ALL .mparticle.com
-ALL .xzipy.com
 105vibe.com
 11163221-517901.c.adprotect.net
 11164531-19021001.c2.adprotect.net
@@ -157,6 +143,7 @@ adserve.cpmba.se
 adserver.adtech.de
 adserver.alt.com
 adserver.online-tech.com
+ads-game-187f4.firebaseapp.com
 ad.slutload.com
 ads.lzjl.com
 adson.awempire.com
@@ -198,8 +185,17 @@ alaksaair.com
 alaskaaair.com
 albiondrugs.com
 alibabaslots.com
+ALL .aircanada.ca
+ALL .aisinsurance.com
+ALL .bex.com
 allfet.info
+ALL .glassboxdigital.com
+ALL .glassboxdigital.io
+ALL .hotels.com
 all-internet-security.com
+ALL .mparticle.com
+ALL .usaa.com
+ALL .xzipy.com
 alwrig84.gamed.hop.clickbank.net
 amare.softwaregarden.com
 amazing-offers.co.il
@@ -231,6 +227,7 @@ anticlown.com
 antispyware.onlinedownloads.org
 anycracks.com
 anzanish.tripod.com
+api3.siftscience.com
 api.conduit.com
 applets.sulekha.com
 app.pho8.com
@@ -815,6 +812,7 @@ gowin7.com
 gpri.me
 grabfile.co
 grabify.link
+graph.facebook.com
 graphics.streamray.com
 gratisweb.com
 green.erne.co
@@ -1238,6 +1236,7 @@ nkgamers.com
 nl.mediaplayercodecpack.com
 nmapquest.com
 noredirecto.redirectme.net
+notify.bugsnag.com
 notrecommended.co.uk
 nourteenthp.angelcities.com
 nryb.com
