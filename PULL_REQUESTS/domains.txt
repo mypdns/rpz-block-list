@@ -24,7 +24,6 @@
 11hour.com
 11.lamarianella.info
 11zz.com
-analytics.ff.avast.com
 123go.com
 12by.com
 17q.com
@@ -204,6 +203,7 @@ amazonco.uk
 american-prize-center.com
 amzn.com
 analyticdns.org
+analytics.ff.avast.com
 analytics.safelinking.net
 analytics.supplyframe.com
 anapixel.elmundo.es
