@@ -15645,6 +15645,16 @@
             "expiration_date": "28-jan-2020",
             "state": "future"
         },
+        "gopeds.com": {
+            "epoch": "1604098800",
+            "expiration_date": "31-oct-2020",
+            "state": "future"
+        },
+        "gopogle.com": {
+            "epoch": "1697925600",
+            "expiration_date": "22-oct-2023",
+            "state": "future"
+        },
         "gotomontenegro.net": {
             "epoch": "1548280800",
             "expiration_date": "24-jan-2019",
