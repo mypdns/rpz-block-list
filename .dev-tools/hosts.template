@@ -2,41 +2,19 @@
 # Copyright: https://www.mypdns.org
 # Source: https://github.com/spirillen/rpz-block-list
 
-##################################################################################
-#                                                                                #
-#        ___          __   __    ___                    __ __         __         #
-#       / _ )___ ____/ /__/ /   / _ )___  __ _____     / // /__  ___ / /____     #
-#      / _  / _ `/ _  / _  /   / _  / _ \/ // /_ /    / _  / _ \(_-</ __(_-<     #
-#     /____/\_,_/\_,_/\_,_/   /____/\___/\_, //__/   /_//_/\___/___/\__/___/     #
-#                                       /___/                                    #
-##################################################################################
-
 # You are free to copy and distribute this file for non-commercial uses,
 # as long the original URL and attribution is included. 
 
 # Please forward any additions, corrections or comments by logging an issue at
 # https://github.com/spirillen/rpz-block-list/issues
 
+# For any issues regarding the program, please post a issue at
+# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
+
 ##### Version Information #
 ###################################################
 ### Version: V1.2019.03.159
 ##### Version Information ##
-
-# Use this file to prevent your computer or server from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, adware, malware, click-jacking and porn sites and reduces 
-# bandwidth use. 
-
-# The file should be named "hosts" NOT "hosts.txt"
-
-# For Linux based Operating systems place this file at "/etc/hosts"
-
-# For Windows based systems this is placed either at
-# C:\windows\system32\drivers\etc\hosts
-# or C:\Windows\System32\drivers\etc\hosts
-
-127.0.0.1 localhost
-::1 localhost #[IPv6]
 
 # START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 000tristanprod.free.fr
