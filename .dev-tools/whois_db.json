@@ -158,7 +158,7 @@
         "00056789.com": {
             "epoch": "1553036400",
             "expiration_date": "20-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "00063138.com": {
             "epoch": "1572822000",
