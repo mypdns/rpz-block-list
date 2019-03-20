@@ -28,6 +28,7 @@ addons:
   apt:
     packages:
       - dos2unix
+      - libc6-dev
 
 install:
   - pip3 install --upgrade pip
