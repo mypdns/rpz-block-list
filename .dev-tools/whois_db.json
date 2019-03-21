@@ -156,9 +156,9 @@
             "state": "future"
         },
         "00056789.com": {
-            "epoch": "1553036400",
-            "expiration_date": "20-mar-2019",
-            "state": "past"
+            "epoch": "1584658800",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
         },
         "00063138.com": {
             "epoch": "1572822000",
@@ -698,7 +698,7 @@
         "01computersoftwar.biz": {
             "epoch": "1553122800",
             "expiration_date": "21-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "01counter.com": {
             "epoch": "1575154800",
