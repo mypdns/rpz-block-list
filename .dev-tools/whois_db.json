@@ -18210,10 +18210,675 @@
             "expiration_date": "16-jul-2019",
             "state": "future"
         },
+        "2buy-il.co.il": {
+            "epoch": "1616022000",
+            "expiration_date": "18-mar-2021",
+            "state": "future"
+        },
+        "2buy-valve.com": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "2buy.co.il": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "2buy.com.br": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "2buy.it": {
+            "epoch": "1552950000",
+            "expiration_date": "19-mar-2019",
+            "state": "past"
+        },
+        "2buy.me.uk": {
+            "epoch": "1546556400",
+            "expiration_date": "04-jan-2019",
+            "state": "past"
+        },
+        "2buy.org.uk": {
+            "epoch": "1555192800",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "2buy.pl": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "2buy.ru": {
+            "epoch": "1580684400",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "2buy.se": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "2buy.uk": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "2buylist.ru": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "2buyme.ru": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "2buynow.ca": {
+            "epoch": "1761951600",
+            "expiration_date": "01-nov-2025",
+            "state": "future"
+        },
+        "2buyor2rent.realestate": {
+            "epoch": "1600380000",
+            "expiration_date": "18-sep-2020",
+            "state": "future"
+        },
+        "2buyright.info": {
+            "epoch": "1580511600",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
+        },
+        "2buysafe.info": {
+            "epoch": "1614034800",
+            "expiration_date": "23-feb-2021",
+            "state": "future"
+        },
+        "2buysafe.it": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "2buysafe.ru": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "2buysafe.se": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "2buysafe.uk": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "2buysecure.fr": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "2buysecure.info": {
+            "epoch": "1614034800",
+            "expiration_date": "23-feb-2021",
+            "state": "future"
+        },
+        "2buysecure.ru": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "2buysecure.se": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "2buysecure.uk": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "2buysod.info": {
+            "epoch": "1580943600",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "2bw12aba1d2d.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "2bz96oj12g.top": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "2c0dad36bdb9eb859f0.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "2c3a97984f45.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "2c4vxvkpcq4je0ks.click": {
+            "epoch": "1542668400",
+            "expiration_date": "20-nov-2018",
+            "state": "past"
+        },
+        "2c5jcby0.top": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "2c6bcbbb82ce911.com": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "2candles.com": {
+            "epoch": "1577228400",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "2card-bank.ru": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "2card.cn": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "2card.info": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "2card.ru": {
+            "epoch": "1581721200",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "2card.su": {
+            "epoch": "1586037600",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
+        },
+        "2cardened.trade": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "2cardio.fr": {
+            "epoch": "1580598000",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "2cardio.info": {
+            "epoch": "1580598000",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "2cardphone.cn": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "2cards.ca": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "2cards.ru": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "2cbio.com": {
+            "epoch": "1584572400",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "2cbisyjaae.com": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "2cent37.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "2chemodana.com.ua": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "2cheros.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
         "2chicks1dick.biz": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
             "state": "past"
+        },
+        "2cimmobiliare.it": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "2cit.ru": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "2clic.com.mx": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "2clikcer01.top": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "2clikcer02.top": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "2clikcer03.top": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "2cloudtech-computing.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "2cloudtech-hosting.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "2cloudtech-news.info": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "2cloudtech-private.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "2cloudtech-providers.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "2cloudtech-servers.info": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "2cloudtech-services.info": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "2cloudtech-sites.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "2cloudtech-software.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "2cloudtech-solutions.info": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "2cloudtech-trends.info": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "2cloudtech-vps.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "2cnt.net": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "2co0y54ydz.top": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "2cobrowse.com": {
+            "epoch": "1574982000",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "2cpa.com": {
+            "epoch": "1585864800",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
+        },
+        "2cqkrl0o.work": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "2crypto.cz": {
+            "epoch": "1578178800",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "2cuknh50ef.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "2cv7ph1o.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "2cvimports.co.uk": {
+            "epoch": "1595800800",
+            "expiration_date": "27-jul-2020",
+            "state": "future"
+        },
+        "2d1bnq-2.com": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "2d2407e8259441b73798025fc13de333.org": {
+            "epoch": "1579734000",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "2d5072d5732ab.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "2d73.ru": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "2dan.cc": {
+            "epoch": "1582585200",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
+        "2dautomobile.fr": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "2dayhost.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "2daypostcards.info": {
+            "epoch": "1575154800",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "2ddl.download": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "2delllwrite.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "2dfam.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "2dfd.com": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "2dimmobiliare.it": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "2dip.su": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "2dmi8suyaa3yq.net": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "2dmobil.dk": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "2dolphins.com": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "2download.co": {
+            "epoch": "1577228400",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "2download.ru": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "2dtutorials.ru": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "2e1eec2332b3513f5e75ba8ded59e2e4.org": {
+            "epoch": "1580079600",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "2e3ibc02nsf.com": {
+            "epoch": "1578870000",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "2e75947amv.top": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "2easy2buy.ru": {
+            "epoch": "1574204400",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "2effeimmobiliare.it": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "2el-2el-fie.com": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "2emmeimmobiliare.it": {
+            "epoch": "1580079600",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "2eniyibahisforum.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "2erreimmobiliare.it": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "2eurocoincard.fr": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "2ezm3801mh.tokyo": {
+            "epoch": "1554328800",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "2f-immobiliare.it": {
+            "epoch": "1575414000",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "2f-secure-verification.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "2f4f4f.com": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "2f5a1f1fab21a56.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "2f5d6dxcm6.biz": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "2f794pw-aeg.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "2fa-login.com": {
+            "epoch": "1574982000",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "2fa-paxful.com": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "2fa-security.com": {
+            "epoch": "1580166000",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "2fastsurfer.com": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "2fdesignconsult.com": {
+            "epoch": "1628546400",
+            "expiration_date": "10-aug-2021",
+            "state": "future"
+        },
+        "2ffa-id.com": {
+            "epoch": "1546902000",
+            "expiration_date": "08-jan-2019",
+            "state": "past"
+        },
+        "2fferdphka.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "2fh3acjghm.biz": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "2filesdownloadstorage.review": {
+            "epoch": "1548716400",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
+        },
+        "2filesfastarchive.review": {
+            "epoch": "1548716400",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
+        },
+        "2filmes.com": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "2fimmobiliaresas.it": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "2foldco.com": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "2forejungles.us": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "2freepics.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "2fuer1-citicard.info": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "2fuer1-citycard.info": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "2fxltd.com": {
+            "epoch": "1584831600",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "2gaap.com": {
             "epoch": "1569708000",
@@ -18223,6 +18888,31 @@
         "2gay.net": {
             "epoch": "1569794400",
             "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "2gds-ek-svvz.net": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "2generic10pills.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "2getajobsalert.info": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "2getwithu.com": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "2gfx.com": {
+            "epoch": "1585778400",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "2girls1cumshot.com": {
