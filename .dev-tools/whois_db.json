@@ -50070,9 +50070,229 @@
             "expiration_date": "31-aug-2019",
             "state": "future"
         },
+        "ad-agent.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "ad-alyzer.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "ad-annex.com": {
+            "epoch": "1573599600",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "ad-aquatics.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "ad-arata.com": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "ad-back.net": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "ad-balancer.net": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "ad-bay.com": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "ad-blaster.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "ad-blocker.org": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "ad-board.com": {
+            "epoch": "1578351600",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
+        },
+        "ad-brix.com": {
+            "epoch": "1586383200",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
+        },
+        "ad-center.com": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "ad-ck.ru": {
+            "epoch": "1583881200",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
+        "ad-clicks.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "ad-clix.com": {
+            "epoch": "1585350000",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "ad-delivery.net": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "ad-designstudio.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "ad-eliminator.com": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "ad-file.com": {
+            "epoch": "1604703600",
+            "expiration_date": "07-nov-2020",
+            "state": "future"
+        },
+        "ad-flow.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "ad-gbn.com": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "ad-generator.info": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "ad-goi.com": {
+            "epoch": "1572390000",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "ad-groups.com": {
+            "epoch": "1582844400",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "ad-guru.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "ad-host.com": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "ad-indicator.com": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "ad-infinitum-immobilien.com": {
+            "epoch": "1579561200",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "ad-insta.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "ad-lister.co.uk": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "ad-listings.com": {
+            "epoch": "1583881200",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
+        "ad-lite.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "ad-locus.com": {
+            "epoch": "1553900400",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
         "ad-logics.com": {
             "epoch": "1578088800",
             "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "ad-m.asia": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "ad-maker.net": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "ad-marketing.net": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "ad-maven.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "ad-media.org": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "ad-mill.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "ad-miner.com": {
+            "epoch": "1579993200",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
+        },
+        "ad-nex.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "ad-noise.net": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "ad-plus.cn": {
+            "epoch": "1619128800",
+            "expiration_date": "23-apr-2021",
             "state": "future"
         },
         "ad-souk.com": {
