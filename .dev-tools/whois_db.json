@@ -6815,9 +6815,389 @@
             "expiration_date": "18-jun-2019",
             "state": "future"
         },
+        "12-21-2012.org": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "12-reasons-for-seo.net": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
         "12.com": {
             "epoch": "1573250400",
             "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "120host.net": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "120profit.com": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "121-psychic-reading.co.uk": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "121-security.co.uk": {
+            "epoch": "1590703200",
+            "expiration_date": "29-may-2020",
+            "state": "future"
+        },
+        "121-sex-toys.co.uk": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "1211xsj.com": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "121computersupport.com": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "121jt.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "121magentosupport.com": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "121media.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "121mobile.info": {
+            "epoch": "1584054000",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "121phonesex.co.uk": {
+            "epoch": "1576537200",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "121shoes.net": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "121space.com": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "121support.net": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "121tech.co.uk": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "121usa.com": {
+            "epoch": "1585605600",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
+        "121ware.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "1221e236c3f8703.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "1221mobile.ru": {
+            "epoch": "1553382000",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "122u.com": {
+            "epoch": "1619301600",
+            "expiration_date": "25-apr-2021",
+            "state": "future"
+        },
+        "122uc.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "123-asthmatreatment.info": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "123-buy.co.uk": {
+            "epoch": "1608850800",
+            "expiration_date": "25-dec-2020",
+            "state": "future"
+        },
+        "123-buycbd.com": {
+            "epoch": "1574118000",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "123-com.com": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "123-free-download.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "123-greetings.info": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "123-helpme.com": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "123-hp-com-envy5534.com": {
+            "epoch": "1581894000",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "123-hp-com-support.com": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "123-hp-support.info": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "123-hp-support.net": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "123-hpsupports.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "123-immobilien.info": {
+            "epoch": "1596664800",
+            "expiration_date": "06-aug-2020",
+            "state": "future"
+        },
+        "123-jewelry-store.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "123-kredit.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "123-kredite.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "123-mobile-pets.co.uk": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "123-mobile.co.uk": {
+            "epoch": "1579302000",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "123-movie.com": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "123-movie.us": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "123-netflix.net": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "123-reseller-host.co.uk": {
+            "epoch": "1584399600",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "123-securebox.co.uk": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "123-sell-now.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "123-stream.com": {
+            "epoch": "1579474800",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "123-tracker.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "123-vidz.com": {
+            "epoch": "1586815200",
+            "expiration_date": "14-apr-2020",
+            "state": "future"
+        },
+        "123-watch.com": {
+            "epoch": "1577314800",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "123.com": {
+            "epoch": "1605135600",
+            "expiration_date": "12-nov-2020",
+            "state": "future"
+        },
+        "123.support": {
+            "epoch": "1674514800",
+            "expiration_date": "24-jan-2023",
+            "state": "future"
+        },
+        "12313138.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "123188.com": {
+            "epoch": "1775944800",
+            "expiration_date": "12-apr-2026",
+            "state": "future"
+        },
+        "1234-buy.co.uk": {
+            "epoch": "1578178800",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "123411.vip": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "12343138.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "123459.vip": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "12345ee.com": {
+            "epoch": "1657231200",
+            "expiration_date": "08-jul-2022",
+            "state": "future"
+        },
+        "12345sex.com": {
+            "epoch": "1568584800",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "12345vip.cn": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "1234care.com": {
+            "epoch": "1578351600",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
+        },
+        "1234computer.com": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "1234medical.net": {
+            "epoch": "1578524400",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "1234medical.org": {
+            "epoch": "1578524400",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "1234netflix.com": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "1234xm.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "12363138.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "12373138.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "12383138.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "123adult.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "123adv.com": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "123andro.net": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "123annuaire-pro.fr": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
             "state": "future"
         },
         "123any.com": {
@@ -6825,9 +7205,179 @@
             "expiration_date": "05-apr-2019",
             "state": "future"
         },
+        "123applycreditcards.info": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "123appz.com": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "123automobile.fr": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "123automobiles.fr": {
+            "epoch": "1548457200",
+            "expiration_date": "26-jan-2019",
+            "state": "past"
+        },
+        "123aziende.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "123banners.com": {
+            "epoch": "1586469600",
+            "expiration_date": "10-apr-2020",
+            "state": "future"
+        },
+        "123bikinis.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "123bitcoin.dk": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "123businesssupport.com": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "123buy.hk": {
+            "epoch": "1709593200",
+            "expiration_date": "05-mar-2024",
+            "state": "future"
+        },
+        "123buy.info": {
+            "epoch": "1580079600",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "123buy.ru": {
+            "epoch": "1573426800",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "123card.co.il": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "123card.dk": {
+            "epoch": "1553986800",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "123card.ru": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "123cards.info": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "123cards.it": {
+            "epoch": "1552604400",
+            "expiration_date": "15-mar-2019",
+            "state": "past"
+        },
+        "123cards.nu": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "123cards.se": {
+            "epoch": "1582066800",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "123care.info": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "123care.net": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "123care.org": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "123cashsurveys.com": {
+            "epoch": "1579042800",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
         "123cha.com": {
             "epoch": "1587420000",
             "expiration_date": "21-apr-2020",
+            "state": "future"
+        },
+        "123clickcash.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "123compteur.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "123count.com": {
+            "epoch": "1639004400",
+            "expiration_date": "09-dec-2021",
+            "state": "future"
+        },
+        "123counters.com": {
+            "epoch": "1630533600",
+            "expiration_date": "02-sep-2021",
+            "state": "future"
+        },
+        "123counts.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "123cryptocurrency.info": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "123date.me": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "123dietz.com": {
+            "epoch": "1636066800",
+            "expiration_date": "05-nov-2021",
+            "state": "future"
+        },
+        "123dissertations.com": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "123dl.org": {
+            "epoch": "1582585200",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
+        "123download.nu": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "123go.com": {
