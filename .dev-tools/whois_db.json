@@ -48780,6 +48780,16 @@
             "expiration_date": "02-dec-2019",
             "state": "future"
         },
+        "ab-elect.com": {
+            "epoch": "1607641200",
+            "expiration_date": "11-dec-2020",
+            "state": "future"
+        },
+        "ab-kitchen.com": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
         "abacusfinance.co.uk": {
             "epoch": "1564092000",
             "expiration_date": "26-jul-2019",
