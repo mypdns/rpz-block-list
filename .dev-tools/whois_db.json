@@ -7635,19 +7635,209 @@
             "expiration_date": "15-sep-2019",
             "state": "future"
         },
+        "131.com": {
+            "epoch": "1762383600",
+            "expiration_date": "06-nov-2025",
+            "state": "future"
+        },
+        "1314-520.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
         "1314dh.com": {
-            "epoch": "1549836000",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "13190546cd1dec9bbdc.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "131crossfit.com.br": {
+            "epoch": "1554328800",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "132.com": {
+            "epoch": "1699225200",
+            "expiration_date": "06-nov-2023",
+            "state": "future"
+        },
+        "13233fiji.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "132oy2fn8d.top": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "13333138.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "1337-soft.ru": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
             "state": "future"
         },
         "1337crew.info": {
-            "epoch": "1548799200",
-            "expiration_date": "30-jan-2019",
+            "epoch": "1580338800",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "1337day.org": {
+            "epoch": "1577142000",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
+        },
+        "1337mir.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "1337x.net": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "1337x.org": {
+            "epoch": "1580943600",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "1344.info": {
+            "epoch": "1577833200",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
+        "13485-support.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "135.it": {
+            "epoch": "1582153200",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
+        "13573x7488100-3983x702-virus.info": {
+            "epoch": "1579215600",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "135cross.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "135mp3.com": {
+            "epoch": "1588024800",
+            "expiration_date": "28-apr-2020",
+            "state": "future"
+        },
+        "13610355484.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "136136.net": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "136501.com": {
+            "epoch": "1575846000",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
+        },
+        "136dzd.com": {
+            "epoch": "1630274400",
+            "expiration_date": "30-aug-2021",
+            "state": "future"
+        },
+        "136ls.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "137311.com": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "137400.net": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "137959com.com": {
+            "epoch": "1588802400",
+            "expiration_date": "07-may-2020",
+            "state": "future"
+        },
+        "137choker.id": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "13801993263.com": {
+            "epoch": "1750111200",
+            "expiration_date": "17-jun-2025",
+            "state": "future"
+        },
+        "138638.com": {
+            "epoch": "1586901600",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
+        },
+        "1388buyeo.or.kr": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "13895df59d98cc.com": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "138bets.net": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "138hx9i.work": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "138m.com": {
+            "epoch": "1600120800",
+            "expiration_date": "15-sep-2020",
+            "state": "future"
+        },
+        "138mobile-servis.ru": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
             "state": "future"
         },
         "138shenbosbo.com": {
-            "epoch": "1544306400",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1582671600",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "13903825045.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "13932685557.cn": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
             "state": "future"
         },
         "13tabs.com": {
