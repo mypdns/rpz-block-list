@@ -48525,6 +48525,26 @@
             "expiration_date": "05-nov-2019",
             "state": "future"
         },
+        "aa-publisher.com": {
+            "epoch": "1575414000",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "aa-rf.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "aa-top.com": {
+            "epoch": "1666648800",
+            "expiration_date": "25-oct-2022",
+            "state": "future"
+        },
+        "aa-trading.net": {
+            "epoch": "1617832800",
+            "expiration_date": "08-apr-2021",
+            "state": "future"
+        },
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "epoch": "1545861600",
             "expiration_date": "27-dec-2018",
@@ -48623,6 +48643,91 @@
         "aanqylta.com": {
             "epoch": "1579903200",
             "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
+        "aaomstbnbiqo.com": {
+            "epoch": "1581289200",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
+        "aaoszhvwsagenes.review": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "aaotr.com": {
+            "epoch": "1575414000",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "aap-co.com": {
+            "epoch": "1587160800",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
+        },
+        "aaparth.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "aapetstore.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro1.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro2.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro3.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro4.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro5.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro6.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro7.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapi-login-gerenciadorfinanceiro8.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "aapicarde.fr": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "aapkabazar.net": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "aapkichai.com": {
+            "epoch": "1577142000",
+            "expiration_date": "24-dec-2019",
             "state": "future"
         },
         "aapz.com": {
