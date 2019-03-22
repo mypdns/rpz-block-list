@@ -30610,9 +30610,224 @@
             "expiration_date": "28-mar-2019",
             "state": "future"
         },
+        "492rf.com": {
+            "epoch": "1553295600",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "494bitcoins.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "494d36630eae682b20.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "494fd-svoj.net": {
+            "epoch": "1584054000",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "495.com": {
+            "epoch": "1795561200",
+            "expiration_date": "25-nov-2026",
+            "state": "future"
+        },
+        "49535.com": {
+            "epoch": "1581721200",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "49863d99e314a.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "498855.com": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "49993138.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "499error.info": {
+            "epoch": "1599516000",
+            "expiration_date": "08-sep-2020",
+            "state": "future"
+        },
+        "49de9ae084f49a81d27596f9f06e6dff.org": {
+            "epoch": "1579474800",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "49ersfanteamshop.com": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "49ersnflofficialshop.com": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "49ersnflofficialstore.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "49ersnflproshop.com": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "49ersnflprostore.com": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "49ersofficialonline.com": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "49ersonlineofficialshop.com": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "49ersonlineofficialstore.com": {
+            "epoch": "1585778400",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
+        "49feqdpw.com": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "49hilbet.com": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "49k7.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "49monclersale.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "49oa3o49b6.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "49wdf898ctwc5.biz": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "4a7n.top": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "4a9747b7bfb3.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "4aa1fv6m.work": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "4affect.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "4affiliate.net": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
         "4ah.info": {
-            "epoch": "1547935200",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579474800",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "4ahigqp924tma.net": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "4allcrypto.info": {
+            "epoch": "1576364400",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "4allcrypto.today": {
+            "epoch": "1576364400",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "4allcrypto.world": {
+            "epoch": "1576364400",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "4allfree.com": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "4allprograms.net": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "4allwoman.ru": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "4analytics.ws": {
+            "epoch": "1686348000",
+            "expiration_date": "10-jun-2023",
+            "state": "future"
+        },
+        "4aplusb.com": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "4applesindltd.com": {
+            "epoch": "1600466400",
+            "expiration_date": "19-sep-2020",
+            "state": "future"
+        },
+        "4asheu6-v59.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "4ashlayer.us": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "4ashraf.com": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
             "state": "future"
         },
         "4asianporn.com": {
@@ -30620,9 +30835,69 @@
             "expiration_date": "19-sep-2019",
             "state": "future"
         },
+        "4axiz.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "4b053f3c6a98.net": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "4b1m.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "4b68b86c9b6.work": {
+            "epoch": "1582844400",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "4bb6jls06l.com": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
         "4beast.com": {
             "epoch": "1568584800",
             "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "4bgj43iqydtd.biz": {
+            "epoch": "1581721200",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "4bigcash.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "4biosacademy.com.br": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "4biositacademy.com.br": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "4bjds-ll5.net": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "4boots.com": {
+            "epoch": "1612393200",
+            "expiration_date": "04-feb-2021",
+            "state": "future"
+        },
+        "4bottle.com": {
+            "epoch": "1553814000",
+            "expiration_date": "29-mar-2019",
             "state": "future"
         },
         "4bqs.com": {
@@ -30630,14 +30905,504 @@
             "expiration_date": "06-oct-2019",
             "state": "future"
         },
+        "4brothersroofers.com": {
+            "epoch": "1582153200",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
+        "4buccaneer.com": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "4buy.net": {
+            "epoch": "1574550000",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "4buyers-rdc.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "4buywatches.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "4by4wheel.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "4c2jfivynpzftupjipy-online-netflix.info": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "4c2ywe.top": {
+            "epoch": "1550185200",
+            "expiration_date": "15-feb-2019",
+            "state": "past"
+        },
+        "4c4nmn-4abtgh.net": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "4c6omfor4323rods13.top": {
+            "epoch": "1555192800",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "4c7og3qcob.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "4c935d6a244f.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "4c9hc4rv5m99.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "4cafes.com.mx": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "4car.cz": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "4carisma.com": {
+            "epoch": "1670281200",
+            "expiration_date": "06-dec-2022",
+            "state": "future"
+        },
+        "4ce39a2e58708af60d2ab112103d0989.org": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "4cgemstones.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "4cghi4r8rxc2.com": {
+            "epoch": "1580338800",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "4chancekilis.com": {
+            "epoch": "1598652000",
+            "expiration_date": "29-aug-2020",
+            "state": "future"
+        },
+        "4chd.com": {
+            "epoch": "1597528800",
+            "expiration_date": "16-aug-2020",
+            "state": "future"
+        },
+        "4cie-t9wx.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "4ciet-9w.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "4city.com.pl": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "4cj5qu70.top": {
+            "epoch": "1548111600",
+            "expiration_date": "22-jan-2019",
+            "state": "past"
+        },
+        "4click.biz": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "4cloudtech-computing.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "4cloudtech-hosting.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "4cloudtech-private.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "4cloudtech-providers.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "4cloudtech-sites.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "4cloudtech-software.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "4cloudtech-trends.info": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "4cloudtech-vps.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
         "4cock.com": {
             "epoch": "1570572000",
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "4comtech.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "4connectinternational.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "4cornerbazaar.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "4count.com": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "4creditcard.top": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "4creditcards.top": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "4cryptoaddicts.info": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "4cs29d65kp.biz": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "4ctt.com": {
+            "epoch": "1598652000",
+            "expiration_date": "29-aug-2020",
+            "state": "future"
+        },
+        "4customer.support": {
+            "epoch": "1577919600",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "4cutie.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "4d5.net": {
+            "epoch": "1590962400",
+            "expiration_date": "01-jun-2020",
+            "state": "future"
+        },
+        "4dart.co.kr": {
+            "epoch": "1589666400",
+            "expiration_date": "17-may-2020",
+            "state": "future"
+        },
+        "4dayprofit.com": {
+            "epoch": "1553554800",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "4dbcqz8luzurq9dswg.stream": {
+            "epoch": "1551481200",
+            "expiration_date": "02-mar-2019",
+            "state": "past"
+        },
+        "4dcc76936d54.net": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "4dcdc.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "4dconsultancy.com": {
+            "epoch": "1597269600",
+            "expiration_date": "13-aug-2020",
+            "state": "future"
+        },
+        "4dcornerstone.com": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "4ddownload.info": {
+            "epoch": "1582153200",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
+        "4deal.com.pl": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "4device.ru": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "4dexports.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "4dfb1df2hn1ygi.com": {
+            "epoch": "1576882800",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "4dgroup.ru": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "4diamonds.com.br": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "4djsbydjs.com": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "4dl.biz": {
+            "epoch": "1578438000",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "4dle.info": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "4dlmng.com": {
+            "epoch": "1574550000",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "4dq.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "4drakona.ru": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "4ds1.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "4dsbanner.com": {
+            "epoch": "1574290800",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "4dsbanner.net": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "4dsply.com": {
+            "epoch": "1618005600",
+            "expiration_date": "10-apr-2021",
+            "state": "future"
+        },
+        "4dtr8sa.work": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "4dtrk.com": {
+            "epoch": "1618005600",
+            "expiration_date": "10-apr-2021",
+            "state": "future"
+        },
+        "4dummies.ro": {
+            "epoch": "1553641200",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "4dy6.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "4e2god.com": {
+            "epoch": "1580166000",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "4e34b4865905c4.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "4e6bat2ixpep2.biz": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "4eacccd99990beed317.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "4ebuy.top": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "4ee.st": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "4egos.com": {
+            "epoch": "1583794800",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "4ejwcialff.top": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "4ele.pl": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "4email.net": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "4erdak.com": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "4ertezhi.ru": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "4eternity.com.br": {
+            "epoch": "1582066800",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
         "4ever.cc": {
             "epoch": "1570831200",
             "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "4everdns.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "4eversell.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "4everyone.com": {
+            "epoch": "1677970800",
+            "expiration_date": "05-mar-2023",
+            "state": "future"
+        },
+        "4ewy.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "4eyesonly.com": {
+            "epoch": "1729461600",
+            "expiration_date": "21-oct-2024",
+            "state": "future"
+        },
+        "4f0.ru": {
+            "epoch": "1582930800",
+            "expiration_date": "29-feb-2020",
+            "state": "future"
+        },
+        "4f2sm1y1ss.com": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "4f3c238ed437e1e.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "4f49.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "4f6b2af479d337cf.com": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "4f6c963f07f67bd.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
             "state": "future"
         },
         "4girlss.com": {
