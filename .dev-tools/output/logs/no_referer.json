@@ -522,5 +522,21 @@
     "1553284880.0228221": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553285153.8600368": {
+        "domain": "a-great-freecheckingaccount.zone",
+        "extension": "zone"
+    },
+    "1553285191.8955336": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553285193.6084554": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553285574.7261019": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
     }
 }

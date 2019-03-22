@@ -49040,6 +49040,81 @@
             "expiration_date": "25-jun-2019",
             "state": "future"
         },
+        "abs-cdn.org": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "abs-elevacion.com": {
+            "epoch": "1580079600",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "abs-motors.ru": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "abs-security-service.com": {
+            "epoch": "1579906800",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
+        "abs-security-service.org": {
+            "epoch": "1579906800",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
+        "abs-static.org": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "abs-tech.com": {
+            "epoch": "1645830000",
+            "expiration_date": "26-feb-2022",
+            "state": "future"
+        },
+        "absa-barclays.co.za": {
+            "epoch": "1580598000",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "absa.click": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "absabmarketing.com": {
+            "epoch": "1709938800",
+            "expiration_date": "09-mar-2024",
+            "state": "future"
+        },
+        "absaintl.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "absamoylov.ru": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "absazza.com": {
+            "epoch": "1549321200",
+            "expiration_date": "05-feb-2019",
+            "state": "past"
+        },
+        "absblast.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "abscar.ru": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
         "absinths.com": {
             "epoch": "1569794400",
             "expiration_date": "30-sep-2019",
