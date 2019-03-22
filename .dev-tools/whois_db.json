@@ -9375,14 +9375,279 @@
             "expiration_date": "13-jul-2023",
             "state": "future"
         },
+        "192-168-1-254-login.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "192-168-dns-error.review": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "192-dns-error-25b12a.stream": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "192.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
         "1920.co.kr": {
             "epoch": "1550876400",
             "expiration_date": "23-feb-2019",
             "state": "past"
         },
+        "19216811-logins.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "19216811-password.com": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "19216811login.today": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "19216812giris.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "192168router-login.net": {
+            "epoch": "1579388400",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "193333com.com": {
+            "epoch": "1573167600",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "19399.com.cn": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "1939idcard.uk": {
+            "epoch": "1572217200",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "1942flows.com.ng": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "1950sspecials.com": {
+            "epoch": "1553468400",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "1952bissell.info": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "1952shorewood.com": {
+            "epoch": "1577833200",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
+        "1952w4ddc.ru": {
+            "epoch": "1577746800",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
+        },
+        "1958buickforum.net": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "19598.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "1960smovies.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "196504.com": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "1969leavers.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "196r.com": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "1970smovies.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "19850822.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "1987324.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "19880727.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "198zc.com": {
+            "epoch": "1579042800",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
+        "1990z.com": {
+            "epoch": "1582498800",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "19930216.com": {
+            "epoch": "1573340400",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "1993gmail.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "1994hotmail.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "1996hengyou.com": {
+            "epoch": "1587592800",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
+        },
+        "1996qq.com": {
+            "epoch": "1585263600",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
+        "19977.com": {
+            "epoch": "1711839600",
+            "expiration_date": "31-mar-2024",
+            "state": "future"
+        },
+        "19980ad7c3fa568e092.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "199kartin.ru": {
+            "epoch": "1587247200",
+            "expiration_date": "19-apr-2020",
+            "state": "future"
+        },
+        "19b45a16170729.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "19b7308ea6d4.com": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "19beda38dc2ce42.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
         "19blog.com": {
             "epoch": "1571954400",
             "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "19buy.cn": {
+            "epoch": "1600207200",
+            "expiration_date": "16-sep-2020",
+            "state": "future"
+        },
+        "19card.ru": {
+            "epoch": "1574118000",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "19d12dd9de1.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "19d5.com": {
+            "epoch": "1579734000",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "19degrees.org": {
+            "epoch": "1573167600",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "19free.org": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "19gmail.com": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "19gom.net": {
+            "epoch": "1613602800",
+            "expiration_date": "18-feb-2021",
+            "state": "future"
+        },
+        "19gomtv.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "19h-60v.com": {
+            "epoch": "1577055600",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
+        "19ngsbahis.com": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "19sar.com": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "19tv.top": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
             "state": "future"
         },
         "1adult.com": {
