@@ -48790,6 +48790,21 @@
             "expiration_date": "03-nov-2019",
             "state": "future"
         },
+        "ab-studio.uk": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "ab-tools.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "ab-university.com": {
+            "epoch": "1605654000",
+            "expiration_date": "18-nov-2020",
+            "state": "future"
+        },
         "abacusfinance.co.uk": {
             "epoch": "1564092000",
             "expiration_date": "26-jul-2019",
@@ -48888,6 +48903,111 @@
         "abetting.net": {
             "epoch": "1573164000",
             "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "abingerdale.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "abinsuranceservices.com": {
+            "epoch": "1616022000",
+            "expiration_date": "18-mar-2021",
+            "state": "future"
+        },
+        "abinvest.ru": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "abiny.net": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "abiogenesis.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiogenesis.us": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "abiogenesist.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiogenic.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiogenic.us": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "abiogenically.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiogenist.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiogenist.us": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "abiological.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiological.us": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "abiologically.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abionet.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "abiotic.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiotic.us": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "abiotically.review": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "abiotically.us": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "abiotix.com": {
+            "epoch": "1618092000",
+            "expiration_date": "11-apr-2021",
             "state": "future"
         },
         "ablefull.com": {
