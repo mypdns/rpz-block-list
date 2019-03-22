@@ -14110,6 +14110,81 @@
             "expiration_date": "09-apr-2019",
             "state": "future"
         },
+        "2018-netflix.com": {
+            "epoch": "1548198000",
+            "expiration_date": "23-jan-2019",
+            "state": "past"
+        },
+        "2018-oscars.net": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "2018-ziraatbank-mobil.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "2018jsci.org": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "2018konutkampanyasi.com": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "2018sjpsrbs.top": {
+            "epoch": "1547766000",
+            "expiration_date": "18-jan-2019",
+            "state": "past"
+        },
+        "2018spotifywrapped.com": {
+            "epoch": "1575932400",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "2018teslaplans.bid": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "2018uksex.date": {
+            "epoch": "1551654000",
+            "expiration_date": "04-mar-2019",
+            "state": "past"
+        },
+        "2018www-pvp.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "2019-cekilis.com": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "2019-cekilisleri.com": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "2019-drivers-download.com": {
+            "epoch": "1579993200",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
+        },
+        "2019-social-security-update.org": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "2019-yenilik.com": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
         "201mb.com": {
             "epoch": "1549490400",
             "expiration_date": "07-feb-2019",
