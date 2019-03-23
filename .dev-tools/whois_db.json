@@ -54450,9 +54450,384 @@
             "expiration_date": "12-sep-2019",
             "state": "future"
         },
+        "aist-it.com": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "aistan.co.uk": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "aistat.net": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "aisti.net": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "aistidafa.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "aistlinesh.trade": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "aistra.lt": {
+            "epoch": "1583622000",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
+        "aiswholesale.com": {
+            "epoch": "1578178800",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "aitcomlink.com": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "aitcostam.info": {
+            "epoch": "1579215600",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "aitds.com": {
+            "epoch": "1583708400",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
+        },
+        "aitdwhmcvlm.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "aitech.com.tr": {
+            "epoch": "1704582000",
+            "expiration_date": "07-jan-2024",
+            "state": "future"
+        },
+        "aiteh.ru": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "aitelong.top": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "aitindia.net": {
+            "epoch": "1584399600",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "aitipro.ru": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "aitlfdxgligxqow.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "aitmedia.ru": {
+            "epoch": "1592344800",
+            "expiration_date": "17-jun-2020",
+            "state": "future"
+        },
+        "aitr.info": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "aitran.com": {
+            "epoch": "1694901600",
+            "expiration_date": "17-sep-2023",
+            "state": "future"
+        },
+        "aitree.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "aitzart.com": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "aiuenoan51a-nb6aa.biz": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "aiug.org": {
+            "epoch": "1573340400",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "aiupwa.com": {
+            "epoch": "1580943600",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "aiurart.ro": {
+            "epoch": "1691359200",
+            "expiration_date": "07-aug-2023",
+            "state": "future"
+        },
+        "aiv.it": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
         "aivae2o.top": {
-            "epoch": "1547762400",
+            "epoch": "1547766000",
             "expiration_date": "18-jan-2019",
+            "state": "past"
+        },
+        "aivb.top": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "aivj.top": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "aivo2ucw.work": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "aivq.top": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "aiwei-evy.cn": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "aiwhebey.com": {
+            "epoch": "1603576800",
+            "expiration_date": "25-oct-2020",
+            "state": "future"
+        },
+        "aiwomen.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "aiwoxin.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "aiwwgmrm.net": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "aixcdn.com": {
+            "epoch": "1577228400",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "aixcidada.com.br": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "aixiao5.com": {
+            "epoch": "1586124000",
+            "expiration_date": "06-apr-2020",
+            "state": "future"
+        },
+        "aiyinjk872jvxmes.com": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "aiypulgy.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "aizau.net": {
+            "epoch": "1553295600",
+            "expiration_date": "23-mar-2019",
+            "state": "past"
+        },
+        "aizefabdzizezezezrg.com": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "aizjes.com": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "aizmer.com": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "aizopowmtnho.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "aj-computing.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "aj-data.fr": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "aj2.com.br": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "aj4kids.com": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "aj6g-pwf.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "ajabs.org": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "ajaccountingfirm.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "ajadvogadosassociados.com.br": {
+            "epoch": "1551049200",
+            "expiration_date": "25-feb-2019",
+            "state": "past"
+        },
+        "ajaelias.com.br": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "ajah-hunters.ru": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "ajaimpunsense.review": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "ajajaj.pl": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "ajakberantem.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "ajakbytak.pl": {
+            "epoch": "1553900400",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "ajakemegood24.com": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "ajakhalipiya.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "ajaks.ru": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "ajananda.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "ajangiklangratis.com": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "ajanial.com": {
+            "epoch": "1602540000",
+            "expiration_date": "13-oct-2020",
+            "state": "future"
+        },
+        "ajanish.com": {
+            "epoch": "1668207600",
+            "expiration_date": "12-nov-2022",
+            "state": "future"
+        },
+        "ajans362.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "ajans52.com": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "ajans7-24.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "ajans83.com": {
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "ajans89.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "ajans90.com": {
+            "epoch": "1580166000",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "ajansakdora.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
             "state": "future"
         },
         "ajansyenimedya.com": {
