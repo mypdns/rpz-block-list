@@ -65190,9 +65190,174 @@
             "expiration_date": "01-jun-2019",
             "state": "future"
         },
+        "alu-kos.com": {
+            "epoch": "1595196000",
+            "expiration_date": "20-jul-2020",
+            "state": "future"
+        },
+        "alu-pvc-trade.hr": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "alugueldemotosp.com.br": {
+            "epoch": "1578006000",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "aluguelemgramado.com.br": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "aluguemaq.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "alulae.stream": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "alulainstaller.info": {
+            "epoch": "1615503600",
+            "expiration_date": "12-mar-2021",
+            "state": "future"
+        },
+        "alular.stream": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "alum.info": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
         "aluma.it": {
             "epoch": "1569967200",
             "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "alumaburundi.org": {
+            "epoch": "1578610800",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "alumacong.com": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "alumar.com.pl": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "alumawoodpatiopros.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "alumdecor.ru": {
+            "epoch": "1584572400",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "alumen.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alumiartdf.com.br": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "alumiartfalcao.com.br": {
+            "epoch": "1554328800",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "alumidecor.com": {
+            "epoch": "1571695200",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "aluminiopotiguar.com.br": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "aluminiosyvidriosbogota.com": {
+            "epoch": "1572994800",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "aluminioyvidriosjimmy.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "aluminiumiman.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "aluminsumos.com.br": {
+            "epoch": "1689372000",
+            "expiration_date": "15-jul-2023",
+            "state": "future"
+        },
+        "aluminumstudios.com": {
+            "epoch": "1642201200",
+            "expiration_date": "15-jan-2022",
+            "state": "future"
+        },
+        "alumividros.ind.br": {
+            "epoch": "1553727600",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "alumnifebup.org": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "alumnigroup.org": {
+            "epoch": "1574809200",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "alumnipau.com": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "alumnus.biz": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "alumverify.com": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "alumvidro.com.br": {
+            "epoch": "1583967600",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
+        "alunopiloto.com.br": {
+            "epoch": "1581202800",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
+        "aluparfixadores.com.br": {
+            "epoch": "1553900400",
+            "expiration_date": "30-mar-2019",
             "state": "future"
         },
         "alupoint.com": {
@@ -65200,9 +65365,244 @@
             "expiration_date": "09-may-2019",
             "state": "future"
         },
+        "alupvcenterprises.com": {
+            "epoch": "1553727600",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "aluriasoftware.com": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "alusteel.fi": {
+            "epoch": "1710716400",
+            "expiration_date": "18-mar-2024",
+            "state": "future"
+        },
+        "alusupreme.co.za": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "alutechglass.com": {
+            "epoch": "1571349600",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "aluteksa.com": {
+            "epoch": "1584918000",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "aluvista.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "aluvitrum.com": {
+            "epoch": "1585177200",
+            "expiration_date": "26-mar-2020",
+            "state": "future"
+        },
+        "aluvodrinks.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "alvahart.com": {
+            "epoch": "1595541600",
+            "expiration_date": "24-jul-2020",
+            "state": "future"
+        },
+        "alvalucero.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "alvanista.com": {
+            "epoch": "1582844400",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "alvaradoswindowtinting.com": {
+            "epoch": "1602194400",
+            "expiration_date": "09-oct-2020",
+            "state": "future"
+        },
+        "alvarcor.com": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "alvarezarquitectos.com": {
+            "epoch": "1584918000",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "alvarezinmobiliaria.cl": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "alvarrango.com": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "alvdtjrb.com": {
+            "epoch": "1583622000",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
+        "alven-sa.com.ar": {
+            "epoch": "1581721200",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "alvenda.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "alveochoir.org": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "alveolar.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveolaris.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveolate.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveolation.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveolectomy.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveoli.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveolitis.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveolocondylean.stream": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "alveolonasal.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveoloplasties.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveoloplasty.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alveoplasty.us": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "alverdevivo.org": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
         "alveris.ru": {
             "epoch": "1551823200",
             "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "alvertakay.su": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "alvertaruperta.su": {
+            "epoch": "1585263600",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
+        "alvesajewellery.com": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "alvesmarcia.com.br": {
+            "epoch": "1585605600",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
+        "alvess.com": {
+            "epoch": "1633730400",
+            "expiration_date": "09-oct-2021",
+            "state": "future"
+        },
+        "alviersystems.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "alvinaalleen.ru": {
+            "epoch": "1586296800",
+            "expiration_date": "08-apr-2020",
+            "state": "future"
+        },
+        "alvinafina.asia": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "alvincollisioncenter.com": {
+            "epoch": "1605826800",
+            "expiration_date": "20-nov-2020",
+            "state": "future"
+        },
+        "alvinsgulf.com": {
+            "epoch": "1572217200",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "alvirameredith.ru": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "alvishealthcare.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "alvisi.kiev.ua": {
+            "epoch": "1574982000",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "alvisp.ru": {
@@ -65210,14 +65610,204 @@
             "expiration_date": "23-may-2019",
             "state": "future"
         },
+        "alvize.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "alvo3000.com.br": {
+            "epoch": "1578783600",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "alvodedetizadora.com.br": {
+            "epoch": "1690408800",
+            "expiration_date": "27-jul-2023",
+            "state": "future"
+        },
+        "alvopesquisa.com.br": {
+            "epoch": "1583708400",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
+        },
+        "alvoportas.com.br": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "alvoradams.com.br": {
+            "epoch": "1721253600",
+            "expiration_date": "18-jul-2024",
+            "state": "future"
+        },
+        "alvran.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "alvro.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
         "alvtank.se": {
             "epoch": "1550268000",
             "expiration_date": "16-feb-2019",
             "state": "future"
         },
+        "alwaantechnologies.com": {
+            "epoch": "1581894000",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "alwadifactory.com": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "alwaditravel.com": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "alwafaamedical.com": {
+            "epoch": "1614466800",
+            "expiration_date": "28-feb-2021",
+            "state": "future"
+        },
+        "alwafaaschool.com": {
+            "epoch": "1576364400",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "alwahacapitals.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "alwahahweb.com": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "alwake3press.com": {
+            "epoch": "1576364400",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "alwasluae.net": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "alwatan.org": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "alwatengroup.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "always-r-mobile.com": {
+            "epoch": "1578524400",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "always-win-here.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "always-win-here1.com": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "always.com.br": {
+            "epoch": "1574204400",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "alwaysaway.co.uk": {
+            "epoch": "1576364400",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "alwaysbestdisount.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "alwaysbesttips.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "alwaysbuy.cn": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "alwayscollections.com": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "alwaysconnected-pc.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "alwaysconstructionllc.com": {
+            "epoch": "1690322400",
+            "expiration_date": "26-jul-2023",
+            "state": "future"
+        },
+        "alwaysforward.net": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "alwaysforwardcrossfit.com": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "alwaysgame.ca": {
+            "epoch": "1579820400",
+            "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
+        "alwaysgirls.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "alwaysgreengrasspainting.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "alwayshashing.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "alwaysinprofit.com": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
         "alwaysirishshop.com": {
             "epoch": "1569621600",
             "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "alwaysmathanvideos.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
             "state": "future"
         },
         "alwen.fr": {
