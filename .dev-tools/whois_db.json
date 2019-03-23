@@ -81420,9 +81420,774 @@
             "expiration_date": "18-sep-2019",
             "state": "future"
         },
+        "ap-automobiles.fr": {
+            "epoch": "1573167600",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "ap-ple-com-l-cloud1829312.com": {
+            "epoch": "1548630000",
+            "expiration_date": "28-jan-2019",
+            "state": "past"
+        },
+        "ap-souz.com.ua": {
+            "epoch": "1580770800",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "apa-pentru-sanatate.ro": {
+            "epoch": "1669071600",
+            "expiration_date": "22-nov-2022",
+            "state": "future"
+        },
+        "apagmar.pl": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "apainvest.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "apaj42.net": {
+            "epoch": "1553295600",
+            "expiration_date": "23-mar-2019",
+            "state": "past"
+        },
+        "apajh73.com": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "apakenya.co.ke": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "apaktem.com": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "apalcour.fr": {
+            "epoch": "1579388400",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "apaleartcv.com": {
+            "epoch": "1547766000",
+            "expiration_date": "18-jan-2019",
+            "state": "past"
+        },
+        "apalomino.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "apapple.com": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "aparadisiac.cn": {
+            "epoch": "1600207200",
+            "expiration_date": "16-sep-2020",
+            "state": "future"
+        },
+        "aparajita-bd.net": {
+            "epoch": "1573945200",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "aparateauditiveploiesti.ro": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "aparatosolucoes.com.br": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "aparnamobile.com": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "aparnasinha.com": {
+            "epoch": "1683756000",
+            "expiration_date": "11-may-2023",
+            "state": "future"
+        },
+        "apartamente-brasov.ro": {
+            "epoch": "1577314800",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "apartamente-timisoara.ro": {
+            "epoch": "1577314800",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "apartamentoclick.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "apartamentosadriana.com.br": {
+            "epoch": "1550271600",
+            "expiration_date": "16-feb-2019",
+            "state": "past"
+        },
+        "apartamentosasturias.net": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "apartamentydelux.com": {
+            "epoch": "1574809200",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "apartamentyeuropa.pl": {
+            "epoch": "1574809200",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "apartamentypoleska.pl": {
+            "epoch": "1575414000",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "apartcar.com.ar": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "aparthotelavenida.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "aparthoteldonmatias.cl": {
+            "epoch": "1662847200",
+            "expiration_date": "11-sep-2022",
+            "state": "future"
+        },
+        "aparthotelholiday.it": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "aparthotelmontreal.com": {
+            "epoch": "1633471200",
+            "expiration_date": "06-oct-2021",
+            "state": "future"
+        },
+        "apartmani-kir-hvar.com": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "apartmani-vila.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "apartment-mall.cn": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "apartment.od.ua": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "apartmentalmighty.men": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "apartmentlover.com": {
+            "epoch": "1578092400",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "apartmentplan.fr": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "apartmentrentalsjamaica.com": {
+            "epoch": "1603576800",
+            "expiration_date": "25-oct-2020",
+            "state": "future"
+        },
+        "apartmobiliado.com.br": {
+            "epoch": "1579734000",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "apartmorze.pl": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "apartofwa.com": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "aparts.ee": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "apartvisiondevida.com.ar": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "apasai.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "apassaocarlos.com.br": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "apathetictheory.com": {
+            "epoch": "1629151200",
+            "expiration_date": "17-aug-2021",
+            "state": "future"
+        },
+        "apathys.stream": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "apatrisbank.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "apaweb.com": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "apawestflorida.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "apaydinlarogrenciyurdu.com": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "apbeachbar.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "apbfoundation.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "apbmmie.com": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "apbp.ru": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "apbrf.org": {
+            "epoch": "1604962800",
+            "expiration_date": "10-nov-2020",
+            "state": "future"
+        },
+        "apc-assets.com": {
+            "epoch": "1578610800",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "apc-esxi-shutdown.com": {
+            "epoch": "1568584800",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "apc-net.com": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "apc-nyc.org": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "apc-online.org": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "apcdubai.com": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "apceemanpower.com": {
+            "epoch": "1674169200",
+            "expiration_date": "20-jan-2023",
+            "state": "future"
+        },
+        "apcig.org": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "apcindonesia.com": {
+            "epoch": "1580425200",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "apcis.org": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "apcngassociation.com": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "apcod.org": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "apcoi.com": {
+            "epoch": "1586815200",
+            "expiration_date": "14-apr-2020",
+            "state": "future"
+        },
+        "apconsig.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "apcopower.com": {
+            "epoch": "1652997600",
+            "expiration_date": "20-may-2022",
+            "state": "future"
+        },
+        "apcraftgift.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "apctechsupport.com": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "apdbn.org": {
+            "epoch": "1585605600",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
+        "apdcrime.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "apddozcgdh.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "apdome.ru": {
+            "epoch": "1585004400",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
+        },
+        "apdrive.win": {
+            "epoch": "1686261600",
+            "expiration_date": "09-jun-2023",
+            "state": "future"
+        },
+        "apdsjndqweqwe.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "apdufbxofcj.ws": {
+            "epoch": "1703804400",
+            "expiration_date": "29-dec-2023",
+            "state": "future"
+        },
+        "ape.milano.it": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "ape78cn2.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "apeand.me": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "apec-ibiz.org": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "apechurch.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "apecmas.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "apecs.com.br": {
+            "epoch": "1583881200",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
+        "apeds.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "apedtg.org": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "apeelingstudios.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "apeemrm.net": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "apelaez.com.ar": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "apelevii.ro": {
+            "epoch": "1617573600",
+            "expiration_date": "05-apr-2021",
+            "state": "future"
+        },
+        "apendit.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "apephones.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
         "apepix.com": {
             "epoch": "1697407200",
             "expiration_date": "16-oct-2023",
+            "state": "future"
+        },
+        "apercus.stream": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "aperdosali.top": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "aperegrina.com.br": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "aperfecthost.biz": {
+            "epoch": "1579215600",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "aperfectimage.pl": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "aperfectvacuum.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "aperhu.com": {
+            "epoch": "1735858800",
+            "expiration_date": "03-jan-2025",
+            "state": "future"
+        },
+        "aperion.com.tr": {
+            "epoch": "1626991200",
+            "expiration_date": "23-jul-2021",
+            "state": "future"
+        },
+        "aperionetwork.com": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "aperolajoias.com.br": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "aperomanagement.fr": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "apersonalceremony.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "apertosib.ru": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "aperturedigitalcode.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "apeshitcartoon.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "apessay.com": {
+            "epoch": "1579302000",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "apester.com": {
+            "epoch": "1620597600",
+            "expiration_date": "10-may-2021",
+            "state": "future"
+        },
+        "apetaminbuyx.us": {
+            "epoch": "1579561200",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "apetepsi.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "apethorpevillage.co.uk": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "apetisant.ro": {
+            "epoch": "1593122400",
+            "expiration_date": "26-jun-2020",
+            "state": "future"
+        },
+        "apetitapp.com": {
+            "epoch": "1547938800",
+            "expiration_date": "20-jan-2019",
+            "state": "past"
+        },
+        "apetiube.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "apetpborcaoo.top": {
+            "epoch": "1578438000",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "apetsplaceforgrooming.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "apetytstop.pl": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "apex-ad.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "apex-coin.com": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "apex-coins.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "apex-coins.net": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "apex-instruments.com": {
+            "epoch": "1576796400",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "apex-mne.com": {
+            "epoch": "1631743200",
+            "expiration_date": "16-sep-2021",
+            "state": "future"
+        },
+        "apex-mobile.games": {
+            "epoch": "1581894000",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "apex-security-solutions.com": {
+            "epoch": "1576537200",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "apex6.com": {
+            "epoch": "1613948400",
+            "expiration_date": "22-feb-2021",
+            "state": "future"
+        },
+        "apexasiatravel.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "apexb2bmedia.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "apexcar.com.sg": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "apexcdn.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "apexcleaners.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "apexcoingain.com": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "apexcoingainer.com": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "apexcoingenerator.com": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "apexcoinsapp.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "apexcoinsbank.com": {
+            "epoch": "1581721200",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "apexcoinsfree.com": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "apexcoinsgainer.com": {
+            "epoch": "1581894000",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "apexcoinsgenerator.com": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "apexcoinshack.com": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "apexcoinvestment.com": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "apexcoinz.com": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "apexcorpn.com": {
+            "epoch": "1648335600",
+            "expiration_date": "27-mar-2022",
+            "state": "future"
+        },
+        "apexcrypto.biz": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "apexcrypto.us": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "apexdo.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
             "state": "future"
         },
         "aphroditeshaven.com": {
