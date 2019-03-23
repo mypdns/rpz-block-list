@@ -1782,5 +1782,29 @@
     "1553341785.0935419": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553342299.092454": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553342300.3237789": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553342497.9437456": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553342613.9259965": {
+        "domain": "amazn-security-de.club",
+        "extension": "club"
+    },
+    "1553342636.4823616": {
+        "domain": "amazo-nworldupdatecom.club",
+        "extension": "club"
+    },
+    "1553342820.5265284": {
+        "domain": "amazon-customer-care.club",
+        "extension": "club"
     }
 }
