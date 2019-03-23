@@ -99815,9 +99815,49 @@
             "expiration_date": "22-dec-2018",
             "state": "future"
         },
+        "arslanrauf.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "arslansecurity.info": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "arsmagnarecordings.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "arsmarri.ru": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "arsolit.ru": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "arsprojest.com.br": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
         "arsri.com": {
             "epoch": "1546034400",
             "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "arsseguridad.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "arssycro.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "arstaparkbilvard.se": {
@@ -99825,14 +99865,114 @@
             "expiration_date": "28-aug-2018",
             "state": "past"
         },
+        "arstra.com.br": {
+            "epoch": "1610319600",
+            "expiration_date": "11-jan-2021",
+            "state": "future"
+        },
+        "arsvxnqmbagxumcfw.net": {
+            "epoch": "1575154800",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "arsxczy.top": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "art-a.com.pl": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "art-archiv.ru": {
+            "epoch": "1577660400",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
         "art-art-art.info": {
             "epoch": "1572472800",
             "expiration_date": "31-oct-2019",
             "state": "future"
         },
+        "art-asfalt.com": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "art-bonapart.com": {
+            "epoch": "1574290800",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "art-businessgroup.com": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "art-city-perm.ru": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "art-co.com.pl": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "art-cover.ru": {
+            "epoch": "1584399600",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "art-curious.com": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "art-diament.pl": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "art-dom.ru": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "art-ecole.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
         "art-fashion.pl": {
-            "epoch": "1545343200",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576882800",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "art-karl-heinz-b.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "art-kyiv.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "art-landshaft.by": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "art-media.com.mx": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "art-mosfera.net": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
             "state": "future"
         },
         "art-n-couture.com": {
@@ -99840,9 +99980,44 @@
             "expiration_date": "27-may-2019",
             "state": "future"
         },
+        "art-nail.net": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
         "art-nym.info": {
             "epoch": "1548367200",
             "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "art-offer.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "art-pegasus.net": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "art-port.net": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "art-sagk.pl": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "art-stair.ru": {
+            "epoch": "1574031600",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "art-top.net": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
             "state": "future"
         },
         "art-tour.info.pl": {
@@ -99850,9 +100025,249 @@
             "expiration_date": "06-jan-2020",
             "state": "future"
         },
+        "art-traders.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "art-valy.com": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "art-wood.info.pl": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "art1.com": {
+            "epoch": "1604098800",
+            "expiration_date": "31-oct-2020",
+            "state": "future"
+        },
+        "art123.com": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "art178a.pl": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "art2-ilimsk.ru": {
+            "epoch": "1582498800",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "art2u.com.br": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "art964.com": {
+            "epoch": "1623103200",
+            "expiration_date": "08-jun-2021",
+            "state": "future"
+        },
+        "arta999.ru": {
+            "epoch": "1592344800",
+            "expiration_date": "17-jun-2020",
+            "state": "future"
+        },
+        "artachnid.com": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "artaia.com": {
+            "epoch": "1553468400",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "artak.com.mx": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "artaksolutions.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "artamahotels.com": {
+            "epoch": "1589839200",
+            "expiration_date": "19-may-2020",
+            "state": "future"
+        },
+        "artamail.com": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "artamistanbul.com": {
+            "epoch": "1596146400",
+            "expiration_date": "31-jul-2020",
+            "state": "future"
+        },
+        "artandclic.net": {
+            "epoch": "1553814000",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "artandcraftideas.net": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "artandcraftsmarketing.com": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "artandliving.com": {
+            "epoch": "1576450800",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "artandsmart.ru": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "artandstationery.co.uk": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "artandwax.com": {
+            "epoch": "1581807600",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "artanebuy.info": {
+            "epoch": "1574636400",
+            "expiration_date": "25-nov-2019",
+            "state": "future"
+        },
+        "artantik.net": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "artarq.com.br": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "artattackgraphics.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "artav-antivirus.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "artbanationalconvention.org": {
+            "epoch": "1644966000",
+            "expiration_date": "16-feb-2022",
+            "state": "future"
+        },
+        "artbeautyonline.com": {
+            "epoch": "1580598000",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "artbelarde.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "artbernard.ru": {
+            "epoch": "1581289200",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
+        "artblessing.ru": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "artblog.top": {
+            "epoch": "1572994800",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "artboxwedding.ru": {
+            "epoch": "1575241200",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "artburo.moscow": {
+            "epoch": "1611356400",
+            "expiration_date": "23-jan-2021",
+            "state": "future"
+        },
+        "artburo.su": {
+            "epoch": "1577314800",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "artbuy.cn": {
+            "epoch": "1617055200",
+            "expiration_date": "30-mar-2021",
+            "state": "future"
+        },
+        "artbuy.gallery": {
+            "epoch": "1577055600",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
+        "artbyjcrivera.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "artbysia.com": {
+            "epoch": "1580511600",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
+        },
+        "artcard.app": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "artcard.pro": {
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "artcard.style": {
+            "epoch": "1573599600",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "artcards.app": {
+            "epoch": "1606086000",
+            "expiration_date": "23-nov-2020",
+            "state": "future"
+        },
         "artcccp.com": {
             "epoch": "1550527200",
             "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "artcleanservicos.com.br": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "artclipart.ru": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "artcomix.com": {
@@ -99860,9 +100275,154 @@
             "expiration_date": "10-feb-2020",
             "state": "future"
         },
+        "artconic.com": {
+            "epoch": "1647298800",
+            "expiration_date": "15-mar-2022",
+            "state": "future"
+        },
+        "artconnecthost.com.br": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "artconstruct.ro": {
+            "epoch": "1655503200",
+            "expiration_date": "18-jun-2022",
+            "state": "future"
+        },
+        "artcoredesign.com": {
+            "epoch": "1583881200",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
+        "artcrating.net": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "artdecointikreasi.com": {
+            "epoch": "1573945200",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "artdecoratornia.co.uk": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "artdecorfashion.com": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "artdeko.info": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "artdirectortips.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "artdoza.ru": {
+            "epoch": "1587592800",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
+        },
+        "artdropship.com": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "artdufil.fr": {
+            "epoch": "1603404000",
+            "expiration_date": "23-oct-2020",
+            "state": "future"
+        },
+        "artebanner.com.br": {
+            "epoch": "1578351600",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
+        },
+        "artebinaria.com": {
+            "epoch": "1548630000",
+            "expiration_date": "28-jan-2019",
+            "state": "past"
+        },
+        "artebits.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "artebrasilpublicidade.com.br": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "artebru.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "artecapital.com.br": {
+            "epoch": "1646262000",
+            "expiration_date": "03-mar-2022",
+            "state": "future"
+        },
+        "artecasamoveis.com.br": {
+            "epoch": "1603404000",
+            "expiration_date": "23-oct-2020",
+            "state": "future"
+        },
+        "artecautomaten.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "artechentra.it": {
+            "epoch": "1553727600",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "artecontrolada.com.br": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "artecristiano.org": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "artedellafelicita.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "arteelegnoitalia.it": {
+            "epoch": "1577314800",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "arteemmetais.com.br": {
+            "epoch": "1612479600",
+            "expiration_date": "05-feb-2021",
+            "state": "future"
+        },
+        "arteencobre.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
         "arteenimagen.net": {
             "epoch": "1568152800",
             "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "artefact.is": {
+            "epoch": "1575154800",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "artefakct.com": {
@@ -99870,9 +100430,144 @@
             "expiration_date": "13-aug-2019",
             "state": "future"
         },
+        "artefatospedroni.com.br": {
+            "epoch": "1575414000",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "arteferrara.it": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "arteflowers.com": {
+            "epoch": "1580598000",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "artegrafik.com.mx": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "artehin.ru": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "arteinfissimortara.it": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
         "artel116.ru": {
             "epoch": "1562623200",
             "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "artelazermaringa.com.br": {
+            "epoch": "1548802800",
+            "expiration_date": "30-jan-2019",
+            "state": "past"
+        },
+        "artelegance.pl": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "artelf.ru": {
+            "epoch": "1586642400",
+            "expiration_date": "12-apr-2020",
+            "state": "future"
+        },
+        "artelmarket.ru": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "artematriz.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "artemavtocentr.ru": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "artemcaldaie.it": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "artemedievalenpiedra.com": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "artemidakrsk.ru": {
+            "epoch": "1579388400",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "artemisaffiliates.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "artemisguidance.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "artemisians.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "artemispublishers.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "artemo.ca": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "artemon.cz": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "artemoveis.com": {
+            "epoch": "1579388400",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "artenacara.com.br": {
+            "epoch": "1592776800",
+            "expiration_date": "22-jun-2020",
+            "state": "future"
+        },
+        "artentnu.com": {
+            "epoch": "1579388400",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "arteoral.com.br": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "arteparacasarte.com": {
+            "epoch": "1640732400",
+            "expiration_date": "29-dec-2021",
+            "state": "future"
+        },
+        "arteponte.org": {
+            "epoch": "1615330800",
+            "expiration_date": "10-mar-2021",
             "state": "future"
         },
         "arteprofana.com": {
@@ -99880,9 +100575,54 @@
             "expiration_date": "29-dec-2018",
             "state": "future"
         },
+        "arteproyectos.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "arteredperuana.com": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
         "arteriaatelie.com": {
             "epoch": "1569362400",
             "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "arteriorsolutions.co.uk": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "arterra.com.tr": {
+            "epoch": "1701558000",
+            "expiration_date": "03-dec-2023",
+            "state": "future"
+        },
+        "artery.com.br": {
+            "epoch": "1587592800",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
+        },
+        "arterydesigns.com": {
+            "epoch": "1576796400",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "artesaniabelenistasanjulian.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "artesaniamantasdelana.com": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "artesaniasdepuebla.com": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
             "state": "future"
         },
         "artesanoperfumista.com": {
@@ -99890,9 +100630,104 @@
             "expiration_date": "27-nov-2018",
             "state": "future"
         },
+        "artesanosdelacostura.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "artesdosul.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "artesehistoria.mx": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "arteshop.net": {
+            "epoch": "1563055200",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "artesiametals.com": {
+            "epoch": "1662242400",
+            "expiration_date": "04-sep-2022",
+            "state": "future"
+        },
+        "artesianwater-540.com.ua": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "arteslaser.com": {
+            "epoch": "1615503600",
+            "expiration_date": "12-mar-2021",
+            "state": "future"
+        },
+        "artespace.com.br": {
+            "epoch": "1588888800",
+            "expiration_date": "08-may-2020",
+            "state": "future"
+        },
         "artesproduction.com": {
             "epoch": "1572818400",
             "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "artesteknikservis.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "artesucarta.it": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "artesvitrales.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "artetmer.net": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "artetyg.com": {
+            "epoch": "1613775600",
+            "expiration_date": "20-feb-2021",
+            "state": "future"
+        },
+        "artevide.cz": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "artevideo.arq.br": {
+            "epoch": "1721253600",
+            "expiration_date": "18-jul-2024",
+            "state": "future"
+        },
+        "artevideodiscursivo.org": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "artexapparel.net": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "artextildelcaribe.com": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "arteypartespa.cl": {
+            "epoch": "1606431600",
+            "expiration_date": "27-nov-2020",
             "state": "future"
         },
         "arteysexo.com": {
@@ -99900,10 +100735,105 @@
             "expiration_date": "26-jan-2019",
             "state": "future"
         },
+        "artfilmdesign.net": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "artfin.com.ua": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "artflowers.pl": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "artformyhouse.com": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "artfullyrestless.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "artfulsilk.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "artfultouchonline.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "artfut.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "artfv.com": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "artgallery-tomov.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "artgallerycolle.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "artgraf.net.pl": {
+            "epoch": "1580598000",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "artgrafite.com.br": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "arthabanguncemerlang.com": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
         "arthadebang.co.id": {
             "epoch": "1546902000",
             "expiration_date": "08-jan-2019",
             "state": "past"
+        },
+        "arthaelektrik.net": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "arthagraha.net": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "arthalo.com": {
+            "epoch": "1550012400",
+            "expiration_date": "13-feb-2019",
+            "state": "past"
+        },
+        "arthaman.co.id": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "arthatrijaya.com": {
+            "epoch": "1599516000",
+            "expiration_date": "08-sep-2020",
+            "state": "future"
         },
         "arthosurface.com": {
             "epoch": "1554588000",
