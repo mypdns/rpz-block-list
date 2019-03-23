@@ -1,8 +1,8 @@
 {
     "/home/travis/build/spirillen/rpz-block-list/PULL_REQUESTS/domains.txt": {
-        "down": 22411,
+        "down": 22441,
         "invalid": 0,
-        "tested": 95278,
-        "up": 72867
+        "tested": 95983,
+        "up": 73542
     }
 }
