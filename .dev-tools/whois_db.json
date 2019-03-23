@@ -88770,6 +88770,621 @@
             "expiration_date": "18-nov-2019",
             "state": "future"
         },
+        "apple-occ.top": {
+            "epoch": "1577746800",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
+        },
+        "apple-oct.top": {
+            "epoch": "1578783600",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "apple-oddball.bid": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "apple-office.live": {
+            "epoch": "1574982000",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "apple-official.com": {
+            "epoch": "1575327600",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "apple-oid1s.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "apple-ok.com": {
+            "epoch": "1572649200",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "apple-oltenappeid-appleapepblac.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "apple-onderdelen.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "apple-online-store.com": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "apple-online.info": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "apple-online.net": {
+            "epoch": "1571349600",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "apple-online.vip": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "apple-onlinehelp.com": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "apple-oordopjes.shop": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "apple-oortjes.shop": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "apple-oos.top": {
+            "epoch": "1582671600",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "apple-opener.top": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "apple-optom.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "apple-order-status.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "apple-order.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "apple-orderconfirmation-payment-chainsmokers.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "apple-orderpending-notification.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "apple-original.com": {
+            "epoch": "1580770800",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "apple-osxgeniusbar.info": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "apple-page.com": {
+            "epoch": "1575846000",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
+        },
+        "apple-paischile.com": {
+            "epoch": "1547161200",
+            "expiration_date": "11-jan-2019",
+            "state": "past"
+        },
+        "apple-paris.com": {
+            "epoch": "1574463600",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "apple-park.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "apple-part.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-partly.top": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "apple-partnerships.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "apple-passecode.com": {
+            "epoch": "1578438000",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "apple-password.com": {
+            "epoch": "1553295600",
+            "expiration_date": "23-mar-2019",
+            "state": "past"
+        },
+        "apple-passwordreset.com": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "apple-pay.bid": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "apple-pay.domains": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "apple-pay.gratis": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "apple-pay.gripe": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "apple-pay.guide": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "apple-pay.guru": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "apple-pay.info": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "apple-pay.productions": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "apple-payment-account-centre.com": {
+            "epoch": "1573945200",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "apple-payment-accounts-centre.com": {
+            "epoch": "1573945200",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "apple-payment-issue.com": {
+            "epoch": "1573945200",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "apple-payment-support.net": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "apple-payment-verification.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "apple-payment.net": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "apple-payment.org": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "apple-payment.services": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "apple-payments-account-centre.com": {
+            "epoch": "1573945200",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "apple-paymentstore.com": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "apple-paysecure.com": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "apple-pdf.com": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "apple-peel.com": {
+            "epoch": "1609628400",
+            "expiration_date": "03-jan-2021",
+            "state": "future"
+        },
+        "apple-pen.info": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "apple-pen.net": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "apple-pencil.top": {
+            "epoch": "1582498800",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "apple-ph-com.info": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "apple-ph-support.info": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "apple-ph.com": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "apple-pharma.com": {
+            "epoch": "1569880800",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "apple-phi.com": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "apple-phobedd.top": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "apple-phone-number.com": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "apple-phone.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "apple-phone.top": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "apple-phone77.ru": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "apple-phonenumber.com": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "apple-pick.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "apple-pie111.com": {
+            "epoch": "1579388400",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "apple-pjj.com": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "apple-plane.ru": {
+            "epoch": "1584918000",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "apple-playteds.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "apple-plaza.com": {
+            "epoch": "1577919600",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "apple-plc.com": {
+            "epoch": "1549407600",
+            "expiration_date": "06-feb-2019",
+            "state": "past"
+        },
+        "apple-poker.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "apple-police.com": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "apple-premier.support": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "apple-primary.support": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "apple-prime.com": {
+            "epoch": "1581202800",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
+        "apple-print.ru": {
+            "epoch": "1578870000",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "apple-privacy.net": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "apple-prize-giveaway.today": {
+            "epoch": "1553641200",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "apple-pro-teacher.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "apple-problemadelacuenta.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "apple-process.com": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "apple-productions.com": {
+            "epoch": "1604530800",
+            "expiration_date": "05-nov-2020",
+            "state": "future"
+        },
+        "apple-products.com": {
+            "epoch": "1548802800",
+            "expiration_date": "30-jan-2019",
+            "state": "past"
+        },
+        "apple-products.win": {
+            "epoch": "1551135600",
+            "expiration_date": "26-feb-2019",
+            "state": "past"
+        },
+        "apple-prof.ru": {
+            "epoch": "1578870000",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "apple-professional-learning.com": {
+            "epoch": "1560722400",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "apple-professor.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "apple-profi.ru": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "apple-profit.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "apple-program.com": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "apple-promo.net": {
+            "epoch": "1579474800",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "apple-proservice.com": {
+            "epoch": "1581202800",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
+        "apple-protect.bid": {
+            "epoch": "1564610400",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "apple-protect.business": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-protect.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-protect.net": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-protection-ml.bid": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "apple-protection.bid": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "apple-protects.com": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "apple-ptt.top": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "apple-purchase-icloud2tb.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "apple-purchase.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "apple-put.top": {
+            "epoch": "1577919600",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "apple-px.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "apple-py.com": {
+            "epoch": "1572217200",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "apple-q.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "apple-questions.com": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "apple-rain.com": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "apple-rampart.top": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "apple-re-cover.ru": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "apple-re-store.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "apple-receipt-verify.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "apple-recipe.info": {
+            "epoch": "1574809200",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "apple-recovery-account.org": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "apple-recovery-update.com": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "apple-recovery.info": {
+            "epoch": "1579906800",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
         "appsecurityr.com": {
             "epoch": "1536789600",
             "expiration_date": "13-sep-2018",
