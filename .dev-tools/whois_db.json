@@ -51870,6 +51870,576 @@
             "expiration_date": "22-jan-2019",
             "state": "past"
         },
+        "afri-mart.com": {
+            "epoch": "1553900400",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "africa-overland.co.uk": {
+            "epoch": "1519426800",
+            "expiration_date": "24-feb-2018",
+            "state": "past"
+        },
+        "africanchilli.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "africancinema.org": {
+            "epoch": "1632434400",
+            "expiration_date": "24-sep-2021",
+            "state": "future"
+        },
+        "africancowboys.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "africandevelopmentbank.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "africandreamholidays.co.tz": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "africanelephantfund.org": {
+            "epoch": "1636585200",
+            "expiration_date": "11-nov-2021",
+            "state": "future"
+        },
+        "africangrey.co.zm": {
+            "epoch": "1550098800",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
+        },
+        "africangrey.top": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "africangypsyjazz.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "africanherbalhealth.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "africanism.net": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "africanizingchristianart.com": {
+            "epoch": "1582585200",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
+        "africanleadershipcentre.org": {
+            "epoch": "1593122400",
+            "expiration_date": "26-jun-2020",
+            "state": "future"
+        },
+        "africanmango.pl": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "africanmango900.pl": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "africanmovieindustry.net": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "africannetworkofwomenshelters.org": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "africanpalacecasino.com": {
+            "epoch": "1603666800",
+            "expiration_date": "26-oct-2020",
+            "state": "future"
+        },
+        "africanpeace.org": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "africanphotostock.com": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "africanpornhub.com": {
+            "epoch": "1580425200",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "africanroots.biz": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "africanrosella.co.za": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "africanshippingline.com": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "africanspiceexpeditions.com": {
+            "epoch": "1581980400",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
+        },
+        "africanspicesafaris.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "africanthunderevents.co.za": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "africantradefairpartners.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "africantrails.co.tz": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "africanwomen.co.uk": {
+            "epoch": "1625349600",
+            "expiration_date": "04-jul-2021",
+            "state": "future"
+        },
+        "africanwriters.net": {
+            "epoch": "1576882800",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "africaphotosafari.net": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "africaplc.com": {
+            "epoch": "1620511200",
+            "expiration_date": "09-may-2021",
+            "state": "future"
+        },
+        "africasciences.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "africaspromise.org": {
+            "epoch": "1578092400",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "africastockimages.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "africastrongspiritualhealer.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "africation.org": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "africauniversitysports.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "africavizatravel.com": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "africawa.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "africawin.com": {
+            "epoch": "1585951200",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
+        },
+        "africawinter.co.ke": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "africec.org": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "africimmo.com": {
+            "epoch": "1673650800",
+            "expiration_date": "14-jan-2023",
+            "state": "future"
+        },
+        "africindustries.com": {
+            "epoch": "1576105200",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "africoon.com": {
+            "epoch": "1583794800",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "afriflatry.co": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "afrigale.co": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "afrigrowth.org": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "afriji.com": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "afrika.by": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "afrikad.com": {
+            "epoch": "1581807600",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "afrikannames.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "afrikitti.com": {
+            "epoch": "1584399600",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "afrilandfirstbankci.com": {
+            "epoch": "1581980400",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
+        },
+        "afrimove.com": {
+            "epoch": "1581721200",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "afrin-now.com": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "afrin2.com": {
+            "epoch": "1583622000",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
+        "afrin24.net": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "afrineyardimciol.com": {
+            "epoch": "1553814000",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "afrineyardimgonder.com": {
+            "epoch": "1553814000",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "afrinmarsi.com": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "afrinmarsi.net": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "afrinmarsi.org": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "afrinsultana.com": {
+            "epoch": "1581980400",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
+        },
+        "afrint.com": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "afrinturkusu.com": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "afrinzaferi.com": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "afripottours.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "afriquecalabashsafaris.com": {
+            "epoch": "1600984800",
+            "expiration_date": "25-sep-2020",
+            "state": "future"
+        },
+        "afriquehealthcare.com": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "afriquenouvelle.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "afrirent.co.za": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "afrirent.net": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "afrisbank.com": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "afrisoftgroup.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "afrisolutionstraining.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "afristat.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "afritaxconsult.com": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "afritraders.com": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "afrits.stream": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "afriweb.co.ke": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "afriyie.net": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "afrizolanetwork.com": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "afrj.us": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "afrochicparis.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "afrodaze.date": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "afrogeo.com": {
+            "epoch": "1631656800",
+            "expiration_date": "15-sep-2021",
+            "state": "future"
+        },
+        "afropackaging.com": {
+            "epoch": "1577314800",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "afroqben.com": {
+            "epoch": "1720648800",
+            "expiration_date": "11-jul-2024",
+            "state": "future"
+        },
+        "afrorelationships.com": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "afrosluts.com": {
+            "epoch": "1579388400",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "afrosolo.org": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "afrtech.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "afruc.org": {
+            "epoch": "1553986800",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "afsanalytics.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "afsandeberg.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "afsavings.com": {
+            "epoch": "1606863600",
+            "expiration_date": "02-dec-2020",
+            "state": "future"
+        },
+        "afscontabilrj.com.br": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "afshidelectric.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "afshipping.com": {
+            "epoch": "1585263600",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
+        "afslearnenglish.com": {
+            "epoch": "1582498800",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "afspatna.com": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "afsul.com.br": {
+            "epoch": "1576969200",
+            "expiration_date": "22-dec-2019",
+            "state": "future"
+        },
+        "afsw.it": {
+            "epoch": "1553036400",
+            "expiration_date": "20-mar-2019",
+            "state": "past"
+        },
+        "afszhdemurely.download": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "afszyjulkukg.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "aftabexch.info": {
+            "epoch": "1595023200",
+            "expiration_date": "18-jul-2020",
+            "state": "future"
+        },
+        "aftabfood.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "aftabfoodsbd.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "aftabihrt.org": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
         "agstracker.com": {
             "epoch": "1568930400",
             "expiration_date": "20-sep-2019",
