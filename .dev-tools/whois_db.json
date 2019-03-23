@@ -78615,6 +78615,46 @@
             "expiration_date": "29-sep-2019",
             "state": "future"
         },
+        "anti-virus-software.com": {
+            "epoch": "1654552800",
+            "expiration_date": "07-jun-2022",
+            "state": "future"
+        },
+        "anti-virusdownload.com": {
+            "epoch": "1579906800",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
+        "anti-viruses.net": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "anti-virushelp.com": {
+            "epoch": "1547161200",
+            "expiration_date": "11-jan-2019",
+            "state": "past"
+        },
+        "anti-virushelpline.com": {
+            "epoch": "1547679600",
+            "expiration_date": "17-jan-2019",
+            "state": "past"
+        },
+        "anti-viruss.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "anti-virussoftware.com": {
+            "epoch": "1553814000",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "anti-virussupport.co.uk": {
+            "epoch": "1544396400",
+            "expiration_date": "10-dec-2018",
+            "state": "past"
+        },
         "antibody.co.kr": {
             "epoch": "1568844000",
             "expiration_date": "19-sep-2019",
@@ -78633,6 +78673,876 @@
         "anticosm.com": {
             "epoch": "1545948000",
             "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "antiquenepaltreks.com": {
+            "epoch": "1553554800",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "antiques-stuff.com": {
+            "epoch": "1586037600",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
+        },
+        "antiquetrade.net": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "antiquitesmaison.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "antirayapjakarta.co.id": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "antirecruitment.co.uk": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "antirughenaturale.com": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "antis-peru.com": {
+            "epoch": "1586383200",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
+        },
+        "antiseismic.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "antishareware.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "antishtraf.com.ua": {
+            "epoch": "1580338800",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "antislash.fr": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "antisnob.stream": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "antisnoredevicereview.com": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "antisocial.com": {
+            "epoch": "1574550000",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "antisocialmedia.net": {
+            "epoch": "1590012000",
+            "expiration_date": "21-may-2020",
+            "state": "future"
+        },
+        "antisocialmediallc.com": {
+            "epoch": "1574204400",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "antispamassistant.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "antispams.stream": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "antispy-soft.com": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "antispycheck.com": {
+            "epoch": "1549321200",
+            "expiration_date": "05-feb-2019",
+            "state": "past"
+        },
+        "antispyexpert.com": {
+            "epoch": "1581807600",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "antispykit.com": {
+            "epoch": "1582066800",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "antispylab.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "antispyscan.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "antispysolutions.com": {
+            "epoch": "1576105200",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "antispyspider.us": {
+            "epoch": "1551999600",
+            "expiration_date": "08-mar-2019",
+            "state": "past"
+        },
+        "antispystore.com": {
+            "epoch": "1575932400",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "antispyware.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "antispyware.org": {
+            "epoch": "1569880800",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "antispyware2008.com": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "antispywarebot.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "antispywarebox.com": {
+            "epoch": "1576105200",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "antispywarecontrol.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "antispywaredownloads.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "antispywareexpert.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "antispywaremaster.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "antispywareplus.com": {
+            "epoch": "1557093600",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "antispywares.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "antispywaresuite.com": {
+            "epoch": "1608764400",
+            "expiration_date": "24-dec-2020",
+            "state": "future"
+        },
+        "antispywareupdates.net": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "antispyweb.net": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "antispyzone.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "antistat.stream": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "antistereotip.ru": {
+            "epoch": "1572994800",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "antistress-vl.com": {
+            "epoch": "1582066800",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "antitank.stream": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "antitanser.com": {
+            "epoch": "1553641200",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "antitecnologia.com": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "antiterror-security.agency": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.company": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.expert": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.guru": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.solutions": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.support": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.systems": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.technology": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterror-security.today": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterrorsecurity.expert": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antiterrorsecurity.guru": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "antithesistjjbub.download": {
+            "epoch": "1549321200",
+            "expiration_date": "05-feb-2019",
+            "state": "past"
+        },
+        "antitoolbar.com": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "antitype.stream": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "antivermins.com": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "antivir.ru": {
+            "epoch": "1578178800",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "antivir2007.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "antiviralsoftware.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "antivircheckerext.biz": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "antivirenscanner.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "antivirgear.com": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "antivirgins.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "antivirguardext.biz": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "antivirscan.info": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "antivirscan.net": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "antivirsurfingext.biz": {
+            "epoch": "1576882800",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "antivirus--info.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "antivirus-activation.com": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "antivirus-android.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "antivirus-apps.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "antivirus-avg.ru": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "antivirus-bestprice.com": {
+            "epoch": "1553641200",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "antivirus-bitdefender.com": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "antivirus-buy.com": {
+            "epoch": "1546988400",
+            "expiration_date": "09-jan-2019",
+            "state": "past"
+        },
+        "antivirus-care.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "antivirus-cart.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "antivirus-comparatif.com": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "antivirus-customer-service.com": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "antivirus-customer-support.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "antivirus-customerservice.com": {
+            "epoch": "1549494000",
+            "expiration_date": "07-feb-2019",
+            "state": "past"
+        },
+        "antivirus-downloads.org": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "antivirus-email.com": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "antivirus-en-ligne.info": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "antivirus-escan.ru": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "antivirus-free-click.com": {
+            "epoch": "1584486000",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
+        "antivirus-free-download.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "antivirus-free.com": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "antivirus-free.net": {
+            "epoch": "1546470000",
+            "expiration_date": "03-jan-2019",
+            "state": "past"
+        },
+        "antivirus-free2017.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "antivirus-gold.com": {
+            "epoch": "1553554800",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "antivirus-gratis.info": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "antivirus-gratuit.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "antivirus-gratuits.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "antivirus-help-number.com": {
+            "epoch": "1581807600",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "antivirus-help.co.uk": {
+            "epoch": "1552518000",
+            "expiration_date": "14-mar-2019",
+            "state": "past"
+        },
+        "antivirus-help.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "antivirus-help.org": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "antivirus-helpline-number.com": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "antivirus-helpline-number.org": {
+            "epoch": "1575932400",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "antivirus-helpline.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "antivirus-helpline.net": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "antivirus-helpnumber.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "antivirus-home.com": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "antivirus-informatique.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "antivirus-kala.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "antivirus-kart.com": {
+            "epoch": "1546988400",
+            "expiration_date": "09-jan-2019",
+            "state": "past"
+        },
+        "antivirus-kaspersky.net": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "antivirus-live.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "antivirus-mac-protect.com": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "antivirus-number.com": {
+            "epoch": "1579215600",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "antivirus-number.org": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "antivirus-online.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "antivirus-para.com": {
+            "epoch": "1586296800",
+            "expiration_date": "08-apr-2020",
+            "state": "future"
+        },
+        "antivirus-phone-number.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "antivirus-pro.net": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "antivirus-protection-tools.com": {
+            "epoch": "1547334000",
+            "expiration_date": "13-jan-2019",
+            "state": "past"
+        },
+        "antivirus-repair.com": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "antivirus-reviewed.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "antivirus-sales.com": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "antivirus-sales.net": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "antivirus-scanner.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "antivirus-secure.com": {
+            "epoch": "1548716400",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
+        },
+        "antivirus-secure.info": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "antivirus-secures.info": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "antivirus-security.info": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "antivirus-security.net": {
+            "epoch": "1579042800",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
+        "antivirus-setup.com": {
+            "epoch": "1582066800",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "antivirus-software.org": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "antivirus-softwareupdates.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "antivirus-store.com": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "antivirus-store.net": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "antivirus-support-center.com": {
+            "epoch": "1580338800",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "antivirus-support-number.com": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "antivirus-support-number.net": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "antivirus-support-number.org": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "antivirus-support.click": {
+            "epoch": "1546988400",
+            "expiration_date": "09-jan-2019",
+            "state": "past"
+        },
+        "antivirus-support.com": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "antivirus-support.net": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "antivirus-supportaustralia.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "antivirus-supportcentre.com": {
+            "epoch": "1580511600",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
+        },
+        "antivirus-supportnumber.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "antivirus-supports-number.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "antivirus-supports.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "antivirus-technical-help.com": {
+            "epoch": "1580252400",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
+        "antivirus-technical-support.com": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "antivirus-technicalsupport.com": {
+            "epoch": "1547506800",
+            "expiration_date": "15-jan-2019",
+            "state": "past"
+        },
+        "antivirus-testsieger.net": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "antivirus-top10.org": {
+            "epoch": "1572562800",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "antivirus-upgrade.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "antivirus-uyarisi.link": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "antivirus.agency": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "antivirus.cat": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "antivirus.click": {
+            "epoch": "1543100400",
+            "expiration_date": "25-nov-2018",
+            "state": "past"
+        },
+        "antivirus.express": {
+            "epoch": "1588197600",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
+        },
+        "antivirus.guru": {
+            "epoch": "1580684400",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "antivirus.life": {
+            "epoch": "1582671600",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "antivirus.live": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "antivirus.media": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "antivirus.news": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "antivirus.nu": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "antivirus.party": {
+            "epoch": "1552777200",
+            "expiration_date": "17-mar-2019",
+            "state": "past"
+        },
+        "antivirus.plus": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "antivirus.red": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "antivirus.solutions": {
+            "epoch": "1583708400",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
+        },
+        "antivirus.support": {
+            "epoch": "1584918000",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "anycracks.com": {
