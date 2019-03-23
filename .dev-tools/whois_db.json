@@ -69105,9 +69105,724 @@
             "expiration_date": "20-mar-2020",
             "state": "future"
         },
+        "amazon-sercole.com": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "amazon-serv.com": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "amazon-service-0012.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "amazon-service-centre.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "amazon-service-clue.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "amazon-service.care": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "amazon-service.tokyo": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "amazon-service0.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "amazon-service0.net": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "amazon-service0.org": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "amazon-servicecare.com": {
+            "epoch": "1576364400",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
+        },
+        "amazon-servicee.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "amazon-servicehelp.com": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "amazon-servicehelp.info": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "amazon-services.care": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "amazon-services.tokyo": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "amazon-servicesid.com": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "amazon-servie.com": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "amazon-setupecho.com": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "amazon-sevce.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "amazon-ship.com": {
+            "epoch": "1577660400",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "amazon-shoopping-look.net": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "amazon-shop.app": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "amazon-shopee.com": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "amazon-shoponline.com": {
+            "epoch": "1578438000",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "amazon-sicherheit-kundenkonto.info": {
+            "epoch": "1574982000",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "amazon-sl2tag-20-linkid.com": {
+            "epoch": "1572390000",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "amazon-sl2tag-link-id.com": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "amazon-society.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "amazon-society.org": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "amazon-space.ru": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "amazon-ss.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "amazon-ssl.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "amazon-statenisland.com": {
+            "epoch": "1573599600",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "amazon-store.co": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "amazon-strom.com": {
+            "epoch": "1571695200",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "amazon-student.com": {
+            "epoch": "1574031600",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "amazon-studygland.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "amazon-sudan.com": {
+            "epoch": "1553641200",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "amazon-supplychain.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "amazon-support-account-centre.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "amazon-support-accounts-centre.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "amazon-support-centre.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "amazon-support-team.uk": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "amazon-supportinit.com": {
+            "epoch": "1664316000",
+            "expiration_date": "28-sep-2022",
+            "state": "future"
+        },
+        "amazon-supports-centre.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "amazon-suspend.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "amazon-sw.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "amazon-swa.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "amazon-swag.com": {
+            "epoch": "1575932400",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "amazon-systemfrauds.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "amazon-systemverif.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "amazon-techreviews.com": {
+            "epoch": "1577660400",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "amazon-tiktok.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "amazon-tipps.com": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "amazon-toblow.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "amazon-token.com": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "amazon-tool.net": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "amazon-top-deals.com": {
+            "epoch": "1577746800",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
+        },
+        "amazon-towing.com": {
+            "epoch": "1574636400",
+            "expiration_date": "25-nov-2019",
+            "state": "future"
+        },
+        "amazon-treasures.com": {
+            "epoch": "1578524400",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "amazon-truck.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "amazon-two-step-verification.com": {
+            "epoch": "1572994800",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "amazon-uk.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "amazon-update.info": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "amazon-us.shop": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "amazon-user-2019.com": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "amazon-vadata.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "amazon-validate.com": {
+            "epoch": "1553641200",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "amazon-validatesyst.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "amazon-vehicles-purchases.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "amazon-vehicles-support-sales.com": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "amazon-verification-deutschland-safer-info.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "amazon-verification-deutschland-safer-security-info.com": {
+            "epoch": "1575414000",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "amazon-verification-deutschland-safer.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "amazon-verification-deutschland-safer.info": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "amazon-verification-team.com": {
+            "epoch": "1574463600",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "amazon-verification.info": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "amazon-verificationsecure.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "amazon-verifyservice.com": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "amazon-vipclub.com": {
+            "epoch": "1573599600",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "amazon-vp.com": {
+            "epoch": "1631052000",
+            "expiration_date": "08-sep-2021",
+            "state": "future"
+        },
+        "amazon-wa.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "amazon-waf.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "amazon-walmart.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "amazon-web-service.net": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "amazon-web-services.net": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "amazon-web-services.org": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "amazon-web-student.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "amazon-web.app": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "amazon-weed.com": {
+            "epoch": "1576882800",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "amazon-werbung.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "amazon-wheel.com": {
+            "epoch": "1608418800",
+            "expiration_date": "20-dec-2020",
+            "state": "future"
+        },
+        "amazon-wi-fi-locker.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "amazon-win.info": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "amazon-winner.com": {
+            "epoch": "1572562800",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "amazon-winners.com": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "amazon-winning-products.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "amazon-wizard.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "amazon-wl.com": {
+            "epoch": "1583881200",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
+        "amazon-women.com": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "amazon-wood.com": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "amazon-woods.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "amazon-x.com": {
+            "epoch": "1610233200",
+            "expiration_date": "10-jan-2021",
+            "state": "future"
+        },
+        "amazon-xuanfei.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "amazon-z.org": {
+            "epoch": "1600552800",
+            "expiration_date": "20-sep-2020",
+            "state": "future"
+        },
+        "amazon-zm.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "amazon-zuo.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "amazon.productions": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "amazon.property": {
+            "epoch": "1572994800",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "amazon.sport": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "amazon.swiss": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "amazon.taxi": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "amazon.tienda": {
+            "epoch": "1578438000",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "amazon.tires": {
+            "epoch": "1584918000",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
         "amazonco.uk": {
             "epoch": "1569016800",
             "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "amazonofferz.com": {
+            "epoch": "1612738800",
+            "expiration_date": "08-feb-2021",
+            "state": "future"
+        },
+        "amazonoffice.com.br": {
+            "epoch": "1613862000",
+            "expiration_date": "21-feb-2021",
+            "state": "future"
+        },
+        "amazonofficials.com": {
+            "epoch": "1581289200",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
+        "amazonofhair.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "amazonofrx.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "amazonogh.com": {
+            "epoch": "1583967600",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
+        "amazonoid.com": {
+            "epoch": "1584226800",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "amazonoiu.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "amazonomnicell.com": {
+            "epoch": "1549321200",
+            "expiration_date": "05-feb-2019",
+            "state": "past"
+        },
+        "amazononboarding.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "amazononestop.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "amazononevendor.com": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "amazononline.global": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "amazononlinecontest.com": {
+            "epoch": "1576537200",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "amazononlinemarketing.info": {
+            "epoch": "1578524400",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "amazononlinesolutions.com": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "amazononmars.com": {
+            "epoch": "1575932400",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "amazononthego.com": {
+            "epoch": "1600293600",
+            "expiration_date": "17-sep-2020",
+            "state": "future"
+        },
+        "amazonontshirts.com": {
+            "epoch": "1611097200",
+            "expiration_date": "20-jan-2021",
+            "state": "future"
+        },
+        "amazonoonc.com": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "amazonopiniones.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "amazonoptech.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "amazonoptimering.com": {
+            "epoch": "1576537200",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "amazonoptionstrading.com": {
+            "epoch": "1610060400",
+            "expiration_date": "08-jan-2021",
+            "state": "future"
+        },
+        "amazonorder.org": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "amazonorsupply.com": {
+            "epoch": "1599429600",
+            "expiration_date": "07-sep-2020",
+            "state": "future"
+        },
+        "amazonorte.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "amazonot.com": {
+            "epoch": "1597269600",
+            "expiration_date": "13-aug-2020",
             "state": "future"
         },
         "amberform.com": {
