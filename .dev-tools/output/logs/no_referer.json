@@ -1558,5 +1558,17 @@
     "1553331082.44853": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553331583.0800598": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553331584.2506742": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553331806.0475793": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
     }
 }
