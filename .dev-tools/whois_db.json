@@ -83335,6 +83335,411 @@
             "expiration_date": "12-mar-2020",
             "state": "future"
         },
+        "app-secure-web-resolutioncenterupdated.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secure.services": {
+            "epoch": "1580252400",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
+        "app-secure1.com": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "app-securecancelations.business": {
+            "epoch": "1574463600",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "app-securedpaymentforcancel991.com": {
+            "epoch": "1575154800",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "app-securesecurityservice100.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "app-securesecurityservice101.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "app-securesecurityservice103.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "app-securesecurityservice104.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "app-securesecurityservice107.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "app-securesecurityservice108.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5001.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5002.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5003.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5004.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5005.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5006.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5007.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5008.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5009.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5010.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5011.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5012.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5013.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5014.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5015.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5016.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5017.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-secureyouraccout5019.com": {
+            "epoch": "1581116400",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
+        },
+        "app-securitygameorder22.com": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "app-sell.us": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "app-service-accounts.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "app-services-secure.com": {
+            "epoch": "1578870000",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "app-signauth-webappsmcsrc.com": {
+            "epoch": "1549407600",
+            "expiration_date": "06-feb-2019",
+            "state": "past"
+        },
+        "app-smart-security.com": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "app-sms-icloud.com": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "app-sms-mobile.net": {
+            "epoch": "1574031600",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "app-softbank.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "app-stop-japon.com": {
+            "epoch": "1553727600",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "app-store-apple.com": {
+            "epoch": "1550617200",
+            "expiration_date": "20-feb-2019",
+            "state": "past"
+        },
+        "app-store-center.com": {
+            "epoch": "1549580400",
+            "expiration_date": "08-feb-2019",
+            "state": "past"
+        },
+        "app-store-downloads.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "app-store-subscriptions.com": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "app-store-verify5.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "app-store-verify9.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "app-subscription-dropbox-confirmation-id9100.com": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "app-supportinformation.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "app-update-myaccount-activity.center": {
+            "epoch": "1573426800",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "app-updateviction.app": {
+            "epoch": "1577055600",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
+        "app-verifynoticeid.net": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "app-verifyonln.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "app-verifypurchaseservice5121.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "app-virusprotection.info": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "app-walmart.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "app-yandex.ru": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "app.link": {
+            "epoch": "1805324400",
+            "expiration_date": "18-mar-2027",
+            "state": "future"
+        },
+        "appcryptonia.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "appdasher.com": {
+            "epoch": "1580425200",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "appdatum.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "appdevsecrets.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "appdle-supportind.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "appdog.com": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "appdog.org": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "appdom.mobi": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "appdownloadcity.com": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "appdriver.cn": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "appdriver.com.cn": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "appdynamics.asia": {
+            "epoch": "1639090800",
+            "expiration_date": "10-dec-2021",
+            "state": "future"
+        },
+        "appdynamics.biz": {
+            "epoch": "1638745200",
+            "expiration_date": "06-dec-2021",
+            "state": "future"
+        },
+        "appdynamics.com": {
+            "epoch": "1752271200",
+            "expiration_date": "12-jul-2025",
+            "state": "future"
+        },
+        "appdynamics.info": {
+            "epoch": "1638831600",
+            "expiration_date": "07-dec-2021",
+            "state": "future"
+        },
+        "appdynamics.mobi": {
+            "epoch": "1639177200",
+            "expiration_date": "11-dec-2021",
+            "state": "future"
+        },
+        "appdynamics.net": {
+            "epoch": "1654552800",
+            "expiration_date": "07-jun-2022",
+            "state": "future"
+        },
+        "appdynamics.org": {
+            "epoch": "1638831600",
+            "expiration_date": "07-dec-2021",
+            "state": "future"
+        },
+        "appdynamics.us": {
+            "epoch": "1639090800",
+            "expiration_date": "10-dec-2021",
+            "state": "future"
+        },
+        "appeal-amazon.org": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "appealed.stream": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "appealer.stream": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "appealinglingerie.com": {
+            "epoch": "1668726000",
+            "expiration_date": "18-nov-2022",
+            "state": "future"
+        },
+        "appealmobile.com": {
+            "epoch": "1579215600",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "appeals.stream": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
         "appsecurityr.com": {
             "epoch": "1536789600",
             "expiration_date": "13-sep-2018",
