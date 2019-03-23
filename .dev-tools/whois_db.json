@@ -86935,6 +86935,471 @@
             "expiration_date": "27-jul-2019",
             "state": "future"
         },
+        "apple-ifegiphone.com": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "apple-ifena.com": {
+            "epoch": "1549494000",
+            "expiration_date": "07-feb-2019",
+            "state": "past"
+        },
+        "apple-ifeyiphone.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "apple-ifind.com": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "apple-ifogiphone.com": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "apple-iforget.info": {
+            "epoch": "1583794800",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "apple-iforiphone.com": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "apple-ihelp.com": {
+            "epoch": "1576105200",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "apple-ihinseiri.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "apple-iid.co.uk": {
+            "epoch": "1547506800",
+            "expiration_date": "15-jan-2019",
+            "state": "past"
+        },
+        "apple-iid.com": {
+            "epoch": "1609196400",
+            "expiration_date": "29-dec-2020",
+            "state": "future"
+        },
+        "apple-iiphoneen.com": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "apple-ilocaliza.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "apple-imac.net": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "apple-imaps.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "apple-imovie.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "apple-inc-securepaymentmail12.com": {
+            "epoch": "1572562800",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "apple-inc-securepaymentmail7.com": {
+            "epoch": "1572562800",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "apple-inc-support.com": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "apple-inc-usa.com": {
+            "epoch": "1574118000",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "apple-inc.support": {
+            "epoch": "1547852400",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "apple-india.com": {
+            "epoch": "1597183200",
+            "expiration_date": "12-aug-2020",
+            "state": "future"
+        },
+        "apple-inf.com": {
+            "epoch": "1574031600",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "apple-info-secure.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "apple-info.ru": {
+            "epoch": "1576796400",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "apple-info.support": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "apple-info.us": {
+            "epoch": "1548802800",
+            "expiration_date": "30-jan-2019",
+            "state": "past"
+        },
+        "apple-info2.support": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "apple-info3.support": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "apple-infocentre.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "apple-infomx.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "apple-inform.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "apple-informa.com": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "apple-information-account.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "apple-information-disable.net": {
+            "epoch": "1573340400",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "apple-information-si-update.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "apple-information-update.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "apple-information-updateaccount.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "apple-information.business": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-information.com": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-information.net": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-informationaccountsecure.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "apple-informationaccountsecureid.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "apple-informationaccountservice.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "apple-informations.org": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "apple-informationupdate-mailjp.business": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "apple-informationupdate-mailjp.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "apple-infosafe.com": {
+            "epoch": "1576450800",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "apple-ink-store.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "apple-inside.com": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "apple-insight.com": {
+            "epoch": "1574550000",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "apple-invest.com": {
+            "epoch": "1581980400",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
+        },
+        "apple-invoice-subscription.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "apple-io.com": {
+            "epoch": "1581202800",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
+        "apple-ios-imessage.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "apple-ios-network.com": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "apple-ios-products.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "apple-ios.academy": {
+            "epoch": "1550790000",
+            "expiration_date": "22-feb-2019",
+            "state": "past"
+        },
+        "apple-ios.com": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "apple-ios.ru": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "apple-ios2.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "apple-ioshelp.com": {
+            "epoch": "1578178800",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "apple-iosicloud.top": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "apple-iosid.com": {
+            "epoch": "1583708400",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
+        },
+        "apple-iossrc.com": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "apple-iosvrc.com": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "apple-ipad-iphone.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "apple-ipad.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "apple-ipadblog.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "apple-ipadmini.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "apple-iphone-5s.info": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "apple-iphone-7-release-date.com": {
+            "epoch": "1578524400",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "apple-iphone-accessories.com": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "apple-iphone-case.com": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "apple-iphone-giveaway.today": {
+            "epoch": "1553641200",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "apple-iphone-id.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "apple-iphone-ios.com": {
+            "epoch": "1549321200",
+            "expiration_date": "05-feb-2019",
+            "state": "past"
+        },
+        "apple-iphone-korea.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "apple-iphone-otzyvy.ru": {
+            "epoch": "1578006000",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "apple-iphone-remont.ru": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "apple-iphone-spb.ru": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "apple-iphone-store.ru": {
+            "epoch": "1553382000",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "apple-iphone-support-helpline-number4.bid": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "apple-iphone-support-helpline-number5.bid": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "apple-iphone-support-helpline-number6.bid": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "apple-iphone-support-helpline-phone-number.bid": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "apple-iphone-support-helpline-phone-number1.bid": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "apple-iphone-unlocking.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "apple-iphone.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "apple-iphone.info": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "apple-iphone.kaufen": {
+            "epoch": "1572822000",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "apple-iphone.pro": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "apple-iphone5s.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
         "appsecurityr.com": {
             "epoch": "1536789600",
             "expiration_date": "13-sep-2018",
