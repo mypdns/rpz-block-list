@@ -71040,14 +71040,209 @@
             "expiration_date": "25-jun-2019",
             "state": "future"
         },
+        "amenworld.com": {
+            "epoch": "1607900400",
+            "expiration_date": "14-dec-2020",
+            "state": "future"
+        },
+        "amepie.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
         "amer.se": {
             "epoch": "1535407200",
             "expiration_date": "28-aug-2018",
             "state": "past"
         },
+        "amerair.net": {
+            "epoch": "1587765600",
+            "expiration_date": "25-apr-2020",
+            "state": "future"
+        },
+        "ameramericanexpress.com": {
+            "epoch": "1582153200",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
+        "amerarani.com": {
+            "epoch": "1583190000",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
+        },
+        "ameraust.net": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
         "amercanfidelity.com": {
             "epoch": "1561932000",
             "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "amerce-amiss.stream": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "amercers.review": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "amercing.review": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "amercoatcanada.com": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "amerex-gastro.cz": {
+            "epoch": "1672786800",
+            "expiration_date": "04-jan-2023",
+            "state": "future"
+        },
+        "ameriatrade.com": {
+            "epoch": "1625090400",
+            "expiration_date": "01-jul-2021",
+            "state": "future"
+        },
+        "america-login.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "america-login.info": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "america-login.services": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "america-west.com": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "america4growth.com": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "americaalert.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "americabr.com.br": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "americads.com": {
+            "epoch": "1603926000",
+            "expiration_date": "29-oct-2020",
+            "state": "future"
+        },
+        "americafirst-trump2020.com": {
+            "epoch": "1579561200",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "americafirst2020.net": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "americafirst2020.org": {
+            "epoch": "1583190000",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
+        },
+        "americafirstcard.info": {
+            "epoch": "1608505200",
+            "expiration_date": "21-dec-2020",
+            "state": "future"
+        },
+        "americafirstfnds.com": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "americafirstgold.com": {
+            "epoch": "1635631200",
+            "expiration_date": "31-oct-2021",
+            "state": "future"
+        },
+        "americafirstsupplements.com": {
+            "epoch": "1579993200",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
+        },
+        "americafor.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "americageeks.com": {
+            "epoch": "1548457200",
+            "expiration_date": "26-jan-2019",
+            "state": "past"
+        },
+        "americairlines.com": {
+            "epoch": "1694556000",
+            "expiration_date": "13-sep-2023",
+            "state": "future"
+        },
+        "americamanagertool.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "americamattressan.com": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "americametais.com.br": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "americamp3network.com": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "american-dream-automobiles.com": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "american-home-security.bid": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "american-idol-updates.com": {
+            "epoch": "1573426800",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "american-mom.com": {
+            "epoch": "1584658800",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
+        },
+        "american-pearl.com": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
             "state": "future"
         },
         "american-prize-center.com": {
@@ -71055,14 +71250,204 @@
             "expiration_date": "20-aug-2020",
             "state": "future"
         },
+        "american-rattlesnake.org": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "american-reia.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "american-writers.net": {
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "american-writers.org": {
+            "epoch": "1573426800",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "americanac.org": {
+            "epoch": "1579302000",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "americanaccesscontrols.com": {
+            "epoch": "1854741600",
+            "expiration_date": "10-oct-2028",
+            "state": "future"
+        },
+        "americanadeavaluos.com": {
+            "epoch": "1575154800",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "americanandimportautorepair.com": {
+            "epoch": "1576278000",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "americanappsolutions.org": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "americanarlines.com": {
+            "epoch": "1686002400",
+            "expiration_date": "06-jun-2023",
+            "state": "future"
+        },
+        "americanas-com-br-black-friday.pl": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "americanas-com-br-online.pl": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "americanas-descontos.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
         "americanas-ofertasimperdiveis.com": {
             "epoch": "1533765600",
             "expiration_date": "09-aug-2018",
             "state": "past"
         },
+        "americanas-produtos.app": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "americanascelularesbrasil.com": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "americanasfoconasofertas.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "americanautobargains.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "americanaviationmastercard.com": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "americanbankasia.com": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "americanbars.com": {
+            "epoch": "1746223200",
+            "expiration_date": "03-may-2025",
+            "state": "future"
+        },
+        "americanbeachfoundation.org": {
+            "epoch": "1581375600",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "americanborate.com": {
+            "epoch": "1586037600",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
+        },
+        "americanbowlingcongress.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "americanboy.net": {
+            "epoch": "1610924400",
+            "expiration_date": "18-jan-2021",
+            "state": "future"
+        },
+        "americanbrasil.com.br": {
+            "epoch": "1576882800",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "americanbulldogradio.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "americanburnoutchallenge.com": {
+            "epoch": "1578265200",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
+        "americanbusinesscenter.com": {
+            "epoch": "1577919600",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "americancareconcept.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "americancharroassociation.com": {
+            "epoch": "1583103600",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "americanchemical.com.bo": {
+            "epoch": "1612047600",
+            "expiration_date": "31-jan-2021",
+            "state": "future"
+        },
+        "americancloverconstruction.net": {
+            "epoch": "1687125600",
+            "expiration_date": "19-jun-2023",
+            "state": "future"
+        },
         "americancontractbuyers.com": {
             "epoch": "1552168800",
             "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "americancountrys.fr": {
+            "epoch": "1603666800",
+            "expiration_date": "26-oct-2020",
+            "state": "future"
+        },
+        "americancreektees.com": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "americancursos.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "americandad.fr": {
+            "epoch": "1580684400",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "americandebtfoundation.com": {
+            "epoch": "1588975200",
+            "expiration_date": "09-may-2020",
+            "state": "future"
+        },
+        "americandecorativecontractors.com": {
+            "epoch": "1592949600",
+            "expiration_date": "24-jun-2020",
             "state": "future"
         },
         "americandeofertasimperdivel2017.com": {
@@ -71070,9 +71455,274 @@
             "expiration_date": "10-aug-2018",
             "state": "past"
         },
+        "americandiff.com": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "americandirectmailservices.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "americandiscounthosting.com": {
+            "epoch": "1574377200",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "americandoor.biz": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "americanecho.com": {
+            "epoch": "1584918000",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "americanelectric.com.br": {
+            "epoch": "1592172000",
+            "expiration_date": "15-jun-2020",
+            "state": "future"
+        },
+        "americanemail.services": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "americanepresspowerball.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "americanevada.biz": {
+            "epoch": "1550271600",
+            "expiration_date": "16-feb-2019",
+            "state": "past"
+        },
+        "americanexpess.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "americanexpress-account-update.com": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "americanexpress-account.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "americanexpress-network-helps.net": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "americanexpress-protection-helps.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "americanexpress-protection-membership.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "americanexpress-protection-membership.net": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "americanexpress.red": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "americanexpress.top": {
+            "epoch": "1583622000",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
+        "americanexpresscreditcardapplication.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "americanexpressprepaid.net": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "americanexpresssavingbank.com": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "americanexrress.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "americanextpress.com": {
+            "epoch": "1577487600",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "americanfancies.com": {
+            "epoch": "1580338800",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "americanfinancialsecurity.systems": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "americanfriendsofreuth.org": {
+            "epoch": "1579302000",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "americanfucking.com": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "americangiftcards.us": {
+            "epoch": "1575846000",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
+        },
+        "americangreetingcards.com": {
+            "epoch": "1704322800",
+            "expiration_date": "04-jan-2024",
+            "state": "future"
+        },
+        "americangymnasticsclub.com": {
+            "epoch": "1587765600",
+            "expiration_date": "25-apr-2020",
+            "state": "future"
+        },
+        "americanhaircuts.com": {
+            "epoch": "1603490400",
+            "expiration_date": "24-oct-2020",
+            "state": "future"
+        },
+        "americanhealthed.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "americanheritagesells.info": {
+            "epoch": "1576969200",
+            "expiration_date": "22-dec-2019",
+            "state": "future"
+        },
+        "americanhoes.com": {
+            "epoch": "1574636400",
+            "expiration_date": "25-nov-2019",
+            "state": "future"
+        },
+        "americanhomecenter.com": {
+            "epoch": "1585692000",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
+        },
+        "americanhomeshield717.us": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "americanhomeshield729.us": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "americanhomeshield730.us": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "americanhomeshield807.us": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "americanhomeshield820.us": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "americanhomeshield822.us": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "americanhomeshield909.us": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "americanhomeshield921.us": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "americanhomeshield927.us": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "americanhomewarranty910.us": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "americanimmigration.net": {
+            "epoch": "1575932400",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "americanindanger.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
         "americaninfomanagement.com": {
-            "epoch": "1547330400",
+            "epoch": "1547334000",
             "expiration_date": "13-jan-2019",
+            "state": "past"
+        },
+        "americanirlines.com": {
+            "epoch": "1628978400",
+            "expiration_date": "15-aug-2021",
+            "state": "future"
+        },
+        "americanisexpres.com": {
+            "epoch": "1574982000",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "americanitsupport.net": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "americanjuniorgolfschool.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "americanlawyerslondon.co.uk": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "americanleaguebetting.com": {
+            "epoch": "1569880800",
+            "expiration_date": "01-oct-2019",
             "state": "future"
         },
         "americanlearns.net": {
@@ -71080,9 +71730,74 @@
             "expiration_date": "09-feb-2019",
             "state": "future"
         },
+        "americanlegacies.org": {
+            "epoch": "1575241200",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "americanlegion158.com": {
+            "epoch": "1690754400",
+            "expiration_date": "31-jul-2023",
+            "state": "future"
+        },
         "americanmasonry.net": {
-            "epoch": "1548885600",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580425200",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "americanmusicworldpianos.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "americannetflix.net": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "americannetflixdns.com": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "americannutritional.com.br": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "americanopportunityaccountsact.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "americanpassage.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "americanpetlovers.com": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "americanpharm.net": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "americanpoker2.biz": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "americanpressurecookers.com": {
+            "epoch": "1585692000",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
+        },
+        "americanprimewindows.com": {
+            "epoch": "1579215600",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "americanvixens.com": {
