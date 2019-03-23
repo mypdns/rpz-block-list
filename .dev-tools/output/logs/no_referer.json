@@ -2042,5 +2042,29 @@
     "1553351032.8001316": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553351618.0192544": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553351619.2420492": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553351771.0426302": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553352006.625068": {
+        "domain": "androidoyun-indir.club",
+        "extension": "club"
+    },
+    "1553352023.3984776": {
+        "domain": "androidsecurityteam.club",
+        "extension": "club"
+    },
+    "1553352103.9028478": {
+        "domain": "androturk.club",
+        "extension": "club"
     }
 }

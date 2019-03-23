@@ -74315,9 +74315,124 @@
             "expiration_date": "04-nov-2020",
             "state": "future"
         },
+        "androgenise.us": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "androgenising.us": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "androgenize.us": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "androgenized.us": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "androgenizing.us": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "androgynies.us": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "androgynism.us": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "android-alert.com": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "android-anti-virus.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "android-application-developer-india.com": {
+            "epoch": "1576105200",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "android-game-hacks.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "android-google.com": {
+            "epoch": "1548802800",
+            "expiration_date": "30-jan-2019",
+            "state": "past"
+        },
+        "android-guard.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "android-igry.net": {
+            "epoch": "1583622000",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
+        "android-ios-hack.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "android-knigi.net": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "android-knigi.ru": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "android-ledtv-sale.ml": {
+            "epoch": "1833577200",
+            "expiration_date": "08-feb-2028",
+            "state": "future"
+        },
+        "android-reviews.com": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "android-security-warning.com": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "android-securityupdate.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "android-settings.info": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
         "android-style.com": {
             "epoch": "1573164000",
             "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "android-support.org": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
             "state": "future"
         },
         "android-systems.ru": {
@@ -74330,9 +74445,344 @@
             "expiration_date": "15-may-2019",
             "state": "future"
         },
+        "android-warning.com": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "android40.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
         "android4fun.org": {
-            "epoch": "1544220000",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "androidalerter.com": {
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "androidantivirus-safe.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "androidantivirus.com": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "androidantivirusfree.org": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "androidapk.world": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "androidapkdownloads.info": {
+            "epoch": "1578783600",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "androidappleanswers.com": {
+            "epoch": "1576882800",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "androidappworld.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "androidbabbles.com": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "androidbests.com": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "androidblender.com": {
+            "epoch": "1584399600",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "androidcityshop.top": {
+            "epoch": "1582930800",
+            "expiration_date": "29-feb-2020",
+            "state": "future"
+        },
+        "androidcryptocurrencywallet.info": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "androidespana.win": {
+            "epoch": "1550530800",
+            "expiration_date": "19-feb-2019",
+            "state": "past"
+        },
+        "androidfortnite.info": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "androidfortniteapk.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "androidgamehacks.info": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "androidgamemods.com": {
+            "epoch": "1578351600",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
+        },
+        "androidgameshacks.com": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "androidgta5.com": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "androidhacks4u.com": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "androidhomebase.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "androidhost.org": {
+            "epoch": "1579474800",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "androiditunes.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "androidjet.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "androidlift.info": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "androidmax.mobi": {
+            "epoch": "1574550000",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "androidmed.com": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "androidmedical.com": {
+            "epoch": "1572390000",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "androidmobileapp.dev": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "androidmobileapplicationdistributionplatform.services": {
+            "epoch": "1576537200",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "androidmtkbd.com": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "androidonwindows.net": {
+            "epoch": "1575154800",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "androidplayhack.com": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "androidpt02.asia": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "androidpush.info": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "androidsathome.com": {
+            "epoch": "1584054000",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "androidsbestgames.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "androidsecurity-update.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "androidsecurity.info": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "androidsecurityplus.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "androidside.com": {
+            "epoch": "1575846000",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
+        },
+        "androidsoftx.ru": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "androidt.ru": {
+            "epoch": "1591048800",
+            "expiration_date": "02-jun-2020",
+            "state": "future"
+        },
+        "androidupdate.org": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "androidupdatecenter.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "androidupdateonline.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "androidupdaters.com": {
+            "epoch": "1580511600",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
+        },
+        "androidwifihack.net": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "androidwikihow.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "androidzombiegames.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "androkatalog.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "androline.top": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "androm.cn": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "andromeda.in.ua": {
+            "epoch": "1581634800",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "andromedaa.com": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "andromedafestival.com": {
+            "epoch": "1560722400",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "andromedafree.it": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "andromedical.com": {
+            "epoch": "1597874400",
+            "expiration_date": "20-aug-2020",
+            "state": "future"
+        },
+        "andronova.net": {
+            "epoch": "1629410400",
+            "expiration_date": "20-aug-2021",
+            "state": "future"
+        },
+        "androsbellavista.com": {
+            "epoch": "1557093600",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "androtech-mobile-informatique.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "androtify.com": {
+            "epoch": "1584658800",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
+        },
+        "androzo.ru": {
+            "epoch": "1585692000",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
+        },
+        "andruchi.com": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "andrwnolas.top": {
@@ -74340,9 +74790,69 @@
             "expiration_date": "21-aug-2019",
             "state": "future"
         },
+        "andry-enterprised.com": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "andrzejsmiech.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "andsangola.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "andsecurity.cn": {
+            "epoch": "1689372000",
+            "expiration_date": "15-jul-2023",
+            "state": "future"
+        },
+        "andsedrit.com": {
+            "epoch": "1547852400",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "andspurs.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "andtc.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "andtheylivedhappilyeverafter.net": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "andtotallydanrenderaare.ru": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "anduca.biz": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
         "anduongjsc.com": {
             "epoch": "1554156000",
             "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "andupdatedetails.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "anduron.com": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "andydill.com": {
