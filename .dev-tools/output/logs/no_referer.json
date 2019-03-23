@@ -1646,5 +1646,25 @@
     "1553336144.0655053": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553336641.2085516": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553336642.490945": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553336869.626291": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553336982.1671944": {
+        "domain": "alisellonline.club",
+        "extension": "club"
+    },
+    "1553337023.8178236": {
+        "domain": "alisonparker.club",
+        "extension": "club"
     }
 }
