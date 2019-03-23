@@ -1366,5 +1366,25 @@
     "1553323133.3018582": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553323612.5843422": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553323613.7662024": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553323870.1205945": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553323952.5911655": {
+        "domain": "ahyextac2.club",
+        "extension": "club"
+    },
+    "1553323972.907143": {
+        "domain": "ai-bank.club",
+        "extension": "club"
     }
 }
