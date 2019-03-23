@@ -2326,5 +2326,29 @@
     "1553363010.7884195": {
         "domain": "apple-appleid.zone",
         "extension": "zone"
+    },
+    "1553363191.6207132": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553363192.8391585": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553363281.1308587": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553363476.9698975": {
+        "domain": "app.virtualplace.club",
+        "extension": "club"
+    },
+    "1553363564.6407835": {
+        "domain": "apple-care-help.club",
+        "extension": "club"
+    },
+    "1553363741.75901": {
+        "domain": "apple-cxsupprt.club",
+        "extension": "club"
     }
 }
