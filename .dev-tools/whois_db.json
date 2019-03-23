@@ -103920,9 +103920,839 @@
             "expiration_date": "17-sep-2019",
             "state": "future"
         },
+        "asiinc.us": {
+            "epoch": "1572908400",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "asik.co.cr": {
+            "epoch": "1574204400",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "asikam.ru": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "asil-as.com": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "asilk.co.uk": {
+            "epoch": "1617660000",
+            "expiration_date": "06-apr-2021",
+            "state": "future"
+        },
+        "asilocardcolombo.it": {
+            "epoch": "1577660400",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "asilteknik.net": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "asiltorna.com": {
+            "epoch": "1588370400",
+            "expiration_date": "02-may-2020",
+            "state": "future"
+        },
+        "asim-bud.pl": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "asimgroup.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "asiminst.com": {
+            "epoch": "1580252400",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
+        "asimm.it": {
+            "epoch": "1577833200",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
+        "asimms.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "asimobse.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "asimolisters.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "asimosiest.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "asimov-win-microsoft.services": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "asimpleinternet.com": {
+            "epoch": "1628719200",
+            "expiration_date": "12-aug-2021",
+            "state": "future"
+        },
+        "asimsupe.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "asimuerlys.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "asimuleshun.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
         "asin.cc": {
             "epoch": "1609282800",
             "expiration_date": "30-dec-2020",
+            "state": "future"
+        },
+        "asindalca.com.ve": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "asinewatches.ru": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "asinfotech.net": {
+            "epoch": "1590703200",
+            "expiration_date": "29-may-2020",
+            "state": "future"
+        },
+        "asingl.bid": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "asinglewomanmovie.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "asinsaat.org": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "asint.info": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "asinvest.si": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "asioe.co.uk": {
+            "epoch": "1584399600",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "asiorg.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "asipcme.biz": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "asippmembersite.org": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "asipprevent.rs": {
+            "epoch": "1577401200",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "asiraled.com": {
+            "epoch": "1612479600",
+            "expiration_date": "05-feb-2021",
+            "state": "future"
+        },
+        "asird.com": {
+            "epoch": "1637190000",
+            "expiration_date": "18-nov-2021",
+            "state": "future"
+        },
+        "asiribobo.info": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "asirplastik.com": {
+            "epoch": "1608332400",
+            "expiration_date": "19-dec-2020",
+            "state": "future"
+        },
+        "asisbulut.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "asismarratxinet.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "asismen.com": {
+            "epoch": "1548630000",
+            "expiration_date": "28-jan-2019",
+            "state": "past"
+        },
+        "asisparts.com": {
+            "epoch": "1584831600",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
+        "asistanim.org": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "asistencia.support": {
+            "epoch": "1553554800",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "asistent.su": {
+            "epoch": "1582498800",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "asiteaboutsomething.com": {
+            "epoch": "1615158000",
+            "expiration_date": "08-mar-2021",
+            "state": "future"
+        },
+        "asitliktayin.com": {
+            "epoch": "1577919600",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "asitx.info": {
+            "epoch": "1580338800",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "asiueuyxebecs.review": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "asiya.pro": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "asiywomn.bid": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "asj.co.th": {
+            "epoch": "1705100400",
+            "expiration_date": "13-jan-2024",
+            "state": "future"
+        },
+        "asj999.com": {
+            "epoch": "1574290800",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "asjnews.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "asjurevalesation.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "ask-a-chick.com": {
+            "epoch": "1579561200",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "ask-do.com": {
+            "epoch": "1572217200",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "ask-for-help.stream": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "ask-gps.ru": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "ask-help.info": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "ask-pro.ru": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "ask-sheng-long.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "ask-tb.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "ask-the-expert.support": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "ask-thenetrepreneur.com": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "ask-us-support.com": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "ask-yug.com": {
+            "epoch": "1585350000",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "ask.careers": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "ask.co.ke": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "ask.com": {
+            "epoch": "1666130400",
+            "expiration_date": "19-oct-2022",
+            "state": "future"
+        },
+        "ask.nu": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "ask.tools": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "ask3d.com": {
+            "epoch": "1590357600",
+            "expiration_date": "25-may-2020",
+            "state": "future"
+        },
+        "ask4pcsupport.com": {
+            "epoch": "1582671600",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "askabadcreditcreditcardok.live": {
+            "epoch": "1581894000",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "askaconvict.com": {
+            "epoch": "1580943600",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "askallo.com": {
+            "epoch": "1579474800",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "askallo.info": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "askalmostanything.com": {
+            "epoch": "1579129200",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "askamobilityscooterok.live": {
+            "epoch": "1576278000",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "askaneighbor.co.uk": {
+            "epoch": "1572390000",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "askaredhead.com": {
+            "epoch": "1582758000",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "askarindo.or.id": {
+            "epoch": "1573340400",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "askarthritisok.live": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "askartie.chat": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "askaseniorlivingbuy.live": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "askayhotelsuites.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "askbadcreditcreditcardok.live": {
+            "epoch": "1581462000",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "askbadcreditcreditcardsok.live": {
+            "epoch": "1581894000",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "askbigtits.com": {
+            "epoch": "1573426800",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "askbitcoin.cash": {
+            "epoch": "1579561200",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "askbobrankin.com": {
+            "epoch": "1596837600",
+            "expiration_date": "08-aug-2020",
+            "state": "future"
+        },
+        "askbot.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "askcache.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "askcaptaindave.net": {
+            "epoch": "1610838000",
+            "expiration_date": "17-jan-2021",
+            "state": "future"
+        },
+        "askcard.info": {
+            "epoch": "1574809200",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "askcity.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "askcm.com": {
+            "epoch": "1585263600",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
+        "askcreditcard.info": {
+            "epoch": "1574722800",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "askdamagex.com": {
+            "epoch": "1575932400",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "askdanieltan.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "askdevsol.com": {
+            "epoch": "1650578400",
+            "expiration_date": "22-apr-2022",
+            "state": "future"
+        },
+        "askdoctorz.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "askdrfors.com": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "askdrrobshafer.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "askeeves.com": {
+            "epoch": "1548284400",
+            "expiration_date": "24-jan-2019",
+            "state": "past"
+        },
+        "asketo.ru": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "askfemi.com": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "askfinder.org": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "askfmtracker.info": {
+            "epoch": "1582153200",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
+        "askfollow.us": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "askfor1394.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "askforfree.com": {
+            "epoch": "1596751200",
+            "expiration_date": "07-aug-2020",
+            "state": "future"
+        },
+        "askforkids.com": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "askforquote.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "askfuelads.com": {
+            "epoch": "1579561200",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "askgaranti.com": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "askgbabe.com": {
+            "epoch": "1686002400",
+            "expiration_date": "06-jun-2023",
+            "state": "future"
+        },
+        "askgeev.com": {
+            "epoch": "1576796400",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "askgemisi.com.tr": {
+            "epoch": "1629756000",
+            "expiration_date": "24-aug-2021",
+            "state": "future"
+        },
+        "askgevees.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "askgilbertmedina.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "askguo.com": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "askhenry.co.uk": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "askhere.net": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "askhilltop.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "askhome.co.za": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "askim.work": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "askings.stream": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "askinstagram.com": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "askjackieb.com": {
+            "epoch": "1655330400",
+            "expiration_date": "16-jun-2022",
+            "state": "future"
+        },
+        "askjavees.com": {
+            "epoch": "1627164000",
+            "expiration_date": "25-jul-2021",
+            "state": "future"
+        },
+        "askjeeves.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "askjeeves.us": {
+            "epoch": "1587160800",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
+        },
+        "askjeeveskids.com": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "askjeewes.com": {
+            "epoch": "1547679600",
+            "expiration_date": "17-jan-2019",
+            "state": "past"
+        },
+        "askjevves.com": {
+            "epoch": "1548284400",
+            "expiration_date": "24-jan-2019",
+            "state": "past"
+        },
+        "askjives.com": {
+            "epoch": "1580079600",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "askk.com": {
+            "epoch": "1608246000",
+            "expiration_date": "18-dec-2020",
+            "state": "future"
+        },
+        "askkids.com": {
+            "epoch": "1577574000",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "asklinkedin.com": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "asklop.com": {
+            "epoch": "1546642800",
+            "expiration_date": "05-jan-2019",
+            "state": "past"
+        },
+        "asklots.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "askmain.us": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "askmarket.net": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "askmedia.co.th": {
+            "epoch": "1622671200",
+            "expiration_date": "03-jun-2021",
+            "state": "future"
+        },
+        "askmeni.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "askmeproperties.com": {
+            "epoch": "1626386400",
+            "expiration_date": "16-jul-2021",
+            "state": "future"
+        },
+        "askmissowl.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "askmisterscience.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "askmobilityscooterok.live": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "askmobilityscootersok.live": {
+            "epoch": "1576278000",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "askmrjeeves.com": {
+            "epoch": "1581721200",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "askmufti.org": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "asknaija.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "asknew.com": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "asko-group.com": {
+            "epoch": "1591826400",
+            "expiration_date": "11-jun-2020",
+            "state": "future"
+        },
+        "askod.com": {
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "askomdysdik.com": {
+            "epoch": "1572217200",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "askonlinesolution.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "askpcexperts.com": {
+            "epoch": "1746655200",
+            "expiration_date": "08-may-2025",
+            "state": "future"
+        },
+        "askpig.com": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "asks-j.info": {
+            "epoch": "1573340400",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "asksam.com": {
+            "epoch": "1616626800",
+            "expiration_date": "25-mar-2021",
+            "state": "future"
+        },
+        "askseniorlivingbuy.live": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "askseniorlivingsbuy.live": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
             "state": "future"
         },
         "asophoto.com": {
