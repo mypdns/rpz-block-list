@@ -74880,9 +74880,84 @@
             "expiration_date": "14-aug-2018",
             "state": "past"
         },
+        "angel-anime.com": {
+            "epoch": "1547161200",
+            "expiration_date": "11-jan-2019",
+            "state": "past"
+        },
+        "angel-blanco.net": {
+            "epoch": "1576278000",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "angel-companions.co.uk": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "angel-dark.org": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "angel-exhib.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "angel-picpost.com": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "angel-seeds.com.ua": {
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
         "angel-x.com": {
             "epoch": "1568844000",
             "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "angela.nu": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "angelaathomas.com": {
+            "epoch": "1612738800",
+            "expiration_date": "08-feb-2021",
+            "state": "future"
+        },
+        "angelabornia.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "angelacappetta.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "angeladevi.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "angeladigiovine.net": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "angelaexplainsitall.com": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "angelahurtado.com": {
+            "epoch": "1620943200",
+            "expiration_date": "14-may-2021",
             "state": "future"
         },
         "angelalittle.net": {
@@ -74890,19 +74965,199 @@
             "expiration_date": "20-nov-2019",
             "state": "future"
         },
+        "angelamayer.com": {
+            "epoch": "1691532000",
+            "expiration_date": "09-aug-2023",
+            "state": "future"
+        },
+        "angelamelini.com": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
         "angelanmegan.us": {
             "epoch": "1538517600",
             "expiration_date": "03-oct-2018",
             "state": "past"
+        },
+        "angelaragones.com": {
+            "epoch": "1579042800",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
+        "angelarchives.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "angelartepasteleria.com": {
+            "epoch": "1579042800",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
+        "angelaryan.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "angelarzateleon.com": {
+            "epoch": "1583276400",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
         },
         "angelas-place.com": {
             "epoch": "1559426400",
             "expiration_date": "02-jun-2019",
             "state": "future"
         },
+        "angelashunt.com": {
+            "epoch": "1584572400",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "angelass.com": {
+            "epoch": "1572562800",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "angelastoriaonline.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "angelathomson.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "angelavasconcellosimoveis.com.br": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "angelbaseball.com": {
+            "epoch": "1627164000",
+            "expiration_date": "25-jul-2021",
+            "state": "future"
+        },
         "angelbetting.com": {
-            "epoch": "1544220000",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "angelbodywear.com": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "angelbrides.co.uk": {
+            "epoch": "1580943600",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "angelchic.com": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "angelcitylimo.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "angelclip.info": {
+            "epoch": "1582671600",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "angelcream.com": {
+            "epoch": "1581807600",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "angelcryptocurrency.info": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "angelday.info": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "angeldemon.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "angeldesign.org": {
+            "epoch": "1577919600",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "angelelect.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "angelelevator.com": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "angeleproductions.com": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "angelesangelwitch.com": {
+            "epoch": "1665698400",
+            "expiration_date": "14-oct-2022",
+            "state": "future"
+        },
+        "angelesrevista.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "angelesurbanos.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "angelfier.com": {
+            "epoch": "1572994800",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "angelfire.com": {
+            "epoch": "1602626400",
+            "expiration_date": "14-oct-2020",
+            "state": "future"
+        },
+        "angelfish4u.co.uk": {
+            "epoch": "1584054000",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "angelfishstats.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "angelfix.net": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "angelfoundation.co.za": {
+            "epoch": "1585177200",
+            "expiration_date": "26-mar-2020",
+            "state": "future"
+        },
+        "angelfun.org": {
+            "epoch": "1574290800",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "angelfuns.info": {
@@ -74910,9 +75165,104 @@
             "expiration_date": "31-oct-2019",
             "state": "future"
         },
+        "angelglam.com": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "angelgraphicsprinting.com": {
+            "epoch": "1592344800",
+            "expiration_date": "17-jun-2020",
+            "state": "future"
+        },
+        "angelguidancetarotcards.us": {
+            "epoch": "1574463600",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "angelhealingspa.com": {
+            "epoch": "1553468400",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "angelicaccess.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "angelicasin.net": {
+            "epoch": "1575586800",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "angelicdivineuniversalhealing.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "angelico.com.ua": {
+            "epoch": "1582671600",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "angelie.com": {
+            "epoch": "1579734000",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "angelikaminsk.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "angelina-croft.com": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "angelina.cz": {
+            "epoch": "1573858800",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "angelinajoeyshop.com": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
         "angelinajoliepics.com": {
             "epoch": "1558476000",
             "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "angelinarossi.com": {
+            "epoch": "1691013600",
+            "expiration_date": "03-aug-2023",
+            "state": "future"
+        },
+        "angelinas-bodytalk.com": {
+            "epoch": "1577746800",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
+        },
+        "angelinavirgin.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "angelinawater.com": {
+            "epoch": "1595973600",
+            "expiration_date": "29-jul-2020",
+            "state": "future"
+        },
+        "angelincinefoto.com.br": {
+            "epoch": "1575846000",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
+        },
+        "angelindevilsboots.org": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
             "state": "future"
         },
         "angelinfo.com": {
@@ -74920,9 +75270,294 @@
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "angelinoscoffee.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "angelinstall.business": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "angelinvestmentjournal.com": {
+            "epoch": "1599170400",
+            "expiration_date": "04-sep-2020",
+            "state": "future"
+        },
+        "angelique-angelcardreadings-andmore.com": {
+            "epoch": "1583449200",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "angeliquecarolin.su": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "angeliquekithos.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "angelisulghiaccio.com": {
+            "epoch": "1573599600",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "angelitas.net": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "angeljob.com": {
+            "epoch": "1597269600",
+            "expiration_date": "13-aug-2020",
+            "state": "future"
+        },
+        "angelkissedfeet.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "angellafaith.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "angelleramonda.ru": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "angelmarenco.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "angelmermer.com": {
+            "epoch": "1646002800",
+            "expiration_date": "28-feb-2022",
+            "state": "future"
+        },
+        "angelmode.com": {
+            "epoch": "1670626800",
+            "expiration_date": "10-dec-2022",
+            "state": "future"
+        },
+        "angelmurders.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "angelochec.net": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "angelochiu.org": {
+            "epoch": "1581548400",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "angeloeliapizza.com": {
+            "epoch": "1624572000",
+            "expiration_date": "25-jun-2021",
+            "state": "future"
+        },
+        "angelofdaemons.com": {
+            "epoch": "1605654000",
+            "expiration_date": "18-nov-2020",
+            "state": "future"
+        },
+        "angeloginakos.info": {
+            "epoch": "1579561200",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "angeloginakos.live": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "angeloguarino.com": {
+            "epoch": "1702249200",
+            "expiration_date": "11-dec-2023",
+            "state": "future"
+        },
+        "angelolicari.com": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "angelomorittu.com": {
+            "epoch": "1577055600",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
+        "angelousmexicangrill.com": {
+            "epoch": "1603144800",
+            "expiration_date": "20-oct-2020",
+            "state": "future"
+        },
+        "angelpelis.com": {
+            "epoch": "1571349600",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "angelplace.com": {
+            "epoch": "1585350000",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "angelrays.com": {
+            "epoch": "1609196400",
+            "expiration_date": "29-dec-2020",
+            "state": "future"
+        },
+        "angels-place.com": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "angels35.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "angels4youleeds.co.uk": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "angelsbeach.net": {
+            "epoch": "1584658800",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
+        },
+        "angelscasting.net": {
+            "epoch": "1588456800",
+            "expiration_date": "03-may-2020",
+            "state": "future"
+        },
+        "angelsdisciples.com": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "angelsdublin.com": {
+            "epoch": "1575414000",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "angelsecurenet.works": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "angelsembrace.com": {
+            "epoch": "1590271200",
+            "expiration_date": "24-may-2020",
+            "state": "future"
+        },
+        "angelserotica.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "angelsfeetsite.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "angelshot.net": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "angelsiemprecontigo.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "angelsinnmanali.com": {
+            "epoch": "1573686000",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "angelsinthehome.com": {
+            "epoch": "1604358000",
+            "expiration_date": "03-nov-2020",
+            "state": "future"
+        },
         "angelsinuniform.com": {
             "epoch": "1578956400",
             "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "angelslinks.com": {
+            "epoch": "1644879600",
+            "expiration_date": "15-feb-2022",
+            "state": "future"
+        },
+        "angelsmist.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "angelsnailsbeyond.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "angelsofamsterdam.com": {
+            "epoch": "1582844400",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "angelsofdeath.info": {
+            "epoch": "1578178800",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "angelsofindia.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "angelsoflondon.com": {
+            "epoch": "1682805600",
+            "expiration_date": "30-apr-2023",
+            "state": "future"
+        },
+        "angelsofnight.com": {
+            "epoch": "1580770800",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "angelsofthenight.co.uk": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "angelsongroup.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "angelsordevils.co.uk": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "angelsordevils.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "angelsoverseas.org": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "anglewinks.com": {
