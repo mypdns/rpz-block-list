@@ -60930,9 +60930,309 @@
             "expiration_date": "27-nov-2018",
             "state": "past"
         },
+        "alex-beauty.com": {
+            "epoch": "1578610800",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "alex-fitnes.ru": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "alex-galleries.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "alex-nonreseller-test.com": {
+            "epoch": "1674255600",
+            "expiration_date": "21-jan-2023",
+            "state": "future"
+        },
+        "alex-nonreseller-test.info": {
+            "epoch": "1579734000",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "alex-support.com": {
+            "epoch": "1581202800",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
+        "alex-thumbs.com": {
+            "epoch": "1575759600",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "alexa-echo-help.com": {
+            "epoch": "1584140400",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
         "alexa-silver.com": {
-            "epoch": "1549404000",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580943600",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "alexa-support.com": {
+            "epoch": "1582585200",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
+        "alexa-supports.com": {
+            "epoch": "1573081200",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "alexa.net.cn": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "alexagrade.com": {
+            "epoch": "1584658800",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
+        },
+        "alexainvest.com": {
+            "epoch": "1576191600",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "alexairassociates.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "alexajstrack.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "alexalabel.co.id": {
+            "epoch": "1574463600",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "alexamazons.com": {
+            "epoch": "1583708400",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
+        },
+        "alexametrics.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "alexamobile.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "alexamobile.info": {
+            "epoch": "1576623600",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "alexamondwonderltd.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "alexander-style.com": {
+            "epoch": "1576018800",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "alexander-west.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "alexanderaldaya.com": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "alexanderbdobbs.com": {
+            "epoch": "1697752800",
+            "expiration_date": "20-oct-2023",
+            "state": "future"
+        },
+        "alexanderbecker.net": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "alexanderbeetroot.com": {
+            "epoch": "1579042800",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
+        "alexanderbrade.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "alexanderfloors.org": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "alexanderfordventures.com": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "alexandergorban.com": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "alexanderhomestead.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "alexanderjarl.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "alexandermacnab.com": {
+            "epoch": "1691359200",
+            "expiration_date": "07-aug-2023",
+            "state": "future"
+        },
+        "alexandermcqueenscarf.us": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "alexandernathanson.net": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "alexandernigeria.com": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "alexanderperfumery.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "alexanderpleasance.net": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "alexandersecurity.biz": {
+            "epoch": "1578610800",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "alexandersofballybofey.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "alexandersullivan.net": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "alexanderwangonline.com": {
+            "epoch": "1693778400",
+            "expiration_date": "04-sep-2023",
+            "state": "future"
+        },
+        "alexandra-connor.com": {
+            "epoch": "1574463600",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "alexandradickman.com": {
+            "epoch": "1574895600",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "alexandramargaret.net": {
+            "epoch": "1579302000",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "alexandranatale.com.br": {
+            "epoch": "1613602800",
+            "expiration_date": "18-feb-2021",
+            "state": "future"
+        },
+        "alexandrapenfold.com": {
+            "epoch": "1678662000",
+            "expiration_date": "13-mar-2023",
+            "state": "future"
+        },
+        "alexandrarotary.com": {
+            "epoch": "1649023200",
+            "expiration_date": "04-apr-2022",
+            "state": "future"
+        },
+        "alexandrasorenson.com": {
+            "epoch": "1584745200",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "alexandrasosa.com": {
+            "epoch": "1548543600",
+            "expiration_date": "27-jan-2019",
+            "state": "past"
+        },
+        "alexandrasternin.com": {
+            "epoch": "1596837600",
+            "expiration_date": "08-aug-2020",
+            "state": "future"
+        },
+        "alexandrastevenson.net": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "alexandrateddi.su": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "alexandre-azaria.com": {
+            "epoch": "1694901600",
+            "expiration_date": "17-sep-2023",
+            "state": "future"
+        },
+        "alexandreagogue.com": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "alexandrearchitecte.fr": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "alexandrecabello.com.br": {
+            "epoch": "1551481200",
+            "expiration_date": "02-mar-2019",
+            "state": "past"
+        },
+        "alexandrelatsa.ru": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "alexandrepaiva.com": {
+            "epoch": "1585519200",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "alexandria-locksmithservice.com": {
@@ -60940,14 +61240,184 @@
             "expiration_date": "13-oct-2019",
             "state": "future"
         },
+        "alexandria-woodbridge-buying-selling-homes.com": {
+            "epoch": "1583017200",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "alexandriaarlingtonwib.com": {
+            "epoch": "1588802400",
+            "expiration_date": "07-may-2020",
+            "state": "future"
+        },
+        "alexandriadent.ru": {
+            "epoch": "1577314800",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "alexandrinadanette.su": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "alexandrkogut.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "alexandrolima.com": {
+            "epoch": "1579734000",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "alexandrunagy.ro": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "alexandshay.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "alexapackages.se": {
+            "epoch": "1573254000",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "alexapharma.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "alexasupport.com": {
+            "epoch": "1577833200",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
+        "alexasupport.net": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "alexasupportskyfi.com": {
+            "epoch": "1585778400",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
+        "alexawnings.com": {
+            "epoch": "1584486000",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
         "alexbensonship.com": {
             "epoch": "1569967200",
             "expiration_date": "02-oct-2019",
             "state": "future"
         },
+        "alexbetting.com": {
+            "epoch": "1590444000",
+            "expiration_date": "26-may-2020",
+            "state": "future"
+        },
+        "alexbonniard.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "alexboolooobinna.info": {
+            "epoch": "1578870000",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "alexcardoso.com.br": {
+            "epoch": "1572562800",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "alexcelts.com": {
+            "epoch": "1576537200",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "alexclick.ru": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "alexdvg.com": {
+            "epoch": "1579734000",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "alexearn.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "alexelgy.com": {
+            "epoch": "1575327600",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "alexeliades.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "alexey-gromov.ru": {
+            "epoch": "1587160800",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
+        },
+        "alexfarm-eg.co": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "alexholaw.com": {
+            "epoch": "1589752800",
+            "expiration_date": "18-may-2020",
+            "state": "future"
+        },
+        "alexholiday.com": {
+            "epoch": "1650405600",
+            "expiration_date": "20-apr-2022",
+            "state": "future"
+        },
+        "alexiamellisent.asia": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "alexianainmobiliaria.page": {
+            "epoch": "1580770800",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "alexim.com.br": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "alexinaardelia.su": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
         "alexine.net": {
             "epoch": "1571263200",
             "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "alexinetorey.ru": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "alexinsulation.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
             "state": "future"
         },
         "alexphoto.biz": {
