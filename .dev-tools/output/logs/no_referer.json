@@ -1426,5 +1426,45 @@
     "1553326056.6220057": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553326501.7382433": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553326502.9708478": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553326743.4131174": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553326847.1454248": {
+        "domain": "akalistecard.club",
+        "extension": "club"
+    },
+    "1553326989.6905334": {
+        "domain": "akbank-direkt-bireysel-firsatkampanyasi-tr.club",
+        "extension": "club"
+    },
+    "1553326990.2981634": {
+        "domain": "akbank-direkt-bireyselmusteri-kampanya.club",
+        "extension": "club"
+    },
+    "1553326990.881357": {
+        "domain": "akbank-direkt-esubekampanyasi.club",
+        "extension": "club"
+    },
+    "1553326991.4756207": {
+        "domain": "akbank-direkt-firsatkampanyasi.club",
+        "extension": "club"
+    },
+    "1553326997.2676067": {
+        "domain": "akbank-direkt-guncel-puan-kampanyasi.club",
+        "extension": "club"
+    },
+    "1553327009.5994956": {
+        "domain": "akbank-mobilsube-kampanya-firsati.club",
+        "extension": "club"
     }
 }
