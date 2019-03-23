@@ -82305,6 +82305,206 @@
             "expiration_date": "11-jun-2019",
             "state": "future"
         },
+        "api.sg": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "apipeg.com": {
+            "epoch": "1582844400",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "apipoker.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "apipro.com.br": {
+            "epoch": "1582412400",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "apirajasthan.org": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "apironco.com": {
+            "epoch": "1662156000",
+            "expiration_date": "03-sep-2022",
+            "state": "future"
+        },
+        "apirpk.ru": {
+            "epoch": "1583967600",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
+        "apirproekt.ru": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "apiryrkxkhil.com": {
+            "epoch": "1574463600",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "apis-help.live": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "apis-meble.pl": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "apisafe.net": {
+            "epoch": "1572303600",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "apisapple.com": {
+            "epoch": "1582066800",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "apiscr.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "apitrade.pro": {
+            "epoch": "1580079600",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "apitunestoreuk.com": {
+            "epoch": "1584831600",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
+        "apiurl.org": {
+            "epoch": "1574290800",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "apiweat.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "apiworx.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "apixaban.stream": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "apjaxiwuv.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "apk-get-update.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "apk-source-sell.com": {
+            "epoch": "1580338800",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "apk-store.info": {
+            "epoch": "1579906800",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
+        "apk-update.info": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "apkandro.stream": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "apkaorder.com": {
+            "epoch": "1609801200",
+            "expiration_date": "05-jan-2021",
+            "state": "future"
+        },
+        "apkappfull.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "apkawasher.com": {
+            "epoch": "1607468400",
+            "expiration_date": "09-dec-2020",
+            "state": "future"
+        },
+        "apkbank.net": {
+            "epoch": "1572562800",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "apkcake.com": {
+            "epoch": "1578006000",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "apkcash.mobi": {
+            "epoch": "1579993200",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
+        },
+        "apkcc.com": {
+            "epoch": "1582239600",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "apkcoservice.com": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "apkdeposit.com": {
+            "epoch": "1569880800",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "apkdownloadforwindows.com": {
+            "epoch": "1578783600",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "apkdroid.ga": {
+            "epoch": "1766098800",
+            "expiration_date": "19-dec-2025",
+            "state": "future"
+        },
+        "apkfiles.com": {
+            "epoch": "1577660400",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "apkforchromebook.com": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "apkfree.info": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
         "appsecurityr.com": {
             "epoch": "1536789600",
             "expiration_date": "13-sep-2018",
