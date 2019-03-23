@@ -50500,6 +50500,11 @@
             "expiration_date": "08-mar-2020",
             "state": "future"
         },
+        "ad.style": {
+            "epoch": "1575500400",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
         "adamsfilms.com": {
             "epoch": "1567202400",
             "expiration_date": "31-aug-2019",
