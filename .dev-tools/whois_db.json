@@ -62400,9 +62400,94 @@
             "expiration_date": "30-oct-2018",
             "state": "past"
         },
+        "all-dating-secrets.com": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "all-day-chemist.us": {
+            "epoch": "1584486000",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
+        "all-diplom.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "all-dog-breeds.info": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "all-downloads-now.com": {
+            "epoch": "1573426800",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "all-e-buying.com": {
+            "epoch": "1580857200",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "all-emailsupport.com": {
+            "epoch": "1584054000",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "all-for-one.support": {
+            "epoch": "1575673200",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "all-free-girls-here.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "all-free-songs.com": {
+            "epoch": "1622844000",
+            "expiration_date": "05-jun-2021",
+            "state": "future"
+        },
+        "all-freebie.com": {
+            "epoch": "1590703200",
+            "expiration_date": "29-may-2020",
+            "state": "future"
+        },
+        "all-fuck.com": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "all-greenlandscape.com": {
+            "epoch": "1582498800",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "all-in-huahin.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "all-index.com": {
+            "epoch": "1572735600",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
         "all-india-escorts.com": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "all-infowow.ru": {
+            "epoch": "1582585200",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
+        "all-instagram.com": {
+            "epoch": "1583881200",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "all-internet-security.com": {
@@ -62410,9 +62495,69 @@
             "expiration_date": "17-jan-2020",
             "state": "future"
         },
+        "all-kaigo.net": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "all-kredit.com": {
+            "epoch": "1553814000",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "all-kredit24.ru": {
+            "epoch": "1583362800",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "all-kredits.com": {
+            "epoch": "1553814000",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "all-ladies-here.com": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "all-ladies-here1.com": {
+            "epoch": "1572476400",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "all-lolitas.com": {
+            "epoch": "1575068400",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
         "all-lyrics.org": {
             "epoch": "1568584800",
             "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "all-mobile-files.ru": {
+            "epoch": "1585436400",
+            "expiration_date": "29-mar-2020",
+            "state": "future"
+        },
+        "all-mobile-phones.shop": {
+            "epoch": "1574982000",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "all-mp3-download.com": {
+            "epoch": "1573772400",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "all-nachadatainfo.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "all-nettools.com": {
+            "epoch": "1686002400",
+            "expiration_date": "06-jun-2023",
             "state": "future"
         },
         "all-number.com": {
@@ -62420,14 +62565,194 @@
             "expiration_date": "17-sep-2020",
             "state": "future"
         },
+        "all-online-casino-gambling.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "all-option.com": {
+            "epoch": "1578092400",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "all-pcrepairs.com": {
+            "epoch": "1578956400",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "all-player.pl": {
+            "epoch": "1587333600",
+            "expiration_date": "20-apr-2020",
+            "state": "future"
+        },
+        "all-pravda.ru": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "all-premium-accounts.com": {
+            "epoch": "1578697200",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "all-products-dir.com": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "all-radio.me": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "all-radio.net": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "all-reseller.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "all-reverse-mortgage.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "all-rides.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "all-rise.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "all-ru.net": {
+            "epoch": "1576537200",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "all-rxcenters365.ru": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "all-rxcenters724.ru": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "all-rxdrugs.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "all-rxmeds.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "all-secured-storage.com": {
+            "epoch": "1576710000",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "all-serve724.ru": {
+            "epoch": "1591394400",
+            "expiration_date": "06-jun-2020",
+            "state": "future"
+        },
+        "all-setup.com": {
+            "epoch": "1580943600",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "all-slovenia.com.ua": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "all-status.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "all-stream.info": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
         "all-streaming-media.com": {
             "epoch": "1543701600",
             "expiration_date": "02-dec-2018",
             "state": "future"
         },
+        "all-systemdisplays.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "all-texproducts.com": {
+            "epoch": "1575241200",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "all-text.ru": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
         "all-thumbs.nu": {
             "epoch": "1540850400",
             "expiration_date": "30-oct-2018",
+            "state": "past"
+        },
+        "all-time-update2018.com": {
+            "epoch": "1553986800",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "all-top-meds24hs.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "all-ukbadcreditcreditcard-ok.live": {
+            "epoch": "1582326000",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "all-ukbadcreditcreditcards-ok.live": {
+            "epoch": "1583535600",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "all-verify.net": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "all-wallpaper.ru": {
+            "epoch": "1574550000",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "all-women-dates.com": {
+            "epoch": "1590789600",
+            "expiration_date": "30-may-2020",
+            "state": "future"
+        },
+        "all-you-want.org": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "all.support": {
+            "epoch": "1546988400",
+            "expiration_date": "09-jan-2019",
             "state": "past"
         },
         "all4invest.info": {
@@ -62488,6 +62813,106 @@
         "allcredits.su": {
             "epoch": "1570140000",
             "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "allcrypto.biz": {
+            "epoch": "1548284400",
+            "expiration_date": "24-jan-2019",
+            "state": "past"
+        },
+        "allcrypto.live": {
+            "epoch": "1574118000",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "allcrypto.software": {
+            "epoch": "1581030000",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "allcryptoquick.app": {
+            "epoch": "1576278000",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "allcustomercarenumbers.net": {
+            "epoch": "1581807600",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "allcustomersupportnumber.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "allcuteboys.com": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "allcybersearch.com": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "alldating.us": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "allday.com.ua": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "allday.in.ua": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "allday2.com": {
+            "epoch": "1605394800",
+            "expiration_date": "15-nov-2020",
+            "state": "future"
+        },
+        "alldayaccounting.com": {
+            "epoch": "1576278000",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "alldaycheats.com": {
+            "epoch": "1580684400",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "alldayquotes.com": {
+            "epoch": "1546815600",
+            "expiration_date": "07-jan-2019",
+            "state": "past"
+        },
+        "alldaytechsupport.com": {
+            "epoch": "1547679600",
+            "expiration_date": "17-jan-2019",
+            "state": "past"
+        },
+        "alldaz.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "alldialer.com": {
+            "epoch": "1577228400",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "alldirectlinks.com": {
+            "epoch": "1572390000",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "alldistributions.com": {
+            "epoch": "1584313200",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "alldubai.biz": {
