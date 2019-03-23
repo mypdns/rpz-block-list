@@ -1518,5 +1518,21 @@
     "1553328942.0727327": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553329418.279161": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553329419.5479565": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553329681.3377366": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553329833.8532007": {
+        "domain": "alarmsecure24.club",
+        "extension": "club"
     }
 }
