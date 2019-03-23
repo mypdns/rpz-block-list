@@ -1738,5 +1738,21 @@
     "1553339667.0806925": {
         "domain": "a.trust.zone",
         "extension": "zone"
+    },
+    "1553340149.1722763": {
+        "domain": "a-prime-checkingaccount.zone",
+        "extension": "zone"
+    },
+    "1553340155.241119": {
+        "domain": "a-prime-savingsaccount.zone",
+        "extension": "zone"
+    },
+    "1553340368.1780157": {
+        "domain": "a.trust.zone",
+        "extension": "zone"
+    },
+    "1553340572.5826602": {
+        "domain": "alsupport.club",
+        "extension": "club"
     }
 }
