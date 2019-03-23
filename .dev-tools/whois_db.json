@@ -59640,6 +59640,386 @@
             "expiration_date": "26-mar-2019",
             "state": "future"
         },
+        "alert-safety-page.com": {
+            "epoch": "1582585200",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
+        "alert-secure2appstore.business": {
+            "epoch": "1579647600",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "alert-support.com": {
+            "epoch": "1574031600",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "alert-systems.ru": {
+            "epoch": "1584486000",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
+        "alert-sz11.stream": {
+            "epoch": "1546815600",
+            "expiration_date": "07-jan-2019",
+            "state": "past"
+        },
+        "alert-sz31.stream": {
+            "epoch": "1546815600",
+            "expiration_date": "07-jan-2019",
+            "state": "past"
+        },
+        "alert-sz51.stream": {
+            "epoch": "1546815600",
+            "expiration_date": "07-jan-2019",
+            "state": "past"
+        },
+        "alert-sz71.stream": {
+            "epoch": "1546815600",
+            "expiration_date": "07-jan-2019",
+            "state": "past"
+        },
+        "alert-sz91.stream": {
+            "epoch": "1546815600",
+            "expiration_date": "07-jan-2019",
+            "state": "past"
+        },
+        "alert-view1991.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "alert-web.com": {
+            "epoch": "1572994800",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "alert-wecare.org": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "alert-wells-fargo.com": {
+            "epoch": "1548543600",
+            "expiration_date": "27-jan-2019",
+            "state": "past"
+        },
+        "alert-wf-mobile.us": {
+            "epoch": "1573513200",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "alert-wifi582.stream": {
+            "epoch": "1548716400",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
+        },
+        "alert-windows-defender.win": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "alert.fyi": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "alert.solutions": {
+            "epoch": "1582844400",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "alerte-86t5.win": {
+            "epoch": "1552086000",
+            "expiration_date": "09-mar-2019",
+            "state": "past"
+        },
+        "alerte-8e12.win": {
+            "epoch": "1552086000",
+            "expiration_date": "09-mar-2019",
+            "state": "past"
+        },
+        "alerte-8s62.win": {
+            "epoch": "1551481200",
+            "expiration_date": "02-mar-2019",
+            "state": "past"
+        },
+        "alerte-8s75.win": {
+            "epoch": "1551481200",
+            "expiration_date": "02-mar-2019",
+            "state": "past"
+        },
+        "alerte-8w21.win": {
+            "epoch": "1551481200",
+            "expiration_date": "02-mar-2019",
+            "state": "past"
+        },
+        "alerte-91f8.win": {
+            "epoch": "1552086000",
+            "expiration_date": "09-mar-2019",
+            "state": "past"
+        },
+        "alerte-93674.win": {
+            "epoch": "1548716400",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
+        },
+        "alerte-936er.win": {
+            "epoch": "1548716400",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
+        },
+        "alerte-936es.win": {
+            "epoch": "1548716400",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
+        },
+        "alerte-946-9610.win": {
+            "epoch": "1549926000",
+            "expiration_date": "12-feb-2019",
+            "state": "past"
+        },
+        "alerte-95j1.win": {
+            "epoch": "1552086000",
+            "expiration_date": "09-mar-2019",
+            "state": "past"
+        },
+        "alerte-962-4940.win": {
+            "epoch": "1549926000",
+            "expiration_date": "12-feb-2019",
+            "state": "past"
+        },
+        "alerte-969-5207.win": {
+            "epoch": "1550012400",
+            "expiration_date": "13-feb-2019",
+            "state": "past"
+        },
+        "alerte-998-6618.win": {
+            "epoch": "1550012400",
+            "expiration_date": "13-feb-2019",
+            "state": "past"
+        },
+        "alerte-9x27.win": {
+            "epoch": "1552086000",
+            "expiration_date": "09-mar-2019",
+            "state": "past"
+        },
+        "alerte-a1380.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a1740.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a2126.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a2782.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a3614.win": {
+            "epoch": "1547247600",
+            "expiration_date": "12-jan-2019",
+            "state": "past"
+        },
+        "alerte-a4084.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a4146.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a4485.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a5030.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a5717.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a5891.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a6070.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a6707.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a6753.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a6764.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a7377.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a7577.win": {
+            "epoch": "1547247600",
+            "expiration_date": "12-jan-2019",
+            "state": "past"
+        },
+        "alerte-a7684.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a7711.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a7959.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a8400.win": {
+            "epoch": "1547074800",
+            "expiration_date": "10-jan-2019",
+            "state": "past"
+        },
+        "alerte-a8669.win": {
+            "epoch": "1549666800",
+            "expiration_date": "09-feb-2019",
+            "state": "past"
+        },
+        "alerte-a9947.win": {
+            "epoch": "1547247600",
+            "expiration_date": "12-jan-2019",
+            "state": "past"
+        },
+        "alerte-b1109.win": {
+            "epoch": "1550098800",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
+        },
+        "alerte-b1241.win": {
+            "epoch": "1549926000",
+            "expiration_date": "12-feb-2019",
+            "state": "past"
+        },
+        "alerte-b1330.win": {
+            "epoch": "1549926000",
+            "expiration_date": "12-feb-2019",
+            "state": "past"
+        },
+        "alerte-b1334.win": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "alerte-b1474.win": {
+            "epoch": "1550098800",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
+        },
+        "alerte-b1799.win": {
+            "epoch": "1550098800",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
+        },
+        "alerte-b2475.win": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "alerte-b2723.win": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "alerte-b2753.win": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "alerte-b2980.win": {
+            "epoch": "1550271600",
+            "expiration_date": "16-feb-2019",
+            "state": "past"
+        },
+        "alerte-b3078.win": {
+            "epoch": "1550271600",
+            "expiration_date": "16-feb-2019",
+            "state": "past"
+        },
+        "alerte-b3169.win": {
+            "epoch": "1550098800",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
+        },
+        "alerte-b3727.win": {
+            "epoch": "1548889200",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
+        },
+        "alerte-b3853.win": {
+            "epoch": "1550271600",
+            "expiration_date": "16-feb-2019",
+            "state": "past"
+        },
+        "alerte-b4362.win": {
+            "epoch": "1550098800",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
+        },
+        "alerte-b4723.win": {
+            "epoch": "1549926000",
+            "expiration_date": "12-feb-2019",
+            "state": "past"
+        },
+        "alerte-b4787.win": {
+            "epoch": "1549926000",
+            "expiration_date": "12-feb-2019",
+            "state": "past"
+        },
+        "alerte-b5027.win": {
+            "epoch": "1550098800",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
+        },
+        "alerte-b5231.win": {
+            "epoch": "1550271600",
+            "expiration_date": "16-feb-2019",
+            "state": "past"
+        },
+        "alerte-b541.win": {
+            "epoch": "1549926000",
+            "expiration_date": "12-feb-2019",
+            "state": "past"
+        },
         "alessandraleone.com": {
             "epoch": "1547244000",
             "expiration_date": "12-jan-2019",
