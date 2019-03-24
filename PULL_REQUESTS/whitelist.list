@@ -49,7 +49,6 @@ amazon.es
 amazon.fr
 amazon.in
 amazon.it
-amzn.to
 android.clients.google.com
 androidforums.com
 ap.spotify.com
@@ -102,7 +101,6 @@ bing.no
 bing.pl
 bing.ru
 bing.se
-bit.ly
 bitbucket.org
 bleacherreport.com
 blocklist.kowabit.de
@@ -134,7 +132,6 @@ chat.facebook.com
 chatenabled.mail.google.com
 chicago.cbslocal.com
 chomikuj.pl
-chrome.google.com
 client.dropbox.com
 clients2.google.com
 clients3.google.com
@@ -186,6 +183,7 @@ digitaltrends.com
 directvnow.com
 discovermagazine.com
 discussions.apple.com
+dickssportinggoods.com
 displaycatalog.mp.microsoft.com
 disqus.com
 dl-client.dropbox.com
@@ -195,7 +193,6 @@ dl.dropbox.com
 dl.dropboxusercontent.com
 dl.free.fr
 dl.google.com
-dlvr.it
 dns.msftncsi.com
 docs.google.com
 download.cnet.com
@@ -276,7 +273,6 @@ freenet.de
 frys.com
 ftp.heanet.ie
 funnyordie.com
-g.co
 g.live.com
 gap.com
 gawker.com
@@ -302,7 +298,6 @@ gmx.de
 gmx.es
 gmx.net
 godaddy.com
-goo.gl
 googleapis.com
 avatars1.githubusercontent.com
 avatars2.githubusercontent.com
@@ -310,7 +305,6 @@ avatars3.githubusercontent.com
 avatars4.githubusercontent.com
 googleusercontent.com
 googlevideo.com
-graph.facebook.com
 gravatar.com
 groupon.com
 groups.google.com
@@ -355,7 +349,6 @@ ipinfo.io
 ipla.tv
 istockphoto.com
 itunes.apple.com
-j.mp
 jabcreations.com
 jcpenney.com
 jdownloader.org
@@ -504,7 +497,6 @@ ouo.io
 outlook.com
 outlook.live.com
 outlook.office365.com
-ow.ly
 p.imgur.com
 pando.com
 paper.li
@@ -564,8 +556,6 @@ REG ^(?!.*\.?(popcon)).*\.ubuntu\.com$
 REG ^(?!.*\.?(vstats)).*\.digitaltrends\.com$
 REG ^(?!.*\.?(watchdog\.ohio|dap\.digitalgov|stats\.ssa|adgallery\.whitehousedrugpolicy)).*\.gov$
 RZD ebay
-RZD google
-RZD openload
 RZD pulsar.ebay
 res.cloudinary.com
 road.adblock.ro
@@ -653,7 +643,6 @@ sysctl.org
 szczecin.tvp.pl
 t-online.at
 t-online.de
-t.co
 t.umblr.com
 talk.google.com
 talk.l.google.com
@@ -676,7 +665,6 @@ thetvdb.com
 theverge.com
 thumbs2.imgbox.com
 time.com
-tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tlc.com
@@ -770,7 +758,6 @@ xkms.xbolive.com
 xmpp-server.l.google.com
 xsts.auth.xboxlive.com
 yahoo.com
-youtu.be
 youtube-nocookie.com
 youtube.com
 yt3.ggpht.com
