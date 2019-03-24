@@ -44923,7 +44923,20 @@
             "bitcoin-min.site",
             "bitcoin-miner.site",
             "bitcoin-mixer.online",
-            "bitcoin-mixer.tk"
+            "bitcoin-mixer.tk",
+            "bitcoin-money-machine.com",
+            "bitcoin-money.info",
+            "bitcoin-multiplier.net",
+            "bitcoin-new.net",
+            "bitcoin-news.xyz",
+            "bitcoin-news2019.com",
+            "bitcoin-online-bingo.com",
+            "bitcoin-org.xyz",
+            "bitcoin-pay.online",
+            "bitcoin-pay.pw",
+            "bitcoin-payment.online",
+            "bitcoin-physical.com",
+            "bitcoin-plug.site"
         ],
         "to_test": [
             ".aircanada.ca",
