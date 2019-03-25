@@ -8,6 +8,10 @@ env:
   - TZ: Europe/Copenhagen
   - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
+os:
+  - linux
+  - osx
+
 before_install:
   - sudo apt-get install -y wget curl
 
