@@ -13,13 +13,8 @@ before_install:
 
 language: python
 
-os:
-  - linux
-  - osx
-
 python:
   - "3.6"
-  - "3.5"
 
 matrix:
   fast_finish: true
