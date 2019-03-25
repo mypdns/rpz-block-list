@@ -7,9 +7,6 @@ env:
   - GIT_BRANCH: master
   - TZ: Europe/Copenhagen
   - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
-  - PYTHON_VERSION="3.5"
-  - PYTHON_VERSION="3.6"
-  - PYTHON_VERSION="3.7"
 
 before_install:
   - sudo apt-get install -y wget curl
