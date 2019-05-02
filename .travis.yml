@@ -28,14 +28,12 @@ addons:
   apt:
     packages:
       - dos2unix
-      - libc6-dev
 
 install:
   - pip3 install --upgrade pip
   - pip3 install PyFunceble ultimate-hosts-blacklist-whitelist
 
 script:
-
   - bash .dev-tools/pre-deploy.sh
 
 

@@ -1,0 +1,3 @@
+[console_scripts]
+changelog = changelog.cmd:main
+

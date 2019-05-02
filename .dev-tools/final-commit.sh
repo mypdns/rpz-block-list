@@ -30,7 +30,6 @@ sudo ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
 
 exit ${?}
 
-
 # MIT License
 
 # Copyright (c) 2017 Mitchell Krog - mitchellkrog@gmail.com
