@@ -25,9 +25,7 @@ example.org  CNAME   rpz-passthru.
 
 ### New Domain Submissions:
 
-1. [ ] Does your submission pass tests?
-1. [ ] Have you lint your code locally prior to submission?
-1. [ ] Added ScreenDump for prove of False Positive
+* [ ] Added ScreenDump for prove of False Positive
 
 ### Changes to Core Features:
 
